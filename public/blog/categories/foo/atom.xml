@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ezl]]></title>
-  <link href="http://www.ezliu.com//atom.xml" rel="self"/>
+  <title><![CDATA[Category: foo | ezl]]></title>
+  <link href="http://www.ezliu.com//blog/categories/foo/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
   <updated>2012-09-14T06:28:46-05:00</updated>
   <id>http://www.ezliu.com//</id>
@@ -12,20 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[This is Another post]]></title>
-    <link href="http://www.ezliu.com//blog/this-is-another-post/"/>
-    <updated>2012-09-14T05:50:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/this-is-another-post</id>
-    <content type="html"><![CDATA[<p>This is the song la la alsdjflasd kjfalsdk jflaskd
-sadfjlkadsfhlasd
-asdhfkaljfhlaksdjfh
-kajsdhfklasjdfhlasdkfh</p>
-
-<p>once upon a time i went to work and in the morning i had to walk to the brown line stop and take the traion in to the loop then i exit at the van buren stop which is where my office is.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[zombie ninjas Attack]]></title>

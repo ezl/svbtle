@@ -1,6 +1,6 @@
 article{
 	border-bottom: 1px solid $color-gray04;
-	border-top: 1px solid $color-gray05;
+	// border-top: 1px solid $color-gray05;
 	padding: 30px;
 	position: relative;
 	@media screen and (max-width: 800px){
@@ -8,10 +8,12 @@ article{
 	}
 	@media screen and (max-width: 600px){
 	}
+        padding: 45px 0 45px 45px;
 	h1.title{
 		font-weight: 300;
 		line-height: 35px;
 		margin-bottom: 20px;
+                max-width: 500px;
 		a{
 			color: $color-gray01;
 		}
@@ -39,6 +41,7 @@ article{
 		}
 		p, blockquote, ul, ol, dl, table, iframe, h1, h2, h3, h4, h5, h6, .video-container{
 			margin-top: 10px;
+                        max-width: 500px;
 		}
 		ul, ol, dl{
 			margin-left: 20px;

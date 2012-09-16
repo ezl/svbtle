@@ -3,7 +3,8 @@
 	height: 20px;
 	line-height: 20px;
 	position: relative;
-	@include border-shadow();
+	// @include border-shadow();
+        border-bottom: 1px solid $color-gray04;
 	a{
 		&:hover{
 			text-decoration: underline;

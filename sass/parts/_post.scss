@@ -1,22 +1,17 @@
 .post{
 	h1.title, .entry-content{
-		margin-left: 200px;
-		@media screen and (max-width: 800px){
-			margin-left: 0;
-		}
+		margin-left: 0px;
 	}
 	.meta{
-		position: absolute;
+		// position: absolute;
 		top: 85px;
 		line-height: 2;
 		font-size: 0.9em;
 		color: $color-gray02;
-		width: 170px;
-		@media screen and (max-width: 800px){
-			margin-top: 15px;
-			position: static;
-			width: auto;
-		}
+		// width: 170px;
+		margin-top: 15px;
+		position: static;
+		width: auto;
 		a{
 			@include link-colors($color-gray02, $color-gray01);
 			@include transition(0.3s);

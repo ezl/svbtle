@@ -1,15 +1,70 @@
 $header-height: 30px;
 
+#header {
+    width: 27%;
+    padding-left: 1.5%;
+    position: fixed;
+    z-index: 1;
+    min-height: 100%;
+    min-width: 240px;
+
+    @media (max-width: 630px) {
+        display: block;
+        position: relative;
+        width: auto;
+        height: auto;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        min-height: 0;
+    }
+}
+
+#content {
+
+    margin-left: 27%;
+    min-width: 658px;
+    position: relative;
+    z-index: 10;
+    background-color: white;
+    border-left: 1px solid #E3E3E3;
+    backface-visibility: visible;
+    -webkit-backface-visibility: visible;
+    -moz-backface-visibility: visible;
+    min-height: 900px;
+    z-index: 99999;
+
+
+    @media (max-width: 630px) {
+        margin: 0;
+        padding: 0;
+        border: none;
+        display: block;
+        width: auto;
+        min-width: 0;
+        margin-top: 15px;
+        clear: both;
+        background-color: 
+        white;
+        position: absolute;
+        width: 100%;
+        max-width: 100%;
+    }
+
+}
+
 #header{
-	height: $header-height;
-	padding: 30px 0;
-	border-bottom: 1px solid $color-gray04;
-	line-height: $header-height;
-	@media screen and (max-width: 1040px){
-		height: auto;
-		position: relative;
-		padding-bottom: 10px;
-	}
+
+//	height: $header-height;
+//	padding: 30px 0;
+//	border-bottom: 1px solid $color-gray04;
+//	line-height: $header-height;
+//	@media screen and (max-width: 1040px){
+//		height: auto;
+//		position: relative;
+//		padding-bottom: 10px;
+//	}
+
 	a{
 		color: $color-gray01;
 		@include transition(color 0.3s);
@@ -210,94 +265,15 @@ $header-height: 30px;
 			}
 		}
 	}
-	.search{
-		position: absolute;
-		top: 0;
-		right: 0;
-		.button{
-			background: $color-gray04;
-			width: 30px;
-			height: 30px;
-			position: absolute;
-			top: 1px;
-			right: -1px;
-			@include border-radius(0 5px 5px 0);
-			&:before{
-				content: "\f002";
-				color: #f2f2f2;
-				font: 20px $font-icon;
-				line-height: 30px;
-				position: absolute;
-				top: 0;
-				left: 7px;
-			}
-			&.on{
-				background: $color-gray03;
-				&:before{
-					content: "\f00d";
-				}
-			}
-		}
-		.container{
-			position: absolute;
-			right: 51px;
-			z-index: 1;
-		}
-		input[type="text"]{
-			background: #fff;
-			border: 1px solid $color-gray04;
-			border-right: none;
-			color: $color-gray02;
-			font: 13px $font-default;
-			height: 30px;
-			width: 100%;
-			padding: 0 10px;
-			@include border-radius(5px 0 0 5px);
-		}
-	}
 }
 #sub-nav{
 	@media screen and (max-width: 1040px){
-		position: absolute;
+		// position: absolute;
 		top: 30px;
 		right: 0;
 	}
 	@media screen and (max-width: 600px){
 		display: none;
-	}
-	.search{
-		float: left;
-		margin-top: 1px;
-		position: relative;
-		@media screen and (max-width: 1040px){
-			float: none;
-			margin-top: 15px;
-		}
-		&:before{
-			content: "\f002";
-			color: $color-gray03;
-			font: 18px $font-icon;
-			line-height: 30px;
-			position: absolute;
-			top: 0;
-			right: 125px;
-		}
-		input[type="text"]{
-			background: #f2f2f2;
-			color: $color-gray02;
-			border: 1px solid $color-gray04;
-			font: 13px $font-default;
-			padding: 6px 15px 6px 35px;
-			width: 100px;
-			@include transition(0.3s);
-			@include border-radius(15px);
-			&:focus, &:active{
-				background: #fff;
-				border-top: 1px solid $color-gray03;
-				color: $color-gray01;
-				outline: none;
-			}
-		}
 	}
 	.social{
 		float: left;

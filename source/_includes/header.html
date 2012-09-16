@@ -15,7 +15,7 @@
 		</div>
 	</div>
 </nav>
-<nav id="sub-nav" class="alignright">
+<nav id="sub-nav" class="alignrightx">
 	<div class="social">
 		{% if site.facebook_user %}
 		<a class="facebook" href="http://www.facebook.com/{{ site.facebook_user }}" title="Facebook">Facebook</a>
@@ -42,9 +42,5 @@
 		<a class="rss" href="{{ site.subscribe_rss }}" title="RSS">RSS</a>
 		{% endif %}
 	</div>
-	<form class="search" action="{{ site.simple_search }}" method="get">
-		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
-	</form>
 </nav>
 {% include custom/header.html %}

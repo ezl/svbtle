@@ -5,17 +5,18 @@
 			content: "";
 			position: absolute;
 			bottom: 0;
-			width: 200px;
+			width: 150px;
 			border-top: 1px solid $color-gray04;
 		}
 	}
 	.year{
 		line-height: 35px;
-		width: 200px;
+		width: 150px;
 		position: absolute;
 		top: 0;
 		padding-top: 15px;
-		border-top: 1px solid #fff;
+                padding: 45px;
+		// border-top: 1px solid #fff;
 		&:before{
 			content: "";
 			position: absolute;
@@ -23,16 +24,27 @@
 			width: 100%;
 			border-top: 1px solid $color-gray04;
 		}
-		@media screen and (max-width: 600px){
+		@media screen and (max-width: 880px){
+                    padding: 30px;
+		}
+		@media screen and (max-width: 630px){
 			position: relative;
+                        text-align: center;
 			width: 100%;
+                        padding: 15px;
 		}
 	}
 	article{
-		margin-left: 200px;
+                border-left: 1px solid $color-gray04;
+		margin-left: 150px;
 		padding: 15px 0;
-		@media screen and (max-width: 600px){
+                padding: 45px;
+		@media screen and (max-width: 880px){
+                    padding: 30px;
+		}
+		@media screen and (max-width: 630px){
 			margin-left: 0;
+                        padding: 15px;
 			&:first-of-type{
 				border-top: none;
 				padding-top: 30px;

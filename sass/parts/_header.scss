@@ -1,14 +1,12 @@
 $header-height: 30px;
 
-#logo {
-margin-top: 30px;
-}
-
 #header > * {
-margin-left: 30px;
+margin: 0 30px;
 }
 
 #header {
+    font-size: 14px;
+    line-height: 18px;
     width: 27%;
     padding: 0;
 
@@ -52,7 +50,8 @@ margin-left: 30px;
     @media (max-width: 630px) {
         margin: 0;
         padding: 0;
-        border: none;
+        border-left: none;
+        border-top: 1px solid #E3E3E3;
         display: block;
         width: auto;
         min-width: 0;
@@ -63,6 +62,76 @@ margin-left: 30px;
         max-width: 100%;
     }
 
+}
+
+#logo {
+margin-top: 30px;
+}
+
+#header #title a {
+    font-family: "freight-sans-pro",sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 30px;
+    border: none;
+    padding: 0;
+    display: block;
+    color: black;
+}
+
+#author {
+    font-family: "freight-sans-pro",sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-size: 13px;
+    line-height: 16px;
+    border: none;
+    padding: 0;
+    display: block;
+    color: #585858;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+#tagline, #likes {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    color: #585C60;
+    -webkit-font-smoothing: antialiased;
+    max-width: none;
+    margin-bottom: 25px;
+}
+
+@media (min-width: 630px) {
+    #main-nav li {
+        display: block;
+        clear: both;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 15px;
+    }
+    #main-nav a {
+        display: inline-block;
+        width: 110px;
+        font-size: 15px;
+        line-height: 14px;
+        border: 4px solid #F8F8F8;
+        &:hover {
+            border: 4px solid red;
+        }
+        border-radius: 20px;
+        -moz-border-radius: 20px;
+        -webkit-border-radius: 20px;
+        z-index: 999;
+        padding: 7px;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: #999;
+        //margin-left: -15px;
+        font-weight: 600;
+        position: relative;
+    }
 }
 
 #header{
@@ -85,10 +154,11 @@ margin-left: 30px;
 		}
 	}
 	h1{
-		float: left;
-		font-weight: 300;
+                margin-top: 20px;
+                margin-bottom: 10px;
+		font-weight: 900;
 		font-size: 30px;
-		@media screen and (max-width: 1040px){
+		@media screen and (min-width: 630px){
 			float: none;
 		}
 	}
@@ -96,6 +166,7 @@ margin-left: 30px;
 #main-nav{
 	float: left;
 	margin-left: 30px;
+        margin-bottom: 15px;
 	@media screen and (max-width: 1040px){
 		float: none;
 	}
@@ -105,14 +176,14 @@ margin-left: 30px;
 		}
 		>li{
                         list-style: none;
-			margin-left: 50px;
+			// margin-left: 50px;
 			@media screen and (max-width: 630px){
                             @include inline-block;
                         }
 
 			@media screen and (max-width: 1040px){
 				margin-left: 0;
-				margin-right: 50px;
+				// margin-right: 50px;
 				&:last-of-type{
 					margin-right: 0;
 				}
@@ -123,8 +194,8 @@ margin-left: 30px;
 				}
 			}
 			>a{
-				padding: 38px 0;
-				margin-top: -38px;
+				// padding: 38px 0;
+				// margin-top: -38px;
 				&:after{
 					content: "\f078";
 					color: $color-gray03;
@@ -135,9 +206,6 @@ margin-left: 30px;
 					&:after{
 						content: "";
 					}
-				}
-				@media screen and (max-width: 1040px){
-					padding: 18px 0;
 				}
 			}
 		}
@@ -287,7 +355,7 @@ margin-left: 30px;
 		right: 0;
 	}
 	@media screen and (max-width: 600px){
-		display: none;
+		//display: none;
 	}
 	.social{
 		float: left;
@@ -309,6 +377,13 @@ margin-left: 30px;
 			@include transition(0.3s);
 			&:hover{
 				opacity: 1;
+			}
+			&.email{
+				background: image-url('social/email.png') center no-repeat rgb(190,64,55);
+				border: 1px solid rgb(190,64,55);
+				&:hover{
+					border: 1px solid darken(rgb(190,64,55), 10%);
+				}
 			}
 			&.facebook{
 				background: image-url('social/facebook.png') center no-repeat #3B5998;

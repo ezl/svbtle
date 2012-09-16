@@ -4,7 +4,6 @@
 <body>
 	<header id="header">{% include header.html %}</header>
 	{% unless page.banner == false %}
-		{% include banner.html %}
 	{% endunless %}
 	<div id="content">{{ content | expand_urls: root_url }}</div>
 </body>

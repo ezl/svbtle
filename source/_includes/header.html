@@ -1,10 +1,15 @@
 <div id="logo">
     <img src="/images/ezl/chopmini.jpg" height=90px width=90px />
 </div>
-<h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+<h1 id="title"><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+<h2 id="author"><a href="{{ root_url }}/">Eric Liu</a></h2>
+<p id="tagline">
+    Chief Custodial Technician at <a href="">Rocket Lease</a>. Former trader. Miserable crossfitter.
+</p>
+<p id="likes">
+    I like country music, bourbon, Words With Friends, <a title="Haagen Daaz. Yeah I'm smug, so what?">ice cream</a>, <a title="dirty jokes">Louis CK</a>, and <a title="quirky girls">Zoe Deschanel</a>.
+</p>
 <nav id="main-nav">{% include navigation.html %}</nav>
-<p>
-asdfasdf asdhf laksdhf lkasdj hfaklsdfh aklsdjf halksdj fhalksdjh flaksdjh faklsdjhf kdjfh ksjdhf jksd djk sdj</p>
 <nav id="sub-nav">
 	<div class="social">
 		{% if site.facebook_user %}
@@ -29,6 +34,7 @@ asdfasdf asdhf laksdhf lkasdj hfaklsdfh aklsdjf halksdj fhalksdjh flaksdjh fakls
 		<a class="delicious" href="http://delicious.com/{{ site.delicious_user }}" title="Delicious">Delicious</a>
 		{% endif %}
 		{% if site.subscribe_rss %}
+		<a class="email" href="mailto:{{ site.email }}" title="Email">Email</a>
 		<a class="rss" href="{{ site.subscribe_rss }}" title="RSS">RSS</a>
 		{% endif %}
 	</div>

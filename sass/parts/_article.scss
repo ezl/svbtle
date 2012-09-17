@@ -1,6 +1,5 @@
 article{
-	border-bottom: 1px solid $color-gray04;
-	// border-top: 1px solid $color-gray05;
+	border-bottom: $color-border;
 	padding: 30px;
 	position: relative;
 	@media screen and (max-width: 800px){
@@ -15,7 +14,7 @@ article{
 		margin-bottom: 20px;
                 max-width: 500px;
 		a{
-			color: $color-gray01;
+                    color: $title-color;
 		}
 	}
 	.entry-content{
@@ -60,13 +59,13 @@ article{
 		}
 		h2{
 			font-weight: 300;
-			border-bottom: 1px solid $color-gray04;
+			border-bottom: $color-border;
 			position: relative;
 			&:before{
 				content: "";
 				position: absolute;
 				bottom: -2px;
-				border-bottom: 1px solid $color-gray05;
+				border-bottom: $color-border;
 				width: 100%;
 			}
 		}
@@ -88,7 +87,7 @@ article{
 		}
 		table{
 			background: $color-gray04;
-			border: 1px solid $color-gray03;
+			border: $color-border;
 			border-spacing: 0;
 			margin-top: 10px;
 			th{

@@ -6,7 +6,7 @@
 			position: absolute;
 			bottom: 0;
 			width: 150px;
-			border-top: 1px solid $color-gray04;
+			border-top: $color-border;
 		}
 	}
 	.year{
@@ -16,13 +16,12 @@
 		top: 0;
 		padding-top: 15px;
                 padding: 45px;
-		// border-top: 1px solid #fff;
 		&:before{
 			content: "";
 			position: absolute;
 			top: -2px;
 			width: 100%;
-			border-top: 1px solid $color-gray04;
+			border-top: $color-border;
 		}
 		@media screen and (max-width: 880px){
                     padding: 30px;
@@ -35,7 +34,7 @@
 		}
 	}
 	article{
-                border-left: 1px solid $color-gray04;
+                border-left: $color-border;
 		margin-left: 150px;
 		padding: 15px 0;
                 padding: 45px;
@@ -54,7 +53,7 @@
 			margin-bottom: 0;
 		}
 		.meta{
-			color: $color-gray02;
+			color: $meta-content-color;
 			font-size: 0.9em;
 			line-height: 2;
 			margin-top: 15px;
@@ -65,16 +64,16 @@
 				margin-right: 30px;
 				@include inline-block;
 				&:before{
-					color: $color-gray03;
+					color: $meta-content-color;
 					font: 1.3em $font-icon;
 					padding-right: 10px;
 				}
 			}
 			a{
-				color: $color-gray02;
+				color: $meta-content-color;
 				@include transition(0.3s);
 				&:hover{
-					color: $color-gray01;
+					color: $link-color-hover;
 				}
 			}
 			.date:before{content: "\f073";}

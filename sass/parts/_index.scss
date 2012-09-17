@@ -4,7 +4,7 @@
 	line-height: 20px;
 	position: relative;
 	// @include border-shadow();
-        border-bottom: 1px solid $color-gray04;
+        border-bottom: $color-border;
 	a{
 		&:hover{
 			text-decoration: underline;

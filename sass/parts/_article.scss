@@ -13,7 +13,7 @@ article{
 		line-height: 35px;
 		margin-bottom: 20px;
                 max-width: 500px;
-		a{
+		&, a{
                     color: $title-color;
                     text-decoration: none;
                     // border-bottom: 1px solid #CCC;

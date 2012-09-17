@@ -1,0 +1,23 @@
+$note-bg-color: #FEF9C7;
+$note-border-color: #EEE9B7;
+$note-color: #8D7825;
+
+article{
+	div.note {
+                font-family: "Book Antiqua", "Palatino Linotype", serif;
+                font-style: italic;
+		background: $note-bg-color;
+		border: 1px solid $note-border-color;
+                color: $note-color;
+
+		font-size: 0.9em;
+		line-height: 1.5em;
+		margin-top: 10px;
+		padding: 5px 15px;
+                margin-right: 30px;
+                max-width: 500px;
+		overflow-x: auto;
+		// @include border-radius(5px);
+	}
+}
+

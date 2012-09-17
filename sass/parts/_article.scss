@@ -15,8 +15,25 @@ article{
                 max-width: 500px;
 		a{
                     color: $title-color;
+                    text-decoration: none;
+                    // border-bottom: 1px solid #CCC;
+                    font-family: "freight-sans-pro", sans-serif;
+                    font-size: 24px;
+                    line-height: 28px;
+                    font-weight: 700;
+                    -webkit-font-smoothing: antialiased;
 		}
 	}
+
+        h2 {
+            max-width: 500px;
+            font-size: 20px;
+            font-weight: 600;
+            color: $article-h2-color;
+            margin-top: 20px !important;
+            margin-bottom: 20px;
+        }
+
 	.entry-content{
 		line-height: 2;
 		// text-align: justify;
@@ -57,18 +74,20 @@ article{
 		p{
 			margin-top: 10px;	
 		}
-		h2{
-			font-weight: 300;
-			border-bottom: $color-border;
-			position: relative;
-			&:before{
-				content: "";
-				position: absolute;
-				bottom: -2px;
-				border-bottom: $color-border;
-				width: 100%;
-			}
-		}
+
+
+//		h2{
+//			font-weight: 300;
+//			border-bottom: $color-border;
+//			position: relative;
+//			&:before{
+//				content: "";
+//				position: absolute;
+//				bottom: -2px;
+//				border-bottom: $color-border;
+//				width: 100%;
+//			}
+//		}
 		img, video{
 			max-width: 100%;
 			height: auto;

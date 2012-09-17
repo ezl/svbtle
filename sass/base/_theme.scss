@@ -1,44 +1,81 @@
 $noise-bg: image-url('noise.png') top left !default;
 $img-border: inline-image('dotted-border.png');
 
-
 $chopred: darken(#E14425, 3);
 $coolblue: lighten(#165b94, 3);
 $darkbrown: #2B1504;
 
-// Main Link Colors
-$link-color: $chopred !default;
-// $link-color: #ff00ff !default;
-$link-color-visited: $link-color;
-$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
-//$link-color-hover: adjust-color(lighten(#165b94, 3), $lightness: 10, $saturation: 25) !default;
-// $link-color-hover: red;
-$link-color-active: white;
-//$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
-//$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
-// Main Section Colors
-$main-bg: #352A2A !default;
-$page-bg: $main-bg !default;
+//      // Dark theme for me:
+//      
+//          // Main Section Colors
+//          $main-bg: #352A2A !default;
+//          $header-bg: $main-bg !default;
+//          $page-bg: $main-bg !default; // This is just so the margins won't look weird if they're pushed past the preceding div
+//          $color-border: 1px solid #999;
+//      
+//          // svbtle sidebar font colors
+//          $title-color: #f2f2f2 !default; // ezl
+//          $author-color: #626262 !default; //eric liu
+//          $subtitle-color: #888 !default; // text
+//      
+//          // Main Link Colors
+//          $link-color: $chopred !default;
+//          $link-color-visited: $link-color;
+//          $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+//          $link-color-active: white;
+//              // $link-color: #ff00ff !default;
+//              // $link-color-hover: adjust-color(lighten(#165b94, 3), $lightness: 10, $saturation: 25) !default;
+//              // $link-color-hover: red;
+//              // $link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
+//              // $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+//          $link-style: none;
+//      
+//          // Article text colors // currently article title matches blog title
+//          $article-title-color: $title-color;
+//          $article-h2-color: #3a3a3a;
+//          $content-color: #ccc; // article text
+//          $meta-content-color: #888; // meta information (tags and date)
+//      
+//      // end dark theme for me
 
-$color-border: 1px solid #999;
-//$article-border: #eeeeee !default;
+// Original svbtle theme :
 
-$header-bg: $main-bg !default;
+    // Main Section Colors
+    $main-bg: white !default;
+    $header-bg: $main-bg !default;
+    $page-bg: $main-bg !default; // This is just so the margins won't look weird if they're pushed past the preceding div
+    $color-border: 1px solid #e2e2e2;
+
+    // svbtle sidebar font colors
+    $title-color: black !default; // ezl
+    $author-color: #585858 !default; //eric liu
+    $subtitle-color: #585C60 !default; // text
+
+    // Main Link Colors
+    $link-color: lighten(#165b94, 3) !default;
+    $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+    $link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
+    $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+    $link-style: none;
+
+    // Article text colors // currently article title matches blog title
+    $article-title-color: $title-color;
+    $article-h2-color: #3a3a3a;
+    $content-color: #585858; // article text
+    $meta-content-color: #888; // meta information (tags and date)
+
+// end dark theme for me
+
+
+// Unclear if any of the items below this line are being used
+
 $header-border: lighten($header-bg, 15) !default;
-$title-color: #f2f2f2 !default;
-$author-color: #626262 !default;
-$subtitle-color: #888 !default;
 
 $text-color: #222 !default;
 $text-color-light: #aaa !default;
 $type-border: #ddd !default;
 
-// Article colors
-$content-color: #ccc;
-$meta-content-color: #888;
-
-$color-pink: #ff00ff;
 
 /* Navigation */
 $nav-bg: #ccc !default;
@@ -83,11 +120,11 @@ $page-border-bottom: darken($footer-bg, 5) !default;
 a {
   @include link-colors($link-color, $hover: $link-color-hover, $focus: $link-color-hover, $visited: $link-color-visited, $active: $link-color-active);
 }
-aside.sidebar a {
-  //@include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
-}
 a {
-  @include transition(color .3s);
+    @include transition(color .3s);
+    text-decoration: $link-style;
+    outline-width: 0;
+    color: $subtitle-color;
 }
 
 html {

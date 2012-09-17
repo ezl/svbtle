@@ -4,7 +4,7 @@
   <title><![CDATA[Category: bas | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/bas/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-17T12:09:35-05:00</updated>
+  <updated>2012-09-17T17:18:36-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -39,6 +39,41 @@ kajsdhfklasjdfhlasdkfh</p>
     <content type="html"><![CDATA[<p>Content please</p>
 
 <p>la la la</p>
+
+<h3>block quote example</h3>
+
+<blockquote><p>hello this is a quote
+lets see how far it lets this go doe a deer a female deer ray a drop of golden sun me a name i call myself far a long long way to run sew a needle pulling thread la a note to follow so tea a drink with jam and bread that will bring us back to do do do do
+and a third line, for giggles</p></blockquote>
+
+<h3>code example</h3>
+
+<pre><code>def hello():
+    print hello
+</code></pre>
+
+<p>``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?</p>
+
+<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
+</code></pre>
+
+<p>  end
+end
+```</p>
+
+<p>``` python Hello world. http://www.google.com Source Article
+class Speaker(object):</p>
+
+<pre><code>def __init__(self, listener="world"):
+    self.listener = listener
+
+def speak(self):
+    print "Hello, %s!" % self.listener
+</code></pre>
+
+<p>```</p>
 ]]></content>
   </entry>
   

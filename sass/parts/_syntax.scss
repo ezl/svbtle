@@ -38,7 +38,7 @@ $solarized: light !default;
   $base3:   $_base03;
 }
 
-$pre-bg: $color-gray04;
+$pre-bg: #202320;
 $pre-border: $color-gray03;
 
 article{
@@ -51,21 +51,23 @@ article{
 		font-size: 0.9em;
 		padding: 1px 3px;
 		margin: 0 3px;
-		@include border-radius(5px);
+		// @include border-radius(5px);
 	}
 	pre{
 		font-size: 1 / 0.9em;
 		line-height: 1.5;
 		margin-top: 10px;
 		padding: 5px 15px;
+                margin-right: 30px;
+                max-width: 500px;
 		overflow-x: auto;
-		@include border-radius(5px);
+		// @include border-radius(5px);
 		code{
 			background: none;
 			border: none;
 			padding: 0;
 			margin: 0;
-			@include border-radius(0);
+			// @include border-radius(0);
 		}
 	}
 }
@@ -74,8 +76,10 @@ figure.code{
 	background: $pre-bg;
 	border: 1px solid $pre-border;
 	margin-top: 10px;
+        margin-right: 30px;
+        max-width: 500px;
 	padding: 5px 15px;
-	@include border-radius(5px);
+	// @include border-radius(5px);
 	figcaption{
 		font-size: 0.9em;
 		position: relative;
@@ -84,6 +88,7 @@ figure.code{
 			padding: 5px 15px;
 			display: block;
 			@include background(linear-gradient(top, $pre-border, $pre-bg));
+                        background: lighten(#165b94, 3);
 			&:empty{
 				display: none;
 			}
@@ -132,7 +137,7 @@ figure.code{
 	border: 1px solid $pre-border;
 	position: relative;
 	overflow: hidden;
-	@include border-radius(5px);
+	// @include border-radius(5px);
 	.gist-file{
 		margin: 0;
 		.gist-data{

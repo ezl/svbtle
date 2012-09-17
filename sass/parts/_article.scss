@@ -93,9 +93,12 @@ article{
 			height: auto;
 		}
 		blockquote{
-			background: $color-gray04;
-			border-left: 5px solid $color-gray03;
-			padding: 15px 20px;
+                        font-style: italic;
+                        font-family: "Book Antiqua", "Palatino Linotype", serif;
+                        background: transparent url("/images/quote.png") no-repeat;
+                        background-size: 30px 30px;
+                        background-position: 0px 15px;
+			padding: 15px 20px 15px 45px;
 			margin-top: 10px;
 			& > p:first-of-type{
 				margin-top: 0;
@@ -105,12 +108,12 @@ article{
 			border: none;
 		}
 		table{
-			background: $color-gray04;
+			background: transparent;
 			border: $color-border;
 			border-spacing: 0;
 			margin-top: 10px;
 			th{
-				background: $color-gray03;
+				background: transparent;
 				padding: 0 15px;
 			}
 			td{
@@ -125,12 +128,12 @@ article{
 		.caption{
 			display: block;
 			font-size: 0.9em;
-			color: $color-gray02;
+			color: $content-color;
 			padding-left: 25px;
 			position: relative;
 			&:before{
 				content: "\f040";
-				color: $color-gray03;
+				color: $content-color;
 				font: 1.3em $font-icon;
 				line-height: 1.6em;
 				position: absolute;

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Do Single Founders Work Harder?'
+categories: [nyc, founders, startups]
 
 ---
 

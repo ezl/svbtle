@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Rocket Lease is Ugly'
+categories: rocketlease
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Embeddable applications'
+categories: rocketlease
 
 ---
 

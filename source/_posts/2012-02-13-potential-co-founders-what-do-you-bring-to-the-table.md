@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Potential co-founders: What do you bring to the table?'
+categories: [startups]
 
 ---
 

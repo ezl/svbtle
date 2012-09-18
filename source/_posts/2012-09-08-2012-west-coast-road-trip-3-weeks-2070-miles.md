@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '2012 West Coast Road Trip: 3 weeks, 2070 miles'
+categories: [personal, travel]
 
 ---
 

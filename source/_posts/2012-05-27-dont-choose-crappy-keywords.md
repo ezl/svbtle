@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Don''t Choose Crappy Keywords'
+categories: rocketlease
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Google Is Sending Me "Hello Kitty" Traffic'
+categories: rocketlease
 
 ---
 

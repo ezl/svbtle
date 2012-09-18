@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Popular Craigslist Spam Tactics for Profit (and for Evil)'
+categories: [strategy, startups, rocketlease]
 
 ---
 

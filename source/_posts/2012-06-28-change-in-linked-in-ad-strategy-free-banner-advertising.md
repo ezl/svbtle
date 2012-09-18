@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Change in Linked In Ad Strategy: Free Banner Advertising?'
+categories: [rocketlease, advertising, strategy]
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'What The Heck I''ve Been Doing Since I Quit My Job'
+categories: [personal]
 
 ---
 

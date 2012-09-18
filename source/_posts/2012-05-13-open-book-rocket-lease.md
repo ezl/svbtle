@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Open Book: Rocket Lease'
+categories: [startups, rocketlease]
 
 ---
 

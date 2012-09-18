@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Death of a Startup: Spaciety Post-mortem'
+categories: [personal, spaciety, startups]
 
 ---
 

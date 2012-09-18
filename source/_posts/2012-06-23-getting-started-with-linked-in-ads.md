@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Getting Started With Linked In Ads'
+categories: [rocketlease, strategy, advertising]
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Founder Arrogance'
+categories: startups
 
 ---
 

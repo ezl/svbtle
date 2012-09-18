@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: startups | ezl]]></title>
+  <link href="http://www.ezliu.com//blog/categories/startups/atom.xml" rel="self"/>
+  <link href="http://www.ezliu.com//"/>
+  <updated>2012-09-17T19:55:43-05:00</updated>
+  <id>http://www.ezliu.com//</id>
+  <author>
+    <name><![CDATA[ezl]]></name>
+    <email><![CDATA[ericzliu@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[YourSiteCouldLookLike.com]]></title>
+    <link href="http://www.ezliu.com//blog/yoursitecouldlooklike-com/"/>
+    <updated>2012-06-16T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/yoursitecouldlooklike-com</id>
+    <content type="html"><![CDATA[<p>My old gym has a website that renders terribly on mobile, yet everybody at the gym goes to it every day to see the workout (that may sound weird, just trust me that it's a typical crossfit gym thing).</p>
+
+<p>Everybody goes to the site every day to see ONE thing: the workout of the day.  Then you get there and have to pinch and zoom to read it.</p>
+
+<p>I want a mobile version. So I threw together my own stylesheet for it. It'd be great if I could show my friends.</p>
+
+<h2><strong>Somebody Please Build This</strong></h2>
+
+
+<p><strong>http://yoursitecouldlooklike.com</strong></p>
+
+<p>"Your Site Could Look Like" is a website. Sort of like <strong>bitly, but it doesn't just redirect, it loads the target page AND adds additional stylesheet rules</strong> to it. Basically, it lets you apply any css to any website and show it off to your friends (or the customer who you are trying to woo).</p>
+
+<h2><strong>How it works</strong></h2>
+
+
+<p>On the main page there are 2 input fields and a submit button.</p>
+
+<blockquote>
+<div>1) Target Site URL:</div>
+<div>2) CSS file location:</div>
+<div>3) [Submit button]</div>
+</blockquote>
+
+
+<p>User puts in a website and an alt stylesheet for it. On clicking submit, they get back a unique url:</p>
+
+<blockquote>
+<div><strong>http://yoursitecouldlooklike.com/xT6j2</strong></div></blockquote>
+
+
+<p>Set up an nginx/apache reverse proxy. Whenever someone accesses that URL, the service curls the target site (1), inserts the contents of the CSS file immediately before the closing html tag (2), then serves the page to the customer.</p>
+
+<p>If you want to be fancy, you can count page views, do analytics on the ip addresses that access it, etc. You can also let people insert their own js file. Will someone build this please?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Highest Highs and the Lowest Lows]]></title>
+    <link href="http://www.ezliu.com//blog/the-highest-highs-and-the-lowest-lows/"/>
+    <updated>2012-06-15T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/the-highest-highs-and-the-lowest-lows</id>
+    <content type="html"><![CDATA[<p>&nbsp;</p>
+
+<p><a href="http://www.rocketlease.com"><img class="size-medium wp-image-37" title="Easy Online Rental Applications" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
+Really high highs and really low lows... such is startup life...</p>
+
+<p>Pretty crazy week for <a href="http://www.rocketlease.com">Rocket Lease</a>.  I don't expect startup life to be easy, but its been a bit of a rollercoaster and I'm exhausted.</p>
+
+<p>In the span of 48 hours, we've been evicted from our insanely gorgeous office space, had our best 2 days of business ever, gotten our credit reports (our core product) shut off by our vendor, and gotten 4 amazing interns.</p>
+
+<h2>Highlights</h2>
+
+
+<p><strong>Best office space ever:</strong> Rocket Lease has been sharing extra office space with an insanely awesome startup, KM, who has probably the most insanely gorgeous office space I've seen to date.  They gave us an unbeatable deal in the spirit of founders helping founders / startups helping startups. Unbelievable space. Just have to post some pics to brag...</p>
+
+<p><a href="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.31.jpg"><img class="aligncenter size-medium wp-image-224" title="2012-06-12 11.17.31" src="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.31-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.57.jpg"><img class="aligncenter size-medium wp-image-225" title="2012-06-12 11.17.57" src="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.57-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.18.26.jpg"><img class="aligncenter size-medium wp-image-226" title="2012-06-12 11.18.26" src="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.18.26-300x225.jpg" alt="" width="300" height="225" /></a></p>
+
+<p><strong>Amazing team and interns:</strong> We currently have 2 full timers (me + Mike) and 4 college interns (Alec, Alper, Jason, John). Mike did a phenomenal job getting really sharp, smart, entrepreneurial interns who really connect with the project, and I am/was looking forward to an awesome summer.  Anyways, team of 6. This is an important point.</p>
+
+<p>When too much is going right, you almost have to expect something to go wrong in startup land...</p>
+
+<p><strong>Credit report malfunction!!</strong> Due to a communication error with our credit vendor, Rocket Lease's credit reports were turned off for almost 2 days. Those 2 days happened to be the highest 2-day application submission volume we've had to date (13 applications, not a big deal in the grand scheme, but a big deal to me!).</p>
+
+<p>When the issue was finally resolved with the credit vendor, I breathed a sigh of relief, because it was super stressful to be getting paying customers that we couldn't serve.</p>
+
+<p><strong>Evicted!!</strong> Within an hour of the credit issue resolution, KM's landlords asked them to "remove any non-KM people from the space". Uh oh. Trouble in paradise. Now we have a team of 6 and we're evicted. Homeless team of 6 is a problem because its definitely too big for us to be using starbucks as the office now...</p>
+
+<h2>*Sigh*</h2>
+
+
+<p>So it goes. The good news is that the interns are still very upbeat and are rolling with the punches.</p>
+
+<p>I'd still like to try to see if there's a chance we can strike a deal where the landlord will be cool with us staying, but I haven't been able to connect with them, so I'm not sure if I'm getting ignored.</p>
+
+<p>I'm really committed to making sure the interns extract a lot of value out of this relationship, so I want to make sure we're in a stable place, but now I'm scrambling to find space.  I have a couple of leads, but I don't want to pull in favors that will end up being too costly for me in the long run, so I'm treading lightly.</p>
+
+<p>If anyone can temporarily house 6 of us for a week or two while we try to get our feet on the ground, there will be much karma returned.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Popular Craigslist Spam Tactics for Profit (and for Evil)]]></title>
+    <link href="http://www.ezliu.com//blog/craigslist/"/>
+    <updated>2012-06-07T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/craigslist</id>
+    <content type="html"><![CDATA[<p>I've always enjoyed <a href="http://davegooden.com/2011/05/how-airbnb-became-a-billion-dollar-company/">Dave Gooden's fantastic writeup</a> about how AirBnB benefitted from email marketing tactics on Craigslist and wondered how prevalent the use of such tactics was. (It'd also be interesting to know if that happens a lot <em>more</em> after his blog post was published)</p>
+
+<p>Mike L and I were chatting about it and I decided to chronicle a few craigslist scam/spam/marketing techniques we've seen (with <a href="http://ezl.github.com/craigslistspam/">links to the actual email threads in each section</a>)</p>
+
+<p>&nbsp;</p>
+
+<p><img class="aligncenter size-full wp-image-205" title="kimmie" src="http://ezliu.com/wp-content/uploads/2012/06/kimmie.jpg" alt="" width="180" height="320" /></p>
+
+<h2><strong>"Unthreatening Potential Female Roommate Just Wants Confirmation That You Can Pay Bills"</strong></h2>
+
+
+<p><strong>AKA:</strong> "Please Run A Credit Check"
+<strong>Actual Example:</strong> <a href="http://ezl.github.com/craigslistspam/rental1.html">credit</a>
+<strong>Beneficiary:</strong> Free Credit Report.com</p>
+
+<p>Mike was looking for a new apartment and responded to an ad in the roommates section. A cute girl responded.</p>
+
+<p><strong>Notes:</strong></p>
+
+<ul>
+    <li>Female responder, girls get better response rates, especially cute ones.</li>
+    <li>Wants to make sure you're not a scammer</li>
+    <li>Well written email, very conversational, disarming.</li>
+    <li>This email is too well crafted, it is unlikely to have been sent through a text spinner -- which means that its probably more targeted, and the risk of being sent to spam folders is much higher.</li>
+    <li>Really LONG email. Seriously, whoever did this should rethink it, because nobody reads emails that long. Or is it part of the play? It clearly COULDN'T be a spam message!</li>
+    <li>Girl is believably cute, not devastatingly hot.</li>
+    <li>Eating ice cream in the picture. Come on, how non-threatening is that?</li>
+    <li>Asks you to send her credit check info, but as a helpful citizen tells you to make sure to withold your SSN. Again, she's not a scammer! Conveniently recommends FreeCreditReport.com</li>
+</ul>
+
+
+<p><strong>Their action:</strong> There are two common plays here.</p>
+
+<ul>
+    <li>post ads on craigslist seeking roommates. Whenever someone responds, send them this email encouraging them to try out freecreditreport.com</li>
+    <li>Respond to ads where people are seeking roomates. If they respond back, game on.</li>
+</ul>
+
+
+<p><strong>Benefit of this:</strong> HUGE reduction of total email send volume, everyone who responds to you is already qualifying themselves as an interested candidate and giving you a real email address.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://ezliu.com/wp-content/uploads/2012/05/banana.jpg"><img class="aligncenter size-thumbnail wp-image-78" title="banana" src="http://ezliu.com/wp-content/uploads/2012/05/banana-150x150.jpg" alt="" width="150" height="150" /></a></p>
+
+<h2><strong>"Helpful Internet Citizen Trying To Help You Avoid Contractor Woes"</strong></h2>
+
+
+<p><strong>Note:</strong> This spam was found to be a third party abusing an affiliate program. The actual company reached out and informed me that they don't condone that behavior and have banned the affiliate marketer. Their logo above was replaced by a photo of a banana. Why? Because I happened to have one in my Wordpress Media Library.</p>
+
+<p><strong>AKA:</strong> "Let Me Recommend A Site I've Used Successfully"
+<strong>Actual Example:</strong> <a href="http://ezl.github.com/craigslistspam/odesk.html">contractor site</a>
+<strong>Beneficiary:</strong> An contracting site</p>
+
+<p>I was looking for someone to reskin a wordpress blog for me. A very helpful girl named Ava who recently had a bad craigslist experience wanted to let me know that a specific contracting site gave her better results.</p>
+
+<p><strong>Notes:</strong></p>
+
+<ul>
+    <li>Short and sweet</li>
+    <li>Also from a girl</li>
+    <li>Voice a common concern, just trying to save you the trouble she went through.</li>
+    <li>Smoking gun: the link doesn't go to the site itself. it goes to a click tracking site. Regular humans don't do that.</li>
+</ul>
+
+
+<p><strong>Their action:</strong> scrape craigslist computer gigs section, respond to everyone and recommend a specific site as a superior alternative.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://ezliu.com/wp-content/uploads/2012/06/scam2.jpg"><img class="aligncenter  wp-image-209" title="scam" src="http://ezliu.com/wp-content/uploads/2012/06/scam2.jpg" alt="" width="210" height="190" /></a></p>
+
+
+
+
+<h2></h2>
+
+
+<h2><strong>"Christian In West Africa Wants To Rent Lovely Home To You"</strong></h2>
+
+
+<p><strong>AKA:</strong> "Give Me All Your Info"
+<strong>Actual Examples:</strong> <a href="http://ezl.github.com/craigslistspam/rental2a.html">[a]</a> <a href="http://ezl.github.com/craigslistspam/rental2b.html">[b]</a> <a href="http://ezl.github.com/craigslistspam/rental2c.html">[c]</a>
+<strong>Beneficiary:</strong> Some scammer/identity thief (This is the only one that I find particularly evil.)</p>
+
+<p>I responded to several ads in the craigslist "apartments for rent" section. One particular flavor of response stood out.</p>
+
+<p>There were a lot of autoresponses from places with great, submarket rents, and they all ask you to fill out a rental application<strong> including a lot of personal information.</strong></p>
+
+<p><strong>Notes:</strong></p>
+
+<ul>
+    <li>Responses were all from emails sent to listings where the original poster had used a public email address (as opposed to an anonymized craigslist address)</li>
+    <li>Typical pattern is that someone lived in a gorgeous home, but had to go abroad.</li>
+    <li>Abroad is typically West Africa, I have no idea why.</li>
+    <li>Most of the respondents represent themselves as Christian (a reverand, a family doing missions in west africa, etc.)</li>
+    <li>Tend to act as if they are aware you have the upper hand, but need to trust you (suddenly had to move away, need the money, willing to rent to you at a lower price if you're a good tenant, just prove it by emailing me your personal information). I think this is a play to disarm your suspicion.</li>
+    <li>They generally display some sort of concern that they are going to be scammed themselves or a vulnerability that makes them want to qualify you as a tenant. For example, it is their personal family home, they have their furniture there and want to make sure it's in good hands in their absence.</li>
+    <li>Prey on typical US perceptions of trustworthiness: Christians, ministers, reverends, families with young children</li>
+</ul>
+
+
+<p><strong>Lessons learned:</strong>
+Mostly spammers post "real" addresses. Real "real" people are afraid of posting their address in the open.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://ezliu.com/wp-content/uploads/2012/06/b.jpg"><img class="aligncenter size-medium wp-image-210" title="b" src="http://ezliu.com/wp-content/uploads/2012/06/b-e1339030520918-250x300.jpg" alt="" width="250" height="300" /></a></p>
+
+<h2><strong>"Horny Young Co-Ed Wants To Chat"</strong></h2>
+
+
+<p><strong>AKA</strong> "Men Like Nude Women"
+<strong>Actual Examples:</strong> <a href="http://ezl.github.com/craigslistspam/adult.html">http://ezl.github.com/craigslistspam/adult.html</a>
+<strong>Beneficiary:</strong> Actually, I don't quite get this one. I assume the site somehow generates revenue from desperate men who want to hook up with hot sexy co-eds for free! (just enter your credit card! we won't use it! trust us!)</p>
+
+<p>This is pretty interesting actually.</p>
+
+<p>Mike gave a girl a copy of the Redeye, a daily pop culture/sports newspaperlet in Chicago.
+He later posted in Missed Connections about it, and received a garbage reply:</p>
+
+<p>Not thinking about it, he responded with a short one liner and unleashed upon himself the fury that is adult website spammers.</p>
+
+<p>Every day since, he has received at least 1 unsolicited emails from different girls just trying to get him to sign up for a site to connect with hot girls like her that want to chat. The really amusing thing is that (1) many of these "different" girls somehow have the same picture, and (2) the emails are almost all identical. As a teaser, these girls all send nude pics of themselves, and amazingly, sometimes their nude pics don't even look like the same girl (weird, I know).</p>
+
+<p><strong>Notes:</strong></p>
+
+<ul>
+    <li>Tries to act like a sexy coed who is afraid YOU are a scammer of some sort. She just wants to make sure she's not chatting with a "cam girl or a bot", which is clearly the spammers play to make you think *she* isn't a "cam girl or a bot"</li>
+    <li>Clearly using an automated program to vary the text of the messages, probably as an attempt to avoid email spam filters</li>
+    <li>Huge corpus of alternate urls for their site.</li>
+    <li>All sent from different email addresses.</li>
+    <li>Whose naked photos are these?!</li>
+</ul>
+
+
+<h2>"Spam" is not equal to "Scam"</h2>
+
+
+<div><a href="http://news.ycombinator.com/item?id=4079583">Callmeed on HN</a> made a point about distinguishing between "spam" and "scam".</div>
+
+
+<div></div>
+
+
+<div>The "Christian in West Africa Wants To Rent Lovely Home To You" category is the only one that I feel really bad about, because these people are screwing people over. The other ones are just companies doing some guerilla marketing. The "hot, horny women" category seems a little sleazy, and I don't actually know that they're NOT doing bad things with the data they collect (or what they collect), but on the surface it just seems like a spammy campaign to drive traffic.</div>
+
+
+<h2>Common Characteristics in Many Craigslist Spam/Scam Messages</h2>
+
+
+<ul>
+    <li>Build rapport. Voice a common concern that you probably have to disqualify self as the threat.</li>
+    <li>Act as an independent, concerned citizen. recommending a third party service.</li>
+    <li>Respondents are female or generally prey on typical American stereotypes of honesty (Christian, African Foreign AID volunteer, social worker).</li>
+    <li>Pose as vulnerable to empower the target</li>
+    <li>Too good to be true</li>
+</ul>
+
+
+<p>The adult site one amuses me in particular because it is the most technically involved -- clearly using spinner code, likely for spam filter evasion; probably a script that autoregisters accounts with free services, so they might also have to be beating captchas; they are sending the largest total volume of email too, so they probably have to deal sending through lots of proxies to avoid getting blacklisted by the free mail services; tons of domains involved; and at the end of it, it seems like the least likely to get conversions.</p>
+
+<p>Generally I think this stuff is pretty cool. With the exception of the spammers who pretend to give you rental applications, probably as a ploy to steal your identity, I consider these mostly just interesting "grey hat" marketing tactics.</p>
+
+<p>Airbnb wasn't the only one. I imagine that there are probably even 3rd party "marketing companies" that do this for your startup.  I'd be interested in hearing more about it from the inside -- if you're reading this and you know someone who might be willing to talk to me, even anonymously, please connect me.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Do Single Founders Work Harder?]]></title>
+    <link href="http://www.ezliu.com//blog/do-single-founders-work-harder/"/>
+    <updated>2012-05-15T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/do-single-founders-work-harder</id>
+    <content type="html"><![CDATA[<p>I was at General Assembly tonight, and like most nights I'm there, I was one of the last people there. It actually amazes me that the startup space is typically mostly cleared out by 8pm. As far as I can tell, this is true of Projective Space, New Work City, and We Work Labs as well. Weekends are equally sparse -- I basically have the run of the place on a Saturday. *</p>
+
+<div>
+<div>Do single founders work harder?</div>
+<div>Do they HAVE to wok harder?</div>
+</div>
+
+
+<div></div>
+
+
+<div>
+<div>By "harder" I  mean "more hours". I am not asking, "Do single founders work better?" (I think there are a lot of reasons to suspect they don't). Maybe, as a way to compensate for the other shortcomings of being a single founder, we have to work more to have a fighting shot.</div>
+</div>
+
+
+<div></div>
+
+
+<div>Before anyone accuses me of being self congratulatory or judgmental of teams, I'm not saying that single founders DO work harder. I'm actually asking a question to explain the phenomenon where these coworking spaces filled with teams empty out by dinner. My friend Hugo says its because New York founders are lazy, but I don't buy that.</div>
+
+
+<div></div>
+
+
+<div>There are certainly many penalties for being a single founder, so I wonder if they are forced to work harder/more. I'm OBSESSED with my startup, Rocket Lease. I think about rental applications incessantly. And I get to work on it whenever I want, which is more or less "when I'm awake" (I'm not suggesting this is healthy or advisable, its just what I've been doing.).</div>
+
+
+<div></div>
+
+
+<div>When I'm obsessed with something its really hard to keep me from doing it if I have the option. So are the startup teams  in New York not obsessed, obsessed in the privacy of their own homes, or just not putting in as many hours as single founders?</div>
+
+
+<div></div>
+
+
+<div>* Except for Ryan W -- that guy is a team, and he works insanely hard and good all the time. I don' understand how its possible to operate at that level, that consistently, for that long.</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open Book: Rocket Lease]]></title>
+    <link href="http://www.ezliu.com//blog/open-book-rocket-lease/"/>
+    <updated>2012-05-13T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/open-book-rocket-lease</id>
+    <content type="html"><![CDATA[<p>I am considering posting more openly about what I'm working on with <a href="http://rocketlease.com">Rocket Lease</a>. I generally have enjoyed when other entrepreneurs have done this (Patrick McKenzie of Bingo Card Creator and Johannes Borchardt of http://droid-blog.net/ come to mind).</p>
+
+<p>[caption id="attachment_37" align="alignright" width="210" caption="Easy Online Rental Applications"]<a href="http://ezliu.com/wp-content/uploads/2012/05/rl2.png"><img class=" wp-image-37 " title="Easy Online Rental Applications" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="210" height="109" /></a>[/caption]</p>
+
+<p>I have no interest in writing a "how to" guide. I'm considering just being transparent about what I'm working on, what I'm struggling with, how I'm doing it (not how you should do it), and where I'm allocating my efforts.</p>
+
+<p><strong>Possible Benefits:</strong>
+So far I've really enjoyed the feedback I've gotten from people since beginning to write this blog. Having a public place for my writing has connected me to people I would likely have never gotten in touch with.</p>
+
+<p><strong>Concerns:</strong>
+The rental space is really crowded. There's a lurking fear that I shouldn't publicly broadcast my approach to making Rocket Lease awesome. I have competitors. Right now Rocket Lease isn't particularly competitive in the space, but I want it to be, and the fear is that by being open about where I'm allocating my efforts I'll undermine my own efforts. Also, as of now, I'm a single founder. Multiple cofounder teams have a body count advantage over me.</p>
+
+<p>Going to mull this over a bit, but I'm leaning heavily towards doing it -- unless I get too scared.</p>
+]]></content>
+  </entry>
+  
+</feed>

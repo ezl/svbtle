@@ -1,6 +1,7 @@
 ---
 layout: post
 title: YourSiteCouldLookLike.com
+categories: [ideas, startups]
 
 ---
 

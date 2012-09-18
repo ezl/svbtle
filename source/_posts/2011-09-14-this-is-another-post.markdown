@@ -3,7 +3,7 @@ layout: post
 title: "This is Another post"
 date: 2012-09-14 05:50
 comments: true
-categories: [bar,baz,bas]
+categories: [jekyll, code]
 ---
 
 This is the song la la alsdjflasd kjfalsdk jflaskd

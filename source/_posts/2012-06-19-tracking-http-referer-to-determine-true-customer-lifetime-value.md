@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Tracking HTTP Referer To Determine True Customer Lifetime Value'
+categories: [rocketlease, code, strategy]
 
 ---
 

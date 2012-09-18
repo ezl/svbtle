@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Rocket Lease''s Internal List of Real Estate Startups'
+categories: [rocketlease]
 
 ---
 

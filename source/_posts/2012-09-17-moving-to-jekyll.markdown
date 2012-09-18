@@ -3,7 +3,7 @@ layout: post
 title: "Moving to Jekyll"
 date: 2012-09-17 19:20
 comments: true
-categories: 
+categories: [code, personal]
 ---
 
 Yep, I just did it.  I:

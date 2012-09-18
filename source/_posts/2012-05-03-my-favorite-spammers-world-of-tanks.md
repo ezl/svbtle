@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'My Favorite Spammers: World of Tanks'
+categories: [startups, strategy]
 
 ---
 

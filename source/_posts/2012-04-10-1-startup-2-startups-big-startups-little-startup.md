@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1 Startup, 2 Startups, Big Startups, Little Startup'
-
+categories: [startups]
 ---
 
 I used to be a trader.

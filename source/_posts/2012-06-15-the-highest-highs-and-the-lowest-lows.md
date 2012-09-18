@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'The Highest Highs and the Lowest Lows'
+categories: [personal, startups]
 
 ---
 

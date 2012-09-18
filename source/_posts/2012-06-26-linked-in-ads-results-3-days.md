@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Linked In Ads Results (3 days)'
+categories: [rocketlease, strategy, advertising]
 
 ---
 

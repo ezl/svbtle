@@ -1,0 +1,62 @@
+---
+layout: post
+title: 'Currently Paying $150 Per Conversion'
+
+---
+
+<strong>$149.53, actually</strong>. That's how much I paid per conversion while experimenting with Adwords this month.
+
+My best estimate is that a conversion is worth $4.69 *, so I'm overpaying a bit.  I'm no expert, but I'm pretty sure that's not good.
+<p style="text-align: center;"><a href="http://ezliu.com/wp-content/uploads/2012/05/CPC21.png"><img class="aligncenter size-full wp-image-153" title="CPC2" src="http://ezliu.com/wp-content/uploads/2012/05/CPC21.png" alt="" width="782" height="210" /></a> <a href="http://ezliu.com/wp-content/uploads/2012/05/CPC2.png">
+</a></p>
+Before I continue, I want to explain how Rocket Lease works to explain what a conversion is and why I chose that particular conversion metric.
+
+&nbsp;
+
+<strong>How Rocket Lease Works</strong>
+
+<a href="http://www.rocketlease.com"><img class="alignright" title="Easy Online Rental Applications" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
+
+The tricky thing about Rocket Lease conversions is that the people I want to drive to my site (landlords) actually never pay me directly (the applicants do).
+
+I'd like to tie AdWords conversions to actual profit, but the profit event can occur well after the Landlord signs up for the site.To put the conversion action as close to profit as possible, I decided that <strong>the action of inputting rental information is a conversion</strong>. It's an involved enough process that it's probably an indicator of real intent to use the site. **
+<blockquote>If you're curious, here's a long description of why I chose Rental creation as the conversion metric.  If you're not curious, skip this section.
+
+The rental market is essentially made of Landlords and Applicants. Landlords will typically:
+<ol>
+	<li>Ask Applicants to submit personal information</li>
+	<li>Use that information to evaluate the candidacy of the Applicant.</li>
+</ol>
+When using Rocket Lease, landlords who want to use an online application enter information about their vacant rental property, then Rocket Lease creates a unique URL for that rental for distribution to applicants.
+
+Though landlords have ultimate deciding power over which application (paper or electronic) they use, generally *Applicants* actually pay the application fee. So the actual customer, the Landlord, who I am trying to convince to sign up for Rocket Lease, doesn't ever directly pay Rocket Lease.
+
+In fact, the browser session that actually generates revenue will be not be the one that came to the site, and could be long after the landlord signup. That makes it hard (impossible?) to tie the adwords clicks to profit, so the idea is to get as close to "intent to distribute a Rocket Lease application" as possible.</blockquote>
+<strong>So... How'd That Pan Out?</strong>
+
+Uh, so... back to<strong> $149.53 conversions</strong>. That's what it costed me to get a landlord to sign up and input rental information. So far, <strong>each conversion pays $4.63</strong>. Obviously not a sustainable venture.  Yes, I'm out some cash, but overall, I consider it paying for information, and I'm happy to have done it.
+
+Before I started, I:
+<ul>
+	<li>Didn't even have a rough idea of what my customer value was, so now at least I have a starting point with real data from strangers.</li>
+	<li>Didn't know what my CPCs would cost, so I didn't know if SEM strategies were viable (still don't, experiment suggests no, but I think I can do MUCH better -- further testing required).</li>
+</ul>
+Also:
+<ul>
+	<li>I found a lot of new keywords that were driving traffic to Rocket Lease, so that will help me focus on other organic words and I have a larger pool of SEM words to target.</li>
+	<li>I learned a ton about paid search.</li>
+</ul>
+There were also a lot of keywords in there that costed money but are clearly not likely to convert, so I think I can substantially reduce my CPC by using negative matching and further optimizing. Obviously I have a long way to go to get close, but I got enough value out of it that I'll probably continue to experiment a bit with AdWords.
+
+Hopefully the LTV of customers is actually higher, too, so there might be hope yet.
+
+Paying $150/conversion is obviously not fun, but it's a starting point, and I'm excited to see where I can go with it.
+
+&nbsp;
+
+<hr />
+
+<address><span style="color: #999999;">* Admittedly conservative. This is based on my current historical data for what users have made me in the short life of Rocket Lease, assuming each user has already realized his/her full LTV for the site. This is likely/hopefully not true, and I actually expect the true LTV to end up being a multiple of my current "estimate". However, I l ike playing conservatively, and if I can be profitable to this conversion value number, then anything else will be gravy.</span></address>
+<div><strong>
+</strong></div>
+<address> </address>

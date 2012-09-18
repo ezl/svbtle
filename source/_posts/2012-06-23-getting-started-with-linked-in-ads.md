@@ -1,0 +1,172 @@
+---
+layout: post
+title: 'Getting Started With Linked In Ads'
+
+---
+
+I'm experimenting with Linked In Ads.  This is a log of what I did, my thought processes as I made decisions, and what I found interesting during the process of setting up my first Linked In ad campaign.
+
+<a href="http://www.rocketlease.com"><img class="aligncenter size-full wp-image-265" title="Rocket Lease" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a>
+<h2><strong>TLDR:</strong></h2>
+<ol>
+	<li><strong>A lot of people are on Linked In</strong> (66 million accounts registered in the United States).</li>
+	<li>Linked In is really cool because it lets you really slice up their user base for <strong>very selective demographic targeting</strong>.</li>
+	<li><strong>Annoyingly, the minimum bid is $2.00/click</strong> or $2.00/1000 impressions. This strikes me as stupid and an indication that they don't have enough people running linked in ads to boost ad prices in organic auctions.  This makes me doubt the efficiency of the ads. Some people run businesses that won't convert at clicks of $2.00. Let the free market decide.</li>
+	<li><strong>The UX could use improvement</strong> -- Many sections need more explanation and there aren't a lot of good/believable resources online. For example, LI tells me a recommended ad bid price, but doesn't tell me what the impact of bidding lower is. I'm not against paying more, but if I was the sort of person who would pay 10% more than the minimum without knowing why because some arbitrary text told me I should, I'd probably lose my shirt really fast in the startup game.</li>
+	<li>I chose to advertise to<strong> real estat</strong>e people, and I<strong> opted to buy impressions rather than clicks</strong> (I had never considered that before setting up this campaign).</li>
+</ol>
+<h2>Cool Data + How To Narrow Down Your Target Audience</h2>
+Linked In has a cool interface where you can slice the linked in user set and it tells you how many people are in the resulting set. I thought the numbers were cool, so I'm sharing the funnel that I sliced for my first campaign.
+<p style="text-align: center;"><img class="aligncenter" title="All US" src="http://img1.uploadscreenshot.com/images/orig/6/17210540389-orig.png" alt="" width="656" height="429" /></p>
+Filtering the Linked In user set by location: United States gives us <strong>66,628,075</strong>. That's <strong>1 account for every 3 Americans</strong> <strong>between the ages of 20 and 65</strong>. Considering that Linked In is a professional networking site, that seems like an appropriate age range, and more significantly, not all Americans in that set are (a) professional workers that would be on Linked In (service industry workers are largely not on Linked In, for example), and (b) interested in networking online.
+
+If we were to pretend those numbers were real, independent, active accounts, Linked In might have close to 100% of its target user base.  Amusing. I don't know how Linked In stock is priced, but if its at market saturation, I don't imagine I want to price it like a growth stock.
+<h2>Filter by Industry</h2>
+No matter, I'm on Linked In for a very specific reason. To spread the word about Rocket Lease. Since <a href="http://www.rocketlease.com">Rocket Lease provides online rental applications and credit checks</a>, our natural users are<strong> landlords, property managers, and leasing agents</strong>.  Narrowing our area of interest to the real estate industry shrinks our target audience to <strong>1,579,593 </strong>Linked In users.
+
+<a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.22.33-PM.png"><img class="aligncenter size-full wp-image-260" title="Linked In - Real Estate" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.22.33-PM.png" alt="" width="390" height="302" /></a>
+
+Another cool feature is that I can filter by company size.  A few ideas here, but the data first:
+<table>
+<tbody>
+<tr>
+<th>Company Size</th>
+<th>Target Audience</th>
+</tr>
+<tr>
+<td>&lt; 10</td>
+<td>5,366</td>
+</tr>
+<tr>
+<td>11 - 50</td>
+<td>23,480</td>
+</tr>
+<tr>
+<td>51 - 200</td>
+<td>70,942</td>
+</tr>
+<tr>
+<td>201 - 500</td>
+<td>62,195</td>
+</tr>
+<tr>
+<td>501 - 1000</td>
+<td>47,123</td>
+</tr>
+<tr>
+<td>1001 - 5000</td>
+<td>130,203</td>
+</tr>
+<tr>
+<td>5001 - 10,000</td>
+<td>31,797</td>
+</tr>
+<tr>
+<td>10,000+</td>
+<td>102,051</td>
+</tr>
+</tbody>
+</table>
+<blockquote>NOTE: This is a complete tangent, but I found it interesting so I want to post it. If you just want to read about how I set up my Linked In ads, skip this yellow box.
+
+<strong>Weirdly, the number of people in the set is in flux</strong>. If you select a group like company size:1001-5000, you might get a estimated target audience of 130,203. Then select another group (company size:501-1000). then go back  to company size:1001-5000 -- the original number can change dramatically. When I tried it several times, the difference was as large as ~2000. Why does that change?
+
+Also, <strong>clicking all the options for company size gave me 461,440 users compared to the 1.58 million</strong> users in the real estate industry, so there's apparently an <strong>uncategorized 1.12 million people</strong> who are in real estate companies of unspecified size.  Similarly, selecting people in all age groups is a substantially smaller set than selecting all people.
+
+I guess one takeaway is that <strong>if you don't want to see ads on Linked In, don't specify gender, age, or company size</strong>.  Anyone you've actually met or corresponded with should be searching for you by name or email, so it shouldn't matter for networking. Recruiters shouldn't be looking for you on these criteria anyways so it won't negatively affect your Linked In experience, but it'll be way more expensive for people to advertise to you.
+
+Another interesting thing is that the target audience and company size tell you the <strong><em>number</em> of companies in each size range</strong>.
+<table>
+<tbody>
+<tr>
+<th>Company Size</th>
+<th>Target Audience</th>
+<th># of Companies</th>
+</tr>
+<tr>
+<td>&lt; 10</td>
+<td>5,366</td>
+<td>536 - 5,366</td>
+</tr>
+<tr>
+<td>11 - 50</td>
+<td>23,480</td>
+<td>460 - 2,300</td>
+</tr>
+<tr>
+<td>51 - 200</td>
+<td>70,942</td>
+<td>350 - 1,400</td>
+</tr>
+<tr>
+<td>201 - 500</td>
+<td>62,195</td>
+<td>125 - 310</td>
+</tr>
+<tr>
+<td>501 - 1000</td>
+<td>47,123</td>
+<td>47 - 94</td>
+</tr>
+<tr>
+<td>1001 - 5000</td>
+<td>130,203</td>
+<td>26 - 130</td>
+</tr>
+<tr>
+<td>5001 - 10,000</td>
+<td>31,797</td>
+<td>3 - 6</td>
+</tr>
+<tr>
+<td>10,000+</td>
+<td>102,051</td>
+<td>1 - 10</td>
+</tr>
+</tbody>
+</table>
+The target audience size from the 501-1000 &gt; 1001-5000 &gt; 5001-10,000 progression looked odd to me ( big jump from 47k -&gt; 130k, then a huge dip from 130k -&gt; 31.7k).
+
+Correspondingly, the implied number of companies of size 5001-10,000 falls off a cliff from 26-130 companies to 3-6. "Real estate companies" is a pretty broad range of company types (construction, leasing agencies, buying raw land, REITS, etc.) so it'd be impossible to make many generalizations about real estate companies based on this data, but you might say that there's a serious hurdle for real estate companies in general to clear the 5000 employee mark.
+
+Generally I don't think this is surprising -- for ANY company to grow that big probably requires substantial infrastructure investment and process to be able to operate as a cohesive unit.  Maybe real estate companies of that size don't operate efficiently or it's not economically justifiable or worth the effort to expand a real estate empire to be &gt; 5000 people.</blockquote>
+<h2>Filter By Company Size</h2>
+I filtered the target audience down to <strong>companies smaller than 50</strong>.
+
+Rocket Lease is a turn key solution for landlords and leasing agents to distribute rental applications on the internet. However, <strong>big leasing agencies and property managers usually process enough applications that they have a system in place</strong>, even if inefficient. Additionally, these firms are more change averse because the risks of disrupting the regularity of their system are larger.
+
+<strong>Small to medium size agencies and individual, non-professional landlords tend to not have systems</strong>, or be more open to third-party process optimization since they don't have the resources to implement something like automated tenant screening and online rental applications with their non-existent in-house IT departments.
+
+My strategy for Rocket Lease is to initially target companies and individuals who have the ability to see a solution they like and make a snap decision to try it out. Big companies have too much bureaucracy and red tape to hope for that, so I opted to exclude them from my initial Linked In advertising efforts. This filters the estimated target audience size down to <strong>28,791</strong>.
+<h2>Filter by Job Function</h2>
+The last filter I applied was <strong>Job Function</strong>. I want to target the decision makers in companies. Obviously I want everyone to know about Rocket Lease, but it makes the most sense to target people who can actually act on a decision to implement Rocket Lease or has the direct power to pitch to the ultimate decision maker. <strong>7,597.</strong>
+<h2>Skipping Age Filter</h2>
+I considered segmenting my market to people &lt;55 years of age because I think that set is, on the average, more likely to adopt tech solutions to existing problems.  However, I opted against it because I figure if someone 55+ is on linked in, they have self selected themselves as being open to technology solutions despite my global assumptions about people in that age bracket.
+
+&nbsp;
+
+<a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.24.33-PM.png"><img class="aligncenter size-full wp-image-261" title="Linked In Final Filter" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.24.33-PM.png" alt="" width="394" height="447" /></a>
+
+United States &gt; Real Estate professionals &gt; companies smaller than 50 people &gt; people who are decision makers (CXO, Manager, Partner, etc.). <strong>7,957 United States real estate company directors and decision makers that use the internet for networking and business.</strong> And I want to show them ads.
+<h2>Clicks vs Impressions</h2>
+It was extremely annoying to me that the minimum bid per click is $2.00.  In a previous blog post, I computed that a <a href="http://ezliu.com/currently-paying-150-per-conversion/">conservative,<strong> low bound for customer LTV $4.69</strong></a> -- with my signup rates, each<strong> signup was worth $2.25</strong> (conversion != signup in the experiment). <strong>With a minimum bid of $2.00, I need a nearly 100% signup rate</strong> on clickthroughs, which is a pipe dream.
+
+<a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.40.30-PM.png"><img class="aligncenter size-full wp-image-270" title="Annoying minimum bid" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.40.30-PM.png" alt="" width="447" height="149" /></a>
+
+It's also a little annoying that they have a suggested bid range above the already irksome minimum bid, but there's no indication of what it means or that it will make any difference for me. Google Ads have lots of third party tutorials describing the impact of price, but Linked In does not. And Linked In, if you can't tell me <strong>*why*</strong> I should pay more, I'm not going to.  (Recommendation to Linked In: Please get a UI/UX person to rethink these ad creation flows.)
+
+My previous measured<strong> signup rate was 5.56%</strong>, so the <strong>max I can rationally bid is $.12</strong> or so.  So if I pay per click I'm overpaying by a boatload. In fairness, I think my actual signup rate is now much higher with landing page optimizations, but it doesn't change the fact that I need to approach 100% signup, which I'm assuming is impossible.
+
+I'm running this trial with the free $50 for $5 credit purchase, so its effectively a 90% discount, and that makes the numbers JUST work out at that click rate, but I don't want it to only work once, I'm looking for sustainable strategies.
+
+However, I think I might be able to do better.  My global Adwords click through rate is <strong>1.93%</strong>, so if I pay the same minimum $2.00/1000 impressions and get anywhere near my adwords click through rate, I'm looking at <strong>19 clicks for the $2.00</strong>.
+
+Obviously its different because people searching on Google are PLANNING on clicking SOMETHING after a search (that's what Google is for, after all), but (a) Linked In users aren't searching and (b) clicking to another page isn't the standard user behavior -- so the click through rate might be dismally lower -- but hey I didn't think of that when I set up the campaign. I know that I can't achieve a 100% sign up rate on clicks, so buying clicks is almost certainly a failing strategy -- at least with the laser focused target audience
+
+Ultimately I will test both and report on which one performed better.  However, my total estimated audience size is ~7000 people, and I don't want to spend a ton readvertising to the same people, so I almost certainly won't have statistical significance.  Will follow up post as I get more data (only if it makes me look awesome, obviously).
+
+<a href="http://ezliu.com/wp-content/uploads/2012/06/logo.png"><img class="aligncenter size-full wp-image-262" title="logo" src="http://ezliu.com/wp-content/uploads/2012/06/logo.png" alt="" width="46" height="46" /></a>
+
+&nbsp;
+
+&nbsp;

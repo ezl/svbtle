@@ -119,12 +119,20 @@
         <lastmod>2012-09-17T18:47:52-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.ezliu.com//blog/zombie-ninjas-attack/</loc>
+        <lastmod>2012-09-17T19:37:31-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.ezliu.com//blog/this-is-another-post/</loc>
+        <lastmod>2012-09-17T19:37:31-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.ezliu.com//blog/moving-to-jekyll/</loc>
         <lastmod>2012-09-17T19:23:48-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.ezliu.com//blog/archives/</loc>
-        <lastmod>2012-09-17T19:23:48-05:00</lastmod>
+        <lastmod>2012-09-17T19:37:31-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.ezliu.com//projects/</loc>
@@ -136,7 +144,7 @@
     </url>
     <url>
         <loc>http://www.ezliu.com//</loc>
-        <lastmod>2012-09-17T19:23:48-05:00</lastmod>
+        <lastmod>2012-09-17T19:37:31-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.ezliu.com//test-page/</loc>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: strategy | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/strategy/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-18T22:12:58-05:00</updated>
+  <updated>2012-09-18T22:52:35-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -22,13 +22,13 @@
 
 <p>1897 impressions and zero clicks later, I've decided to pull the plug on running the campaign that way.</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.27.28-PM.png"><img class="aligncenter size-full wp-image-265" title="Rocket Lease" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a></p>
+<p><a href="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.27.28-PM.png"><img title="Rocket Lease" src="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a></p>
 
 <p>I mentioned that Linked In doesn't really tell you what you get for bidding more or less than the "recommended amount".  Since Linked In doesn't tell me what impact I'll get for increasing my bid, I decided I'll test it myself. For giggles, I've doubled my bid from $2.00 to $4.00/1000 impressions; this is significantly HIGHER than the recommended $2.13-$2.34 range.  Its not clear, but I think you pay whatever you bid, unlike Google Adwords auctioning system.  Will post further results.</p>
 
 <p>I'm not surprised that Linked In isn't generating clicks.  People go to Google with specific queries and the default user behavior is "click a link". Facebook ads are even probably better because people go to Facebook when they're bored and looking for a diversion at work. Linked In, however, as far as I can tell, though described as a "social network" is a very targeted tool that people use for professional communication and is users generally only open it with a specific purpose in mind. People don't just go hang out on LI to pass time, and they aren't looking for things to click on.</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/linkedinfail.png"><img class="aligncenter size-full wp-image-280" title="linkedinfail" src="http://ezliu.com/wp-content/uploads/2012/06/linkedinfail.png" alt="" width="982" height="173" /></a></p>
+<p><a href="http://www.ezliu.com//images/linkedinfail.png"><img class="aligncenter size-full wp-image-280" title="linkedinfail" src="http://www.ezliu.com//images/linkedinfail.png" alt="" width="982" height="173" /></a></p>
 
 <p>It might be the case that only certain types of products should be advertising on Linked In (tools for recruiters, trying to reach people directly by posting your resume in an ad, job finding services, etc.).  I'll be curious to see what increased CPM bids or CPC campaigns end up doing.</p>
 
@@ -52,7 +52,7 @@
 
 <p>My favorite thing about Linked In ads is that you can filter down to a highly targeted audience to advertise to.  Unfortunately, as a result, I didn't get very many impressions.</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/linkedin.png"><img title="linkedin" src="http://ezliu.com/wp-content/uploads/2012/06/linkedin.png" alt="" width="969" height="173" /></a></p>
+<p><a href="http://www.ezliu.com//images/linkedin.png"><img title="linkedin" src="http://www.ezliu.com//images/linkedin.png" alt="" width="969" height="173" /></a></p>
 
 <p>&nbsp;</p>
 
@@ -78,7 +78,7 @@
 
 <p>Less annoying, but the sort of thing that worries me and makes me think that Linked In isn't paying any attention to their Ads group -- This morning I got an email that stated supposed stats about my 2 campaigns (most importantly, that I had a non-zero amount of clicks). However, if you compare it to the screenshot above from inside my Linked In Ads dashboard,  I haven't registered any clicks.</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/email.png"><img title="email" src="http://ezliu.com/wp-content/uploads/2012/06/email.png" alt="" width="574" height="310" /></a></p>
+<p><a href="http://www.ezliu.com//images/email.png"><img title="email" src="http://www.ezliu.com//images/email.png" alt="" width="574" height="310" /></a></p>
 
 <p>2 mistakes in the email:</p>
 
@@ -102,7 +102,7 @@
     <id>http://www.ezliu.com//blog/getting-started-with-linked-in-ads</id>
     <content type="html"><![CDATA[<p>I'm experimenting with Linked In Ads.  This is a log of what I did, my thought processes as I made decisions, and what I found interesting during the process of setting up my first Linked In ad campaign.</p>
 
-<p><a href="http://www.rocketlease.com"><img class="aligncenter size-full wp-image-265" title="Rocket Lease" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a></p>
+<p><a href="http://www.rocketlease.com"><img class="aligncenter size-full wp-image-265" title="Rocket Lease" src="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a></p>
 
 <h2><strong>TLDR:</strong></h2>
 
@@ -121,7 +121,7 @@
 
 <p>Linked In has a cool interface where you can slice the linked in user set and it tells you how many people are in the resulting set. I thought the numbers were cool, so I'm sharing the funnel that I sliced for my first campaign.</p>
 
-<p style="text-align: center;"><img class="aligncenter" title="All US" src="http://img1.uploadscreenshot.com/images/orig/6/17210540389-orig.png" alt="" width="656" height="429" /></p>
+<p style="text-align: center;"><img class="aligncenter" title="All US" src="http://www.ezliu.com//images/17210540389-orig.png" alt="" width="656" height="429" /></p>
 
 
 <p>Filtering the Linked In user set by location: United States gives us <strong>66,628,075</strong>. That's <strong>1 account for every 3 Americans</strong> <strong>between the ages of 20 and 65</strong>. Considering that Linked In is a professional networking site, that seems like an appropriate age range, and more significantly, not all Americans in that set are (a) professional workers that would be on Linked In (service industry workers are largely not on Linked In, for example), and (b) interested in networking online.</p>
@@ -133,7 +133,7 @@
 
 <p>No matter, I'm on Linked In for a very specific reason. To spread the word about Rocket Lease. Since <a href="http://www.rocketlease.com">Rocket Lease provides online rental applications and credit checks</a>, our natural users are<strong> landlords, property managers, and leasing agents</strong>.  Narrowing our area of interest to the real estate industry shrinks our target audience to <strong>1,579,593 </strong>Linked In users.</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.22.33-PM.png"><img class="aligncenter size-full wp-image-260" title="Linked In - Real Estate" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.22.33-PM.png" alt="" width="390" height="302" /></a></p>
+<p><a href="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.22.33-PM.png"><img title="Linked In - Real Estate" src="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.22.33-PM.png" alt="" width="390" height="302" /></a></p>
 
 <p>Another cool feature is that I can filter by company size.  A few ideas here, but the data first:</p>
 
@@ -267,7 +267,7 @@ Generally I don't think this is surprising -- for ANY company to grow that big p
 
 <p>&nbsp;</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.24.33-PM.png"><img class="aligncenter size-full wp-image-261" title="Linked In Final Filter" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.24.33-PM.png" alt="" width="394" height="447" /></a></p>
+<p><a href="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.24.33-PM.png"><img title="Linked In Final Filter" src="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.24.33-PM.png" alt="" width="394" height="447" /></a></p>
 
 <p>United States &gt; Real Estate professionals &gt; companies smaller than 50 people &gt; people who are decision makers (CXO, Manager, Partner, etc.). <strong>7,957 United States real estate company directors and decision makers that use the internet for networking and business.</strong> And I want to show them ads.</p>
 
@@ -276,7 +276,7 @@ Generally I don't think this is surprising -- for ANY company to grow that big p
 
 <p>It was extremely annoying to me that the minimum bid per click is $2.00.  In a previous blog post, I computed that a <a href="http://ezliu.com/currently-paying-150-per-conversion/">conservative,<strong> low bound for customer LTV $4.69</strong></a> -- with my signup rates, each<strong> signup was worth $2.25</strong> (conversion != signup in the experiment). <strong>With a minimum bid of $2.00, I need a nearly 100% signup rate</strong> on clickthroughs, which is a pipe dream.</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.40.30-PM.png"><img class="aligncenter size-full wp-image-270" title="Annoying minimum bid" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.40.30-PM.png" alt="" width="447" height="149" /></a></p>
+<p><a href="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.40.30-PM.png"><img class="aligncenter size-full wp-image-270" title="Annoying minimum bid" src="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.40.30-PM.png" alt="" width="447" height="149" /></a></p>
 
 <p>It's also a little annoying that they have a suggested bid range above the already irksome minimum bid, but there's no indication of what it means or that it will make any difference for me. Google Ads have lots of third party tutorials describing the impact of price, but Linked In does not. And Linked In, if you can't tell me <strong><em>why</em></strong> I should pay more, I'm not going to.  (Recommendation to Linked In: Please get a UI/UX person to rethink these ad creation flows.)</p>
 
@@ -290,7 +290,7 @@ Generally I don't think this is surprising -- for ANY company to grow that big p
 
 <p>Ultimately I will test both and report on which one performed better.  However, my total estimated audience size is ~7000 people, and I don't want to spend a ton readvertising to the same people, so I almost certainly won't have statistical significance.  Will follow up post as I get more data (only if it makes me look awesome, obviously).</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/logo.png"><img class="aligncenter size-full wp-image-262" title="logo" src="http://ezliu.com/wp-content/uploads/2012/06/logo.png" alt="" width="46" height="46" /></a></p>
+<p><a href="http://www.ezliu.com//images/logo.png"><img class="aligncenter size-full wp-image-262" title="logo" src="http://www.ezliu.com//images/logo.png" alt="" width="46" height="46" /></a></p>
 
 <p>&nbsp;</p>
 
@@ -317,7 +317,7 @@ Generally I don't think this is surprising -- for ANY company to grow that big p
 
 <p><a href="http://www.rocketlease.com">Rocket Lease</a> has different types of users. Small landlords, big landlords, property managers, leasing agents. While they interact with the site in similar ways, the strategy for connecting with each class of users differs and (I suspect) the total lifetime value of each customer class will vary.</p>
 
-<p style="text-align: center;"><a href="http://www.rocketlease.com"><img class="size-medium wp-image-37 aligncenter" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="" width="300" height="156" /></a></p>
+<p style="text-align: center;"><a href="http://www.rocketlease.com"><img src="http://www.ezliu.com//images/rl2-300x156.png" alt="" width="300" height="156" /></a></p>
 
 
 <p>For example, I intend to advertise on various landlord and property manager forums. Professional property managers tend to manage more properties than a landlord owns, so they likely have higher lifetime value (LTV) and I might be willing to pay more per property manager conversion.</p>
@@ -371,7 +371,7 @@ class OriginalRefererMiddleware(object):
 
 <p>&nbsp;</p>
 
-<p><img class="aligncenter size-full wp-image-205" title="kimmie" src="http://ezliu.com/wp-content/uploads/2012/06/kimmie.jpg" alt="" width="180" height="320" /></p>
+<p><img class="aligncenter size-full wp-image-205" title="kimmie" src="http://www.ezliu.com//images/kimmie.jpg" alt="" width="180" height="320" /></p>
 
 <h2><strong>"Unthreatening Potential Female Roommate Just Wants Confirmation That You Can Pay Bills"</strong></h2>
 
@@ -410,7 +410,7 @@ class OriginalRefererMiddleware(object):
 
 <p>&nbsp;</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/05/banana.jpg"><img class="aligncenter size-thumbnail wp-image-78" title="banana" src="http://ezliu.com/wp-content/uploads/2012/05/banana-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p><a href="http://www.ezliu.com//images/banana.jpg"><img class="aligncenter size-thumbnail wp-image-78" title="banana" src="http://www.ezliu.com//images/banana-150x150.jpg" alt="" width="150" height="150" /></a></p>
 
 <h2><strong>"Helpful Internet Citizen Trying To Help You Avoid Contractor Woes"</strong></h2>
 
@@ -437,7 +437,7 @@ class OriginalRefererMiddleware(object):
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><a href="http://ezliu.com/wp-content/uploads/2012/06/scam2.jpg"><img class="aligncenter  wp-image-209" title="scam" src="http://ezliu.com/wp-content/uploads/2012/06/scam2.jpg" alt="" width="210" height="190" /></a></p>
+<p style="text-align: center;"><a href="http://www.ezliu.com//images/scam2.jpg"><img class="aligncenter  wp-image-209" title="scam" src="http://www.ezliu.com//images/scam2.jpg" alt="" width="210" height="190" /></a></p>
 
 
 
@@ -476,7 +476,7 @@ Mostly spammers post "real" addresses. Real "real" people are afraid of posting 
 
 <p>&nbsp;</p>
 
-<p><a href="http://ezliu.com/wp-content/uploads/2012/06/b.jpg"><img class="aligncenter size-medium wp-image-210" title="b" src="http://ezliu.com/wp-content/uploads/2012/06/b-e1339030520918-250x300.jpg" alt="" width="250" height="300" /></a></p>
+<p><a href="http://www.ezliu.com//images/b-e1339030520918-250x300.jpg"><img class="aligncenter size-medium wp-image-210" title="b" src="http://www.ezliu.com//images/b-e1339030520918-250x300.jpg" alt="" width="250" height="300" /></a></p>
 
 <h2><strong>"Horny Young Co-Ed Wants To Chat"</strong></h2>
 

@@ -17,7 +17,7 @@ Just excluding the keywords that include "rental agreement" would have brought m
 
 Other terms too, like "Free eviction check", didn't do so hot for me, which isn't surprising considering that's not what Rocket Lease does. Hopefully by eliminating the garbage, I can quickly get to even cheaper conversion costs before I even do any on-site conversion optimization.
 
-<a href="http://ezliu.com/wp-content/uploads/2012/05/Money-on-Fire.jpg"><img class="aligncenter size-full wp-image-186" title="Money-on-Fire" src="http://ezliu.com/wp-content/uploads/2012/05/Money-on-Fire.jpg" alt="" width="328" height="366" /></a>
+<a href="/images/Money-on-Fire.jpg"><img class="aligncenter size-full wp-image-186" title="Money-on-Fire" src="/images/Money-on-Fire.jpg" alt="" width="328" height="366" /></a>
 
 <strong>Going Forward</strong>
 

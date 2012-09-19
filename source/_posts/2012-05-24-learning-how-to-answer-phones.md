@@ -24,4 +24,4 @@ My assumption was that an intro has to convey:
 - Indicate desire to assist you
 
 Turns out the anatomy of a support call intro doesn't include the last item. The weird stuff you don't think about when starting a business...
-<p style="text-align: center;"><a href="http://ezliu.com/wp-content/uploads/2012/05/phone.gif"><img class="aligncenter  wp-image-173" title="phone" src="http://ezliu.com/wp-content/uploads/2012/05/phone.gif" alt="" width="360" height="360" /></a></p>
+<p style="text-align: center;"><a href="/images/phone.gif"><img class="aligncenter  wp-image-173" title="phone" src="/images/phone.gif" alt="" width="360" height="360" /></a></p>

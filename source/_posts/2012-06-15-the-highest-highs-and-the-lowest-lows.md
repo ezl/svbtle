@@ -7,7 +7,7 @@ categories: [personal, startups]
 
 &nbsp;
 
-<a href="http://www.rocketlease.com"><img class="size-medium wp-image-37" title="Easy Online Rental Applications" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
+<a href="http://www.rocketlease.com"><img title="Easy Online Rental Applications" src="/images/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
 Really high highs and really low lows... such is startup life...
 
 Pretty crazy week for <a href="http://www.rocketlease.com">Rocket Lease</a>.  I don't expect startup life to be easy, but its been a bit of a rollercoaster and I'm exhausted.
@@ -16,7 +16,7 @@ In the span of 48 hours, we've been evicted from our insanely gorgeous office sp
 <h2>Highlights</h2>
 <strong>Best office space ever:</strong> Rocket Lease has been sharing extra office space with an insanely awesome startup, KM, who has probably the most insanely gorgeous office space I've seen to date.  They gave us an unbeatable deal in the spirit of founders helping founders / startups helping startups. Unbelievable space. Just have to post some pics to brag...
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.31.jpg"><img class="aligncenter size-medium wp-image-224" title="2012-06-12 11.17.31" src="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.31-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.57.jpg"><img class="aligncenter size-medium wp-image-225" title="2012-06-12 11.17.57" src="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.17.57-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.18.26.jpg"><img class="aligncenter size-medium wp-image-226" title="2012-06-12 11.18.26" src="http://ezliu.com/wp-content/uploads/2012/06/2012-06-12-11.18.26-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="/images/2012-06-12-11.17.31.jpg"><img class="aligncenter size-medium wp-image-224" title="2012-06-12 11.17.31" src="/images/2012-06-12-11.17.31-300x225.jpg" alt="" width="300" height="225" /></a><a href="/images/2012-06-12-11.17.57.jpg"><img title="2012-06-12 11.17.57" src="/images/2012-06-12-11.17.57-300x225.jpg" alt="" width="300" height="225" /></a><a href="/images/2012-06-12-11.18.26.jpg"><img class="aligncenter size-medium wp-image-226" title="2012-06-12 11.18.26" src="/images/2012-06-12-11.18.26-300x225.jpg" alt="" width="300" height="225" /></a>
 
 <strong>Amazing team and interns:</strong> We currently have 2 full timers (me + Mike) and 4 college interns (Alec, Alper, Jason, John). Mike did a phenomenal job getting really sharp, smart, entrepreneurial interns who really connect with the project, and I am/was looking forward to an awesome summer.  Anyways, team of 6. This is an important point.
 

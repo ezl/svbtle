@@ -8,7 +8,7 @@ categories: rocketlease
 <strong>$149.53, actually</strong>. That's how much I paid per conversion while experimenting with Adwords this month.
 
 My best estimate is that a conversion is worth $4.69 *, so I'm overpaying a bit.  I'm no expert, but I'm pretty sure that's not good.
-<p style="text-align: center;"><a href="http://ezliu.com/wp-content/uploads/2012/05/CPC21.png"><img class="aligncenter size-full wp-image-153" title="CPC2" src="http://ezliu.com/wp-content/uploads/2012/05/CPC21.png" alt="" width="782" height="210" /></a> <a href="http://ezliu.com/wp-content/uploads/2012/05/CPC2.png">
+<p style="text-align: center;"><a href="/images/CPC21.png"><img class="aligncenter size-full wp-image-153" title="CPC2" src="/images/CPC21.png" alt="" width="782" height="210" /></a> <a href="/images/CPC2.png">
 </a></p>
 Before I continue, I want to explain how Rocket Lease works to explain what a conversion is and why I chose that particular conversion metric.
 
@@ -16,7 +16,7 @@ Before I continue, I want to explain how Rocket Lease works to explain what a co
 
 <strong>How Rocket Lease Works</strong>
 
-<a href="http://www.rocketlease.com"><img class="alignright" title="Easy Online Rental Applications" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
+<a href="http://www.rocketlease.com"><img class="alignright" title="Easy Online Rental Applications" src="/images/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
 
 The tricky thing about Rocket Lease conversions is that the people I want to drive to my site (landlords) actually never pay me directly (the applicants do).
 

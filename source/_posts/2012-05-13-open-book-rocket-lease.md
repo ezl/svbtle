@@ -7,7 +7,7 @@ categories: [startups, rocketlease]
 
 I am considering posting more openly about what I'm working on with <a href="http://rocketlease.com">Rocket Lease</a>. I generally have enjoyed when other entrepreneurs have done this (Patrick McKenzie of Bingo Card Creator and Johannes Borchardt of http://droid-blog.net/ come to mind).
 
-[caption id="attachment_37" align="alignright" width="210" caption="Easy Online Rental Applications"]<a href="http://ezliu.com/wp-content/uploads/2012/05/rl2.png"><img class=" wp-image-37 " title="Easy Online Rental Applications" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="210" height="109" /></a>[/caption]
+[caption id="attachment_37" align="alignright" width="210" caption="Easy Online Rental Applications"]<a href="/images/rl2.png"><img class=" wp-image-37 " title="Easy Online Rental Applications" src="/images/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="210" height="109" /></a>[/caption]
 
 I have no interest in writing a "how to" guide. I'm considering just being transparent about what I'm working on, what I'm struggling with, how I'm doing it (not how you should do it), and where I'm allocating my efforts.
 

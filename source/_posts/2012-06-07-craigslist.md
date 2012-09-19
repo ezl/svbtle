@@ -11,7 +11,7 @@ Mike L and I were chatting about it and I decided to chronicle a few craigslist 
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-205" title="kimmie" src="http://ezliu.com/wp-content/uploads/2012/06/kimmie.jpg" alt="" width="180" height="320" />
+<img class="aligncenter size-full wp-image-205" title="kimmie" src="/images/kimmie.jpg" alt="" width="180" height="320" />
 <h2><strong>"Unthreatening Potential Female Roommate Just Wants Confirmation That You Can Pay Bills"</strong></h2>
 <strong>AKA:</strong> "Please Run A Credit Check"
 <strong>Actual Example:</strong> <a href="http://ezl.github.com/craigslistspam/rental1.html">credit</a>
@@ -41,7 +41,7 @@ Mike was looking for a new apartment and responded to an ad in the roommates sec
 
 &nbsp;
 
-<a href="http://ezliu.com/wp-content/uploads/2012/05/banana.jpg"><img class="aligncenter size-thumbnail wp-image-78" title="banana" src="http://ezliu.com/wp-content/uploads/2012/05/banana-150x150.jpg" alt="" width="150" height="150" /></a>
+<a href="/images/banana.jpg"><img class="aligncenter size-thumbnail wp-image-78" title="banana" src="/images/banana-150x150.jpg" alt="" width="150" height="150" /></a>
 <h2><strong>"Helpful Internet Citizen Trying To Help You Avoid Contractor Woes"</strong></h2>
 <strong>Note:</strong> This spam was found to be a third party abusing an affiliate program. The actual company reached out and informed me that they don't condone that behavior and have banned the affiliate marketer. Their logo above was replaced by a photo of a banana. Why? Because I happened to have one in my Wordpress Media Library.
 
@@ -61,7 +61,7 @@ I was looking for someone to reskin a wordpress blog for me. A very helpful girl
 <strong>Their action:</strong> scrape craigslist computer gigs section, respond to everyone and recommend a specific site as a superior alternative.
 
 &nbsp;
-<p style="text-align: center;"><a href="http://ezliu.com/wp-content/uploads/2012/06/scam2.jpg"><img class="aligncenter  wp-image-209" title="scam" src="http://ezliu.com/wp-content/uploads/2012/06/scam2.jpg" alt="" width="210" height="190" /></a></p>
+<p style="text-align: center;"><a href="/images/scam2.jpg"><img class="aligncenter  wp-image-209" title="scam" src="/images/scam2.jpg" alt="" width="210" height="190" /></a></p>
 
 <h2></h2>
 <h2><strong>"Christian In West Africa Wants To Rent Lovely Home To You"</strong></h2>
@@ -90,7 +90,7 @@ Mostly spammers post "real" addresses. Real "real" people are afraid of posting 
 
 &nbsp;
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/b.jpg"><img class="aligncenter size-medium wp-image-210" title="b" src="http://ezliu.com/wp-content/uploads/2012/06/b-e1339030520918-250x300.jpg" alt="" width="250" height="300" /></a>
+<a href="/images/b-e1339030520918-250x300.jpg"><img class="aligncenter size-medium wp-image-210" title="b" src="/images/b-e1339030520918-250x300.jpg" alt="" width="250" height="300" /></a>
 <h2><strong>"Horny Young Co-Ed Wants To Chat"</strong></h2>
 <strong>AKA</strong> "Men Like Nude Women"
 <strong>Actual Examples:</strong> <a href="http://ezl.github.com/craigslistspam/adult.html">http://ezl.github.com/craigslistspam/adult.html</a>

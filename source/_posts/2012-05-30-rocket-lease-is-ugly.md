@@ -15,10 +15,10 @@ The unfortunate part is that, I'm getting a ~2.2% signup rate.  I'm not sure if 
 
 Anyways, all the feedback that my site is ugly and that the "borrowed" stock image is terrible has finally sunk in, so I'm in the process of getting a new landing page ready to test, thanks to my good friend Justin K.  A preview of the landing page (don't mind the Lease Rocket / Rocket Lease, Justin was just being playful with that):
 
-<a href="http://ezliu.com/wp-content/uploads/2012/05/photo.jpg"><img src="http://ezliu.com/wp-content/uploads/2012/05/photo-923x1024.jpg" alt="" title="New Landing Page Mockup" width="450" height="499" class="aligncenter size-large wp-image-193" /></a>
+<a href="/images/photo.jpg"><img src="/images/photo-923x1024.jpg" alt="" title="New Landing Page Mockup" width="450" height="499" class="aligncenter size-large wp-image-193" /></a>
 
 Simultaneously, Ryan G is working with me to rethink the internal UI and make it clearer to new users what they need to do. Ryan's a brilliant UI/UX guy and has really helped me narrow down the screens to the bare essentials, helped make the process more fun, and taught me a ton about UI/UX on the way. The new Rocket Lease dashboard and applications will be much slicker, more inviting to users, and easier to understand.  Can't wait to get this stuff live.
 
-<a href="http://ezliu.com/wp-content/uploads/2012/05/rentalslistpreview.png"><img src="http://ezliu.com/wp-content/uploads/2012/05/rentalslistpreview-300x261.png" alt="" title="rentalslistpreview" width="300" height="261" class="aligncenter size-medium wp-image-194" /></a>
+<a href="/images/rentalslistpreview.png"><img src="/images/rentalslistpreview-300x261.png" alt="" title="rentalslistpreview" width="300" height="261" class="aligncenter size-medium wp-image-194" /></a>
 
 Very excited to see if this stuff performs differently and to be able to have something pretty to show off.

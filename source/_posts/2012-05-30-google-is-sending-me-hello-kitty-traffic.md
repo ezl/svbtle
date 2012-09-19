@@ -11,4 +11,4 @@ For some reason, Analytics is telling me that a nontrivial portion of my traffic
 
 They are apparently my second and third most significant traffic sources.  Weirdly the average position for those queries is registering as 54 and 200, which is odd, because (a) who goes to the 20th page of results and clicks on something, and (b) why am I ranking for anything with the phrase  "hello kitty" anyways?
 
-<a href="http://ezliu.com/wp-content/uploads/2012/05/weirdsearchqueries.png"><img src="http://ezliu.com/wp-content/uploads/2012/05/weirdsearchqueries.png" alt="" title="weirdsearchqueries" width="1022" height="444" class="aligncenter size-full wp-image-198" /></a>
+<a href="/images/weirdsearchqueries.png"><img src="/images/weirdsearchqueries.png" alt="" title="weirdsearchqueries" width="1022" height="444" class="aligncenter size-full wp-image-198" /></a>

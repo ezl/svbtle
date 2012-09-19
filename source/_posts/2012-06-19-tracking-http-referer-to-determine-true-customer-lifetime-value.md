@@ -12,7 +12,7 @@ More specifically, I want to be able to look back in a month, and say "users fro
 Not really. Google Analytics, as far as I know, will tell me where a user came from for a visit, but won't let me tie all the future behavior of the site user to their original referer.
 <h2>Why Is That Important?</h2>
 <a href="http://www.rocketlease.com">Rocket Lease</a> has different types of users. Small landlords, big landlords, property managers, leasing agents. While they interact with the site in similar ways, the strategy for connecting with each class of users differs and (I suspect) the total lifetime value of each customer class will vary.
-<p style="text-align: center;"><a href="http://www.rocketlease.com"><img class="size-medium wp-image-37 aligncenter" src="http://ezliu.com/wp-content/uploads/2012/05/rl2-300x156.png" alt="" width="300" height="156" /></a></p>
+<p style="text-align: center;"><a href="http://www.rocketlease.com"><img src="/images/rl2-300x156.png" alt="" width="300" height="156" /></a></p>
 For example, I intend to advertise on various landlord and property manager forums. Professional property managers tend to manage more properties than a landlord owns, so they likely have higher lifetime value (LTV) and I might be willing to pay more per property manager conversion.
 
 I need to know how much time/effort/money to allocate to advertising on Property Manager Forum X vs reddit/r/smalllandlords.

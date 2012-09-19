@@ -11,7 +11,7 @@ So far, the Linked In ad experiment so far has been... underwhelming.  In fairn
 <h2>Too Slow</h2>
 My favorite thing about Linked In ads is that you can filter down to a highly targeted audience to advertise to.  Unfortunately, as a result, I didn't get very many impressions.
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/linkedin.png"><img title="linkedin" src="http://ezliu.com/wp-content/uploads/2012/06/linkedin.png" alt="" width="969" height="173" /></a>
+<a href="/images/linkedin.png"><img title="linkedin" src="/images/linkedin.png" alt="" width="969" height="173" /></a>
 
 &nbsp;
 
@@ -31,7 +31,7 @@ The Linked In ad platform generally needs work.  The single most annoying eleme
 
 Less annoying, but the sort of thing that worries me and makes me think that Linked In isn't paying any attention to their Ads group -- This morning I got an email that stated supposed stats about my 2 campaigns (most importantly, that I had a non-zero amount of clicks). However, if you compare it to the screenshot above from inside my Linked In Ads dashboard,  I haven't registered any clicks.
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/email.png"><img title="email" src="http://ezliu.com/wp-content/uploads/2012/06/email.png" alt="" width="574" height="310" /></a>
+<a href="/images/email.png"><img title="email" src="/images/email.png" alt="" width="574" height="310" /></a>
 
 2 mistakes in the email:
 <ol>

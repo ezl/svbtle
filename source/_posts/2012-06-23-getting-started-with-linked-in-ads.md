@@ -7,7 +7,7 @@ categories: [rocketlease, strategy, advertising]
 
 I'm experimenting with Linked In Ads.  This is a log of what I did, my thought processes as I made decisions, and what I found interesting during the process of setting up my first Linked In ad campaign.
 
-<a href="http://www.rocketlease.com"><img class="aligncenter size-full wp-image-265" title="Rocket Lease" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a>
+<a href="http://www.rocketlease.com"><img class="aligncenter size-full wp-image-265" title="Rocket Lease" src="/images/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a>
 <h2><strong>TLDR:</strong></h2>
 <ol>
 	<li><strong>A lot of people are on Linked In</strong> (66 million accounts registered in the United States).</li>
@@ -18,14 +18,14 @@ I'm experimenting with Linked In Ads.  This is a log of what I did, my thought 
 </ol>
 <h2>Cool Data + How To Narrow Down Your Target Audience</h2>
 Linked In has a cool interface where you can slice the linked in user set and it tells you how many people are in the resulting set. I thought the numbers were cool, so I'm sharing the funnel that I sliced for my first campaign.
-<p style="text-align: center;"><img class="aligncenter" title="All US" src="http://img1.uploadscreenshot.com/images/orig/6/17210540389-orig.png" alt="" width="656" height="429" /></p>
+<p style="text-align: center;"><img class="aligncenter" title="All US" src="/images/17210540389-orig.png" alt="" width="656" height="429" /></p>
 Filtering the Linked In user set by location: United States gives us <strong>66,628,075</strong>. That's <strong>1 account for every 3 Americans</strong> <strong>between the ages of 20 and 65</strong>. Considering that Linked In is a professional networking site, that seems like an appropriate age range, and more significantly, not all Americans in that set are (a) professional workers that would be on Linked In (service industry workers are largely not on Linked In, for example), and (b) interested in networking online.
 
 If we were to pretend those numbers were real, independent, active accounts, Linked In might have close to 100% of its target user base.  Amusing. I don't know how Linked In stock is priced, but if its at market saturation, I don't imagine I want to price it like a growth stock.
 <h2>Filter by Industry</h2>
 No matter, I'm on Linked In for a very specific reason. To spread the word about Rocket Lease. Since <a href="http://www.rocketlease.com">Rocket Lease provides online rental applications and credit checks</a>, our natural users are<strong> landlords, property managers, and leasing agents</strong>.  Narrowing our area of interest to the real estate industry shrinks our target audience to <strong>1,579,593 </strong>Linked In users.
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.22.33-PM.png"><img class="aligncenter size-full wp-image-260" title="Linked In - Real Estate" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.22.33-PM.png" alt="" width="390" height="302" /></a>
+<a href="/images/Screen-Shot-2012-06-22-at-9.22.33-PM.png"><img title="Linked In - Real Estate" src="/images/Screen-Shot-2012-06-22-at-9.22.33-PM.png" alt="" width="390" height="302" /></a>
 
 Another cool feature is that I can filter by company size.  A few ideas here, but the data first:
 <table>
@@ -146,13 +146,13 @@ I considered segmenting my market to people &lt;55 years of age because I think 
 
 &nbsp;
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.24.33-PM.png"><img class="aligncenter size-full wp-image-261" title="Linked In Final Filter" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.24.33-PM.png" alt="" width="394" height="447" /></a>
+<a href="/images/Screen-Shot-2012-06-22-at-9.24.33-PM.png"><img title="Linked In Final Filter" src="/images/Screen-Shot-2012-06-22-at-9.24.33-PM.png" alt="" width="394" height="447" /></a>
 
 United States &gt; Real Estate professionals &gt; companies smaller than 50 people &gt; people who are decision makers (CXO, Manager, Partner, etc.). <strong>7,957 United States real estate company directors and decision makers that use the internet for networking and business.</strong> And I want to show them ads.
 <h2>Clicks vs Impressions</h2>
 It was extremely annoying to me that the minimum bid per click is $2.00.  In a previous blog post, I computed that a <a href="http://ezliu.com/currently-paying-150-per-conversion/">conservative,<strong> low bound for customer LTV $4.69</strong></a> -- with my signup rates, each<strong> signup was worth $2.25</strong> (conversion != signup in the experiment). <strong>With a minimum bid of $2.00, I need a nearly 100% signup rate</strong> on clickthroughs, which is a pipe dream.
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.40.30-PM.png"><img class="aligncenter size-full wp-image-270" title="Annoying minimum bid" src="http://ezliu.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-22-at-9.40.30-PM.png" alt="" width="447" height="149" /></a>
+<a href="/images/Screen-Shot-2012-06-22-at-9.40.30-PM.png"><img class="aligncenter size-full wp-image-270" title="Annoying minimum bid" src="/images/Screen-Shot-2012-06-22-at-9.40.30-PM.png" alt="" width="447" height="149" /></a>
 
 It's also a little annoying that they have a suggested bid range above the already irksome minimum bid, but there's no indication of what it means or that it will make any difference for me. Google Ads have lots of third party tutorials describing the impact of price, but Linked In does not. And Linked In, if you can't tell me <strong>*why*</strong> I should pay more, I'm not going to.  (Recommendation to Linked In: Please get a UI/UX person to rethink these ad creation flows.)
 
@@ -166,7 +166,7 @@ Obviously its different because people searching on Google are PLANNING on click
 
 Ultimately I will test both and report on which one performed better.  However, my total estimated audience size is ~7000 people, and I don't want to spend a ton readvertising to the same people, so I almost certainly won't have statistical significance.  Will follow up post as I get more data (only if it makes me look awesome, obviously).
 
-<a href="http://ezliu.com/wp-content/uploads/2012/06/logo.png"><img class="aligncenter size-full wp-image-262" title="logo" src="http://ezliu.com/wp-content/uploads/2012/06/logo.png" alt="" width="46" height="46" /></a>
+<a href="/images/logo.png"><img class="aligncenter size-full wp-image-262" title="logo" src="/images/logo.png" alt="" width="46" height="46" /></a>
 
 &nbsp;
 

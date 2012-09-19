@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ideas | ezl]]></title>
+  <link href="http://www.ezliu.com//blog/categories/ideas/atom.xml" rel="self"/>
+  <link href="http://www.ezliu.com//"/>
+  <updated>2012-09-18T22:58:00-05:00</updated>
+  <id>http://www.ezliu.com//</id>
+  <author>
+    <name><![CDATA[ezl]]></name>
+    <email><![CDATA[ericzliu@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[YourSiteCouldLookLike.com]]></title>
+    <link href="http://www.ezliu.com//blog/yoursitecouldlooklike-com/"/>
+    <updated>2012-06-16T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/yoursitecouldlooklike-com</id>
+    <content type="html"><![CDATA[<p>My old gym has a website that renders terribly on mobile, yet everybody at the gym goes to it every day to see the workout (that may sound weird, just trust me that it's a typical crossfit gym thing).</p>
+
+<p>Everybody goes to the site every day to see ONE thing: the workout of the day.  Then you get there and have to pinch and zoom to read it.</p>
+
+<p>I want a mobile version. So I threw together my own stylesheet for it. It'd be great if I could show my friends.</p>
+
+<h2><strong>Somebody Please Build This</strong></h2>
+
+
+<p><strong>http://yoursitecouldlooklike.com</strong></p>
+
+<p>"Your Site Could Look Like" is a website. Sort of like <strong>bitly, but it doesn't just redirect, it loads the target page AND adds additional stylesheet rules</strong> to it. Basically, it lets you apply any css to any website and show it off to your friends (or the customer who you are trying to woo).</p>
+
+<h2><strong>How it works</strong></h2>
+
+
+<p>On the main page there are 2 input fields and a submit button.</p>
+
+<blockquote>
+<div>1) Target Site URL:</div>
+<div>2) CSS file location:</div>
+<div>3) [Submit button]</div>
+</blockquote>
+
+
+<p>User puts in a website and an alt stylesheet for it. On clicking submit, they get back a unique url:</p>
+
+<blockquote>
+<div><strong>http://yoursitecouldlooklike.com/xT6j2</strong></div></blockquote>
+
+
+<p>Set up an nginx/apache reverse proxy. Whenever someone accesses that URL, the service curls the target site (1), inserts the contents of the CSS file immediately before the closing html tag (2), then serves the page to the customer.</p>
+
+<p>If you want to be fancy, you can count page views, do analytics on the ip addresses that access it, etc. You can also let people insert their own js file. Will someone build this please?</p>
+]]></content>
+  </entry>
+  
+</feed>

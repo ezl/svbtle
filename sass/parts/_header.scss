@@ -102,7 +102,11 @@ margin-top: 30px;
     color: $subtitle-color;
     -webkit-font-smoothing: antialiased;
     max-width: none;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
+}
+
+div.social {
+    margin-bottom: 20px;
 }
 
 @media (min-width: 630px) {

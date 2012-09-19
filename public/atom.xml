@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-18T22:58:00-05:00</updated>
+  <updated>2012-09-19T14:59:55-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reddit 'Advertising']]></title>
+    <link href="http://www.ezliu.com//blog/reddit-advertising/"/>
+    <updated>2012-09-19T13:18:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/reddit-advertising</id>
+    <content type="html"><![CDATA[<p>Ever since I read about the success of Duck Duck Go&#8217;s Reddit advertising campaign, I wanted to experiment a bit with advertising on Reddit.</p>
+
+<p>I&#8217;ve tried a few approaches on <a href="http://www.ezliu.com//blog/currently-paying-150-per-conversion/" title="Paying 150 Per Conversion For Rocket Lease">Google Adwords</a> and <a href="http://www.ezliu.com//blog/getting-started-with-linked-in-ads/" title="Linked In Advertising Starter Guide">Linked</a> <a href="http://www.ezliu.com//blog/linked-in-ads-results-3-days/">In</a> without a lot of success (though I&#8217;ll probably try again soon, as I think I&#8217;ve learned a lot since early trials).</p>
+
+<p>With Google, I tried the traditional keyword approach, targeting keywords that are indicative of interest in Rocket Lease&#8217;s services (online rental applications).  With Linked In, the goal was to target decision makers at real estate companies who might not be actively looking for a solution but seemed like probable Rocket Lease users.</p>
+
+<h2>Approach</h2>
+
+<p><a href="http://www.rocketlease.com/reddit/"><img src="http://www.ezliu.com//images/reddit_ad.png" alt="Rocket Lease Reddit advertising" /></a></p>
+
+<p>With Reddit, I tried an entirely different approach.  Instead of looking for users, I wanted to appeal to Redditors to help me spread the word.  I assumed that most redditors aren&#8217;t landlords but almost all redditors know someone is a landlord or rents from a landlord.</p>
+
+<p>This particular appeal was a personal request for readers to share the word.  Redditors on the internet.  They probably largely prefer doing this online.  I hoped that Redditors might be willing to spread the word. I wasn&#8217;t asking for signups or money or even a lot of time &#8211; just to share the word for a process that I think they might prefer for the next time they or someone they know rents an apartment.</p>
+
+<p>User time is really valuable as well, so I wanted to make it as easy as possible for users to share. The <a href="http://www.rocketlease.com/reddit/">reddit landing page</a> was modeled after <a href="http://500px.com/terms">500px&#8217;s excellent terms of service page</a> that has the cliff notes version alongside the actual text for easy reading.  Additionally, I tried to make it easy for users to invite landlords with a built-in form and one click twitter and facebook sharing.</p>
+
+<p><a href="http://www.rocketlease.com/reddit/"><img src="http://www.ezliu.com//images/redditeasyshare.png" alt="Easy Social Media Sharing" /></a></p>
+
+<p>I advertised in the Real Estate subreddit &#8211; I was the only advertiser in this category, so that means that my was displayed at the top of the page for any user browsing the subreddit directly and I also showed up on the main feed for any logged in users who subscribe to that subreddit.</p>
+
+<p>I also spent the minimum amount advertising to the main page, which gives me exposure proportionate to the amount of money I spent ($20/day, the minimum) compared to other advertisers who were advertising on the same day.  This pool is MUCH bigger, but also generally has people who probably care less about Rocket Lease.</p>
+
+<h2>Results</h2>
+
+<p>Mostly underwhelming.</p>
+
+<p>Over 3 days:</p>
+
+<ul>
+<li>Total cost: $150</li>
+<li>503,248 impressions</li>
+<li>398 clicks</li>
+<li>0.079% CTR</li>
+<li>6 landlord invitations</li>
+<li>1.25 pages per visit (whee, 20 % of visitors probably hit the landing page, site average is 4.5 pages/visit)</li>
+<li>89% bounce rate (substantially higher than my normal, but expected for redditors, site average is 45%)</li>
+<li>average visit duration 37 seconds (eh not surprised, but I was hopeful for more, site average is 4:30 seconds/visit)</li>
+</ul>
+
+
+<p><a href="http://www.ezliu.com//images/reddit_results_full.png"><img src="http://www.ezliu.com//images/reddit_results_graph.png" alt="Results" /></a></p>
+
+<p>5 of the landlord invitations occured on the first day, and 1 on the second day. &#8216;Twas cool that you can see Reddit traffic patterns in the impressions.</p>
+
+<p>See the <a href="http://www.ezliu.com//images/reddit_results_full.png">full hourly breakdown of the campaign</a></p>
+
+<h2>What I Should Have Done Differently</h2>
+
+<ul>
+<li><strong>Test different headlines</strong>  In general, I need to start split testing more things on Rocket Lease.</li>
+<li><strong>Run the campaign for longer</strong> I&#8217;m conflicted on this.  On the one hand, the 3 day traffic pattern was declining and I got all my results in the first 24 hours. CTR appeared to be generally decreasing as well over time, so that makes me think users just decided they didn&#8217;t care and everyone who was going to do anything did it in the first 24 hours. However, I suspect there&#8217;s some value in remaining as a persistent feature on the page to really sink into readers&#8217; subconscious.  By now, its doubtful that any redditor even remembers that campaign occured at all.  For 1000 bucks, I can stay at the top of the reddit real estate section for an entire month and change the headlines over time.</li>
+</ul>
+
+
+<p><a href="http://www.ezliu.com//images/reddit_results_full.png">See the complete Reddit campaign results</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Moving to Jekyll]]></title>
@@ -5137,27 +5200,6 @@ In fact, the browser session that actually generates revenue will be not be the 
 
 <div>* Except for Ryan W &#8211; that guy is a team, and he works insanely hard and good all the time. I don&#8217; understand how its possible to operate at that level, that consistently, for that long.</div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Open Book: Rocket Lease]]></title>
-    <link href="http://www.ezliu.com//blog/open-book-rocket-lease/"/>
-    <updated>2012-05-13T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/open-book-rocket-lease</id>
-    <content type="html"><![CDATA[<p>I am considering posting more openly about what I&#8217;m working on with <a href="http://rocketlease.com">Rocket Lease</a>. I generally have enjoyed when other entrepreneurs have done this (Patrick McKenzie of Bingo Card Creator and Johannes Borchardt of http://droid-blog.net/ come to mind).</p>
-
-<p>[caption id=&#8221;attachment_37&#8221; align=&#8221;alignright&#8221; width=&#8221;210&#8221; caption=&#8221;Easy Online Rental Applications&#8221;]<a href="http://www.ezliu.com//images/rl2.png"><img class=" wp-image-37 " title="Easy Online Rental Applications" src="http://www.ezliu.com//images/05/rl2-300x156.png" alt="Easy Online Rental Applications" width="210" height="109" /></a>[/caption]</p>
-
-<p>I have no interest in writing a &#8220;how to&#8221; guide. I&#8217;m considering just being transparent about what I&#8217;m working on, what I&#8217;m struggling with, how I&#8217;m doing it (not how you should do it), and where I&#8217;m allocating my efforts.</p>
-
-<p><strong>Possible Benefits:</strong>
-So far I&#8217;ve really enjoyed the feedback I&#8217;ve gotten from people since beginning to write this blog. Having a public place for my writing has connected me to people I would likely have never gotten in touch with.</p>
-
-<p><strong>Concerns:</strong>
-The rental space is really crowded. There&#8217;s a lurking fear that I shouldn&#8217;t publicly broadcast my approach to making Rocket Lease awesome. I have competitors. Right now Rocket Lease isn&#8217;t particularly competitive in the space, but I want it to be, and the fear is that by being open about where I&#8217;m allocating my efforts I&#8217;ll undermine my own efforts. Also, as of now, I&#8217;m a single founder. Multiple cofounder teams have a body count advantage over me.</p>
-
-<p>Going to mull this over a bit, but I&#8217;m leaning heavily towards doing it &#8211; unless I get too scared.</p>
 ]]></content>
   </entry>
   

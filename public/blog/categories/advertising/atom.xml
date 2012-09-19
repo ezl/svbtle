@@ -4,7 +4,7 @@
   <title><![CDATA[Category: advertising | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/advertising/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-18T22:58:00-05:00</updated>
+  <updated>2012-09-19T14:59:55-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reddit 'Advertising']]></title>
+    <link href="http://www.ezliu.com//blog/reddit-advertising/"/>
+    <updated>2012-09-19T13:18:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/reddit-advertising</id>
+    <content type="html"><![CDATA[<p>Ever since I read about the success of Duck Duck Go's Reddit advertising campaign, I wanted to experiment a bit with advertising on Reddit.</p>
+
+<p>I've tried a few approaches on <a href="/blog/currently-paying-150-per-conversion/" title="Paying 150 Per Conversion For Rocket Lease">Google Adwords</a> and <a href="/blog/getting-started-with-linked-in-ads/" title="Linked In Advertising Starter Guide">Linked</a> <a href="/blog/linked-in-ads-results-3-days/">In</a> without a lot of success (though I'll probably try again soon, as I think I've learned a lot since early trials).</p>
+
+<p>With Google, I tried the traditional keyword approach, targeting keywords that are indicative of interest in Rocket Lease's services (online rental applications).  With Linked In, the goal was to target decision makers at real estate companies who might not be actively looking for a solution but seemed like probable Rocket Lease users.</p>
+
+<h2>Approach</h2>
+
+<p><a href="http://www.rocketlease.com/reddit/"><img src="/images/reddit_ad.png" alt="Rocket Lease Reddit advertising" /></a></p>
+
+<p>With Reddit, I tried an entirely different approach.  Instead of looking for users, I wanted to appeal to Redditors to help me spread the word.  I assumed that most redditors aren't landlords but almost all redditors know someone is a landlord or rents from a landlord.</p>
+
+<p>This particular appeal was a personal request for readers to share the word.  Redditors on the internet.  They probably largely prefer doing this online.  I hoped that Redditors might be willing to spread the word. I wasn't asking for signups or money or even a lot of time -- just to share the word for a process that I think they might prefer for the next time they or someone they know rents an apartment.</p>
+
+<p>User time is really valuable as well, so I wanted to make it as easy as possible for users to share. The <a href="http://www.rocketlease.com/reddit/">reddit landing page</a> was modeled after <a href="http://500px.com/terms">500px's excellent terms of service page</a> that has the cliff notes version alongside the actual text for easy reading.  Additionally, I tried to make it easy for users to invite landlords with a built-in form and one click twitter and facebook sharing.</p>
+
+<p><a href="http://www.rocketlease.com/reddit/"><img src="/images/redditeasyshare.png" alt="Easy Social Media Sharing" /></a></p>
+
+<p>I advertised in the Real Estate subreddit -- I was the only advertiser in this category, so that means that my was displayed at the top of the page for any user browsing the subreddit directly and I also showed up on the main feed for any logged in users who subscribe to that subreddit.</p>
+
+<p>I also spent the minimum amount advertising to the main page, which gives me exposure proportionate to the amount of money I spent ($20/day, the minimum) compared to other advertisers who were advertising on the same day.  This pool is MUCH bigger, but also generally has people who probably care less about Rocket Lease.</p>
+
+<h2>Results</h2>
+
+<p>Mostly underwhelming.</p>
+
+<p>Over 3 days:</p>
+
+<ul>
+<li>Total cost: $150</li>
+<li>503,248 impressions</li>
+<li>398 clicks</li>
+<li>0.079% CTR</li>
+<li>6 landlord invitations</li>
+<li>1.25 pages per visit (whee, 20 % of visitors probably hit the landing page, site average is 4.5 pages/visit)</li>
+<li>89% bounce rate (substantially higher than my normal, but expected for redditors, site average is 45%)</li>
+<li>average visit duration 37 seconds (eh not surprised, but I was hopeful for more, site average is 4:30 seconds/visit)</li>
+</ul>
+
+
+<p><a href="/images/reddit_results_full.png"><img src="/images/reddit_results_graph.png" alt="Results" /></a></p>
+
+<p>5 of the landlord invitations occured on the first day, and 1 on the second day. 'Twas cool that you can see Reddit traffic patterns in the impressions.</p>
+
+<p>See the <a href="/images/reddit_results_full.png">full hourly breakdown of the campaign</a></p>
+
+<h2>What I Should Have Done Differently</h2>
+
+<ul>
+<li><strong>Test different headlines</strong>  In general, I need to start split testing more things on Rocket Lease.</li>
+<li><strong>Run the campaign for longer</strong> I'm conflicted on this.  On the one hand, the 3 day traffic pattern was declining and I got all my results in the first 24 hours. CTR appeared to be generally decreasing as well over time, so that makes me think users just decided they didn't care and everyone who was going to do anything did it in the first 24 hours. However, I suspect there's some value in remaining as a persistent feature on the page to really sink into readers' subconscious.  By now, its doubtful that any redditor even remembers that campaign occured at all.  For 1000 bucks, I can stay at the top of the reddit real estate section for an entire month and change the headlines over time.</li>
+</ul>
+
+
+<p><a href="/images/reddit_results_full.png">See the complete Reddit campaign results</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Change in Linked In Ad Strategy: Free Banner Advertising?]]></title>
@@ -295,6 +358,90 @@ Generally I don't think this is surprising -- for ANY company to grow that big p
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Currently Paying $150 Per Conversion]]></title>
+    <link href="http://www.ezliu.com//blog/currently-paying-150-per-conversion/"/>
+    <updated>2012-05-23T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/currently-paying-150-per-conversion</id>
+    <content type="html"><![CDATA[<p><strong>$149.53, actually</strong>. That's how much I paid per conversion while experimenting with Adwords this month.</p>
+
+<p>My best estimate is that a conversion is worth $4.69 *, so I'm overpaying a bit.  I'm no expert, but I'm pretty sure that's not good.</p>
+
+<p style="text-align: center;"><a href="http://www.ezliu.com//images/CPC21.png"><img class="aligncenter size-full wp-image-153" title="CPC2" src="http://www.ezliu.com//images/CPC21.png" alt="" width="782" height="210" /></a> <a href="http://www.ezliu.com//images/CPC2.png">
+</a></p>
+
+
+<p>Before I continue, I want to explain how Rocket Lease works to explain what a conversion is and why I chose that particular conversion metric.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>How Rocket Lease Works</strong></p>
+
+<p><a href="http://www.rocketlease.com"><img class="alignright" title="Easy Online Rental Applications" src="http://www.ezliu.com//images/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a></p>
+
+<p>The tricky thing about Rocket Lease conversions is that the people I want to drive to my site (landlords) actually never pay me directly (the applicants do).</p>
+
+<p>I'd like to tie AdWords conversions to actual profit, but the profit event can occur well after the Landlord signs up for the site.To put the conversion action as close to profit as possible, I decided that <strong>the action of inputting rental information is a conversion</strong>. It's an involved enough process that it's probably an indicator of real intent to use the site. **</p>
+
+<blockquote>If you're curious, here's a long description of why I chose Rental creation as the conversion metric.  If you're not curious, skip this section.
+
+The rental market is essentially made of Landlords and Applicants. Landlords will typically:
+<ol>
+    <li>Ask Applicants to submit personal information</li>
+    <li>Use that information to evaluate the candidacy of the Applicant.</li>
+</ol>
+When using Rocket Lease, landlords who want to use an online application enter information about their vacant rental property, then Rocket Lease creates a unique URL for that rental for distribution to applicants.
+
+Though landlords have ultimate deciding power over which application (paper or electronic) they use, generally *Applicants* actually pay the application fee. So the actual customer, the Landlord, who I am trying to convince to sign up for Rocket Lease, doesn't ever directly pay Rocket Lease.
+
+In fact, the browser session that actually generates revenue will be not be the one that came to the site, and could be long after the landlord signup. That makes it hard (impossible?) to tie the adwords clicks to profit, so the idea is to get as close to "intent to distribute a Rocket Lease application" as possible.</blockquote>
+
+
+<p><strong>So... How'd That Pan Out?</strong></p>
+
+<p>Uh, so... back to<strong> $149.53 conversions</strong>. That's what it costed me to get a landlord to sign up and input rental information. So far, <strong>each conversion pays $4.63</strong>. Obviously not a sustainable venture.  Yes, I'm out some cash, but overall, I consider it paying for information, and I'm happy to have done it.</p>
+
+<p>Before I started, I:</p>
+
+<ul>
+    <li>Didn't even have a rough idea of what my customer value was, so now at least I have a starting point with real data from strangers.</li>
+    <li>Didn't know what my CPCs would cost, so I didn't know if SEM strategies were viable (still don't, experiment suggests no, but I think I can do MUCH better -- further testing required).</li>
+</ul>
+
+
+<p>Also:</p>
+
+<ul>
+    <li>I found a lot of new keywords that were driving traffic to Rocket Lease, so that will help me focus on other organic words and I have a larger pool of SEM words to target.</li>
+    <li>I learned a ton about paid search.</li>
+</ul>
+
+
+<p>There were also a lot of keywords in there that costed money but are clearly not likely to convert, so I think I can substantially reduce my CPC by using negative matching and further optimizing. Obviously I have a long way to go to get close, but I got enough value out of it that I'll probably continue to experiment a bit with AdWords.</p>
+
+<p>Hopefully the LTV of customers is actually higher, too, so there might be hope yet.</p>
+
+<p>Paying $150/conversion is obviously not fun, but it's a starting point, and I'm excited to see where I can go with it.</p>
+
+<p>&nbsp;</p>
+
+<hr />
+
+
+
+
+<address><span style="color: #999999;">* Admittedly conservative. This is based on my current historical data for what users have made me in the short life of Rocket Lease, assuming each user has already realized his/her full LTV for the site. This is likely/hopefully not true, and I actually expect the true LTV to end up being a multiple of my current "estimate". However, I l ike playing conservatively, and if I can be profitable to this conversion value number, then anything else will be gravy.</span></address>
+
+
+<div><strong>
+</strong></div>
+
+
+<address> </address>
+
 ]]></content>
   </entry>
   

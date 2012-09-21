@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-19T15:31:09-05:00</updated>
+  <updated>2012-09-21T11:23:19-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Founder Equity Pool / Founder Failure Insurance]]></title>
+    <link href="http://www.ezliu.com//blog/founder-equity-pool/"/>
+    <updated>2012-09-21T10:13:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/founder-equity-pool</id>
+    <content type="html"><![CDATA[<p>My startup is unlikely to succeed. Your startup is unlikely to succeed.</p>
+
+<p>Does anyone want to throw a couple points of equity into a pool to hedge their bets? I like to think of this as &#8220;founder failure insurance&#8221;.</p>
+
+<p><strong>Disclaimer</strong>: I have no idea what the legal ramifications of this are, and the details are definitely tricky.  Critics will almost certainly say &#8220;this is impossible legally&#8221; and/or &#8220;this would never work in practice&#8221;.</p>
+
+<p>I know that <em>I</em> personally, for <a href="http://www.rocketlease.com">Rocket Lease</a> would be interested in hedging my success in a portfolio with other founders.</p>
+
+<h2>How It Works</h2>
+
+<p>I don&#8217;t know how it works. I know that a naive flavor of this, in its simplest form, looks something like:</p>
+
+<div class="note">
+<p>10 founders get together, donate 3% of their respective companies to a pool in return for 10% of the returns of the portfolio.</p>
+
+<p>Then maybe something like 7 founders fail, 1 breaks even, 1 gets acquired, and 1 makes a real run for the big bucks.  The ones that failed end up making a little back since they&#8217;re part of the pool. The big winner gives up a little of the company returns, but hopefully he&#8217;s not a greedy bastard and he is still happy that he paid a little insurance in case he was one of the failures.</p>
+</div>
+
+
+<p>Ideally if your startup succeeds, you get disproportionately large returns and you&#8217;re so rich anyway you don&#8217;t remember what piddling amounts like 3% of your company were.</p>
+
+<h2>Gotchas</h2>
+
+<ul>
+<li><strong>Voting</strong> &#8211; As a group, you&#8217;d want to invest in only good bets (insurance companies don&#8217;t like insuring risky people either).  However, great founders and great ideas fail too, sometimes for reasons outside their control. The group probably can&#8217;t just let companies in willy nilly, because bad founders would be incentivized to join the pool, contribute equity that becomes ultimately worthless, and reap the rewards of others. Some quorum would probably have to vote in new members.</li>
+<li><strong>Failure</strong> &#8211; what happens with failures? The entire point of the pool is to make something even when you fail.</li>
+<li><strong>Dilution</strong> &#8211; I imagine that founders probably just give x% of the equity when joining the fund and it just gets diluted out with future investment and such.  Can&#8217;t do anything special here because we don&#8217;t want the pool to penalize the companies chances of success (investors who don&#8217;t like ugly cap tables or weird preferred shares)</li>
+<li><strong>Variable Contribution/Buy-In</strong> &#8211; maybe some founders only want to give up 1% and another founder wants to donate 10%. Should unequal contributions be allowed? Or just tell everybody they&#8217;re in for 3% in return for an equal share of the resulting portfolio? If variable contributions are allowed, the pool quorum has to determine what amount of the prospective portfolio company they want in return</li>
+<li><strong>Buying Out / Quitting</strong> &#8211; Buying out your poriton of the pool? Is this legit? The pool doesn&#8217;t want the next Heroku&#8217;s founders to buy out their shares right before they know they&#8217;re going to get bought.  At the same time, we don&#8217;t want high performing companies to get penalized with the addition of a lot of garbage companies.</li>
+<li><strong>Management Fee</strong> &#8211; Legal isn&#8217;t cheap. Give an attorney 30 basis points to keep him happy? And does the fund need a manager? Obviously as a participant, I want it to be as cheap as possible for myself, but I&#8217;d also love to not be the one in charge of managing this.</li>
+</ul>
+
+
+<h2>Why I want to do this</h2>
+
+<p>I think this would be a fun idea, but I don&#8217;t know if its feasible or what the details would have to look like. If you are a critic, please tell me why it sucks (and preferably, how it can be workable). If you are interested, please tell me so we can start scheming. <a href="mailto:ericzliu@gmail.com">Email me.</a></p>
+
+<p>One cool thing about this is that it also gives participants a pool of other (hopefully high quality) founders that they are personally invested in seeing succeed. Participants might also see interesting dealflow from other early stage startups.</p>
+
+<p>There doesn&#8217;t have to be just one of these.  Any group of founder friends who is interested in equity swapping can do so, with their own private agreements.</p>
+
+<p>This is the result of a conversation a few nights ago at 25 degrees with CG and CQ. I had previously also spoken with JF at the Brandery about this.  All have expressed some interest in exploring this, so might already have a few people in on this.</p>
+
+<p><a style="color:#D20606; font-size:1.5em; text-decoration:underline;" href="mailto:ericzliu@gmail.com">Join in on the fun</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reddit 'Advertising']]></title>
@@ -5152,53 +5204,6 @@ In fact, the browser session that actually generates revenue will be not be the 
 
 
 <address> </address>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Do Single Founders Work Harder?]]></title>
-    <link href="http://www.ezliu.com//blog/do-single-founders-work-harder/"/>
-    <updated>2012-05-15T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/do-single-founders-work-harder</id>
-    <content type="html"><![CDATA[<p>I was at General Assembly tonight, and like most nights I&#8217;m there, I was one of the last people there. It actually amazes me that the startup space is typically mostly cleared out by 8pm. As far as I can tell, this is true of Projective Space, New Work City, and We Work Labs as well. Weekends are equally sparse &#8211; I basically have the run of the place on a Saturday. *</p>
-
-<div>
-<div>Do single founders work harder?</div>
-<div>Do they HAVE to wok harder?</div>
-</div>
-
-
-<div></div>
-
-
-<div>
-<div>By &#8220;harder&#8221; I  mean &#8220;more hours&#8221;. I am not asking, &#8220;Do single founders work better?&#8221; (I think there are a lot of reasons to suspect they don&#8217;t). Maybe, as a way to compensate for the other shortcomings of being a single founder, we have to work more to have a fighting shot.</div>
-</div>
-
-
-<div></div>
-
-
-<div>Before anyone accuses me of being self congratulatory or judgmental of teams, I&#8217;m not saying that single founders DO work harder. I&#8217;m actually asking a question to explain the phenomenon where these coworking spaces filled with teams empty out by dinner. My friend Hugo says its because New York founders are lazy, but I don&#8217;t buy that.</div>
-
-
-<div></div>
-
-
-<div>There are certainly many penalties for being a single founder, so I wonder if they are forced to work harder/more. I&#8217;m OBSESSED with my startup, Rocket Lease. I think about rental applications incessantly. And I get to work on it whenever I want, which is more or less &#8220;when I&#8217;m awake&#8221; (I&#8217;m not suggesting this is healthy or advisable, its just what I&#8217;ve been doing.).</div>
-
-
-<div></div>
-
-
-<div>When I&#8217;m obsessed with something its really hard to keep me from doing it if I have the option. So are the startup teams  in New York not obsessed, obsessed in the privacy of their own homes, or just not putting in as many hours as single founders?</div>
-
-
-<div></div>
-
-
-<div>* Except for Ryan W &#8211; that guy is a team, and he works insanely hard and good all the time. I don&#8217; understand how its possible to operate at that level, that consistently, for that long.</div>
 
 ]]></content>
   </entry>

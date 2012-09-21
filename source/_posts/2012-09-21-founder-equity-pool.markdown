@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Founder Equity Pool / Founder Failure Insurance"
+date: 2012-09-21 10:13
+comments: true
+categories: [ideas, startups, CG, CQ, JF]
+---
+
+My startup is unlikely to succeed. Your startup is unlikely to succeed.
+
+Does anyone want to throw a couple points of equity into a pool to hedge their bets? I like to think of this as "founder failure insurance".
+
+__Disclaimer__: I have no idea what the legal ramifications of this are, and the details are definitely tricky.  Critics will almost certainly say "this is impossible legally" and/or "this would never work in practice".
+
+I know that _I_ personally, for [Rocket Lease](http://www.rocketlease.com) would be interested in hedging my success in a portfolio with other founders.
+
+
+## How It Works ##
+
+I don't know how it works. I know that a naive flavor of this, in its simplest form, looks something like:
+
+<div class="note">
+<p>10 founders get together, donate 3% of their respective companies to a pool in return for 10% of the returns of the portfolio.</p>
+
+<p>Then maybe something like 7 founders fail, 1 breaks even, 1 gets acquired, and 1 makes a real run for the big bucks.  The ones that failed end up making a little back since they're part of the pool. The big winner gives up a little of the company returns, but hopefully he's not a greedy bastard and he is still happy that he paid a little insurance in case he was one of the failures.</p>
+</div>
+
+Ideally if your startup succeeds, you get disproportionately large returns and you're so rich anyway you don't remember what piddling amounts like 3% of your company were.
+
+
+## Gotchas ##
+
+* __Voting__ -- As a group, you'd want to invest in only good bets (insurance companies don't like insuring risky people either).  However, great founders and great ideas fail too, sometimes for reasons outside their control. The group probably can't just let companies in willy nilly, because bad founders would be incentivized to join the pool, contribute equity that becomes ultimately worthless, and reap the rewards of others. Some quorum would probably have to vote in new members.
+* __Failure__ -- what happens with failures? The entire point of the pool is to make something even when you fail.
+* __Dilution__ -- I imagine that founders probably just give x% of the equity when joining the fund and it just gets diluted out with future investment and such.  Can't do anything special here because we don't want the pool to penalize the companies chances of success (investors who don't like ugly cap tables or weird preferred shares)
+* __Variable Contribution/Buy-In__ -- maybe some founders only want to give up 1% and another founder wants to donate 10%. Should unequal contributions be allowed? Or just tell everybody they're in for 3% in return for an equal share of the resulting portfolio? If variable contributions are allowed, the pool quorum has to determine what amount of the prospective portfolio company they want in return
+* __Buying Out / Quitting__ -- Buying out your poriton of the pool? Is this legit? The pool doesn't want the next Heroku's founders to buy out their shares right before they know they're going to get bought.  At the same time, we don't want high performing companies to get penalized with the addition of a lot of garbage companies.
+* __Management Fee__ -- Legal isn't cheap. Give an attorney 30 basis points to keep him happy? And does the fund need a manager? Obviously as a participant, I want it to be as cheap as possible for myself, but I'd also love to not be the one in charge of managing this.
+
+## Why I want to do this ##
+
+I think this would be a fun idea, but I don't know if its feasible or what the details would have to look like. If you are a critic, please tell me why it sucks (and preferably, how it can be workable). If you are interested, please tell me so we can start scheming. <a href="mailto:ericzliu@gmail.com">Email me.</a>
+
+One cool thing about this is that it also gives participants a pool of other (hopefully high quality) founders that they are personally invested in seeing succeed. Participants might also see interesting dealflow from other early stage startups.
+
+There doesn't have to be just one of these.  Any group of founder friends who is interested in equity swapping can do so, with their own private agreements.
+
+This is the result of a conversation a few nights ago at 25 degrees with CG and CQ. I had previously also spoken with JF at the Brandery about this.  All have expressed some interest in exploring this, so might already have a few people in on this.
+
+<a style="color:#D20606; font-size:1.5em; text-decoration:underline;" href="mailto:ericzliu@gmail.com">Join in on the fun</a>
+

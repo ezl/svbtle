@@ -10,7 +10,9 @@ If you're working on a startup or freelancing, you often find yourself frequenti
 
 I've compiled a list of personal favorites and recommendations from other startup friends, grouped by approximate geographic location.
 
-If you're funemployed like me, have other great spots I can add to the list, or want to join the Chicago Daytime Coffeeshop Circuit, or "CDCC" as I like to call it (yep, I just made that up), drop a line: ipoopdaily@rocketlease.com
+If you're funemployed like me, have other great spots I can add to the list, or want to join the Chicago Daytime Coffeeshop Circuit, or "CDCC" as I like to call it (yep, I just made that up), drop a line: <a href="mailto:ezl@rocketlease.com">ipoopdaily@rocketlease.com</a>
+
+My personal favorites from below: Sip, Little Branch, Next Door Cafe, Wormhole, Floriole
 
 ## Near North ##
 

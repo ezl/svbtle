@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rocketlease | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/rocketlease/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-25T11:52:52-05:00</updated>
+  <updated>2012-09-27T17:39:02-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Founder Failure Insurance: Follow up]]></title>
+    <link href="http://www.ezliu.com//blog/founder-failure-insurance-follow-up/"/>
+    <updated>2012-09-27T17:31:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/founder-failure-insurance-follow-up</id>
+    <content type="html"><![CDATA[<p>I got a few interested queries when I wrote first about <a href="/blog/founder-equity-pool/">Founder Failure Insurance</a> and I've thought about it a bit more since then.</p>
+
+<p>Today I received a short and sweet email from TV:</p>
+
+<blockquote><p>Interesting premise.  Not saying I would contribute but would love to hear more about it.</p></blockquote>
+
+<p>Naturally, I thought it would be sensible to ramble endlessly in response. Here's what I wrote:</p>
+
+<blockquote><p>'Twas really mostly an idea at a bar amongst friends.</p>
+
+<p>I think there's a lot of sense in it, its essentially portfolio diversification.  As a single founder you're just investing 100% in your own stock and nobody else's.  You're constrained to one industry, one vertical, and one implementation.  You are basically ALL variance.</p>
+
+<p>Ideally, as a founder, you should feel like you're working on the best stock, so in a sense, trading any of your company for other companies might be a negative expected value play -- however, by picking partner/portfolio companies effectively you decrease your return variance. Pick your poison.</p>
+
+<p>Realistically, even though you should think your idea is the best, you should also hopefully accept that your idea <em>might not</em> be the best, the highest EV, or the most likely to succeed.  Then a founder's insurance fund makes total sense.</p>
+
+<p>Of course, you can't just throw equity willy nilly into a pool of losers equity.  In the ideal case for any individual founder, they are the dog of the pool.  You want to put 5% into a pool with the next Stripe, Airbnb, Heroku, and Dropbox.  Of course, they want the same.  So you'll have to find a situation where you're equally yoked.  You need to have something they want, and they need to have something you want.</p>
+
+<p>There are a couple of obvious flavors of this:</p>
+
+<ol>
+<li><p><strong>Industry diversification:</strong> I'm in real estate. I think mobile is hot. Someone else is doing a more stable consumer play.  An enterprise person. Different profiles of returns with different difficulties, but essentially betting on other founders to rock it in their field.  Each founders is effectively investing into a hand chosen seed fund thats trying to hedge its bets.</p></li>
+<li><p><strong>Industry saturation:</strong> Well shit, There will definitely be an open table competitor that crushes open table.  There are probably 50 companies that are trying. Three person shops that have decent idea but might not make it. One, or a few of these companies will make a run at it, maybe merge, and emerge victorious.  You all have a shot.  Equity in a pool early on ensures that (a) you guys are incentivized to share and help each other out, improving all of your odds, (b) if your company isn't the winner, you still get to participate on the rewards.  Basically, you know you picked the right sector, but how do you know if you've picked the right name? This lets you eliminate the idiosyncratic risk (in the extreme where ALL the viable startups in a space are pooled).</p></li>
+</ol>
+
+
+<p>In practice, you'll end up finding like minded people. If you get in a group of founders thats too good for you, they won't want your equity. If you're too good for them, you won't want their equity.  Everyone wants to imagine that they're the best founder.  You'll probably just have to be different enough that your the best in at least one dimension that makes you desirable to the others.</p>
+
+<p>I've had a few interesting conversations with founders.  The biggest hurdle to this right now is distribution.  If we were to find 10 founders that were interested, that wouldn't be enough because we'd need to subclass that group into equally good/likely/viable startups/founders.  We need 100s of founders to jump into a dating pool and select each other.</p></blockquote>
+
+<p>If you think there's anything interesting about this idea, the best thing you can do is help me spread it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reddit 'Advertising']]></title>
@@ -4198,63 +4237,6 @@ rentals</td>
 <p>My hope at this point is I migrate to CPC and continue to get zero clicks.  If I'm right that Linked In users just don't click because that's not why they go to the site, I'll treat this as a free awareness generation campaign.  I'll open up my target audience to get mass exposure and just use it as a way to have Rocket Lease banner ads displayed as people do whatever they do on Linked In.  It might not directly convert, but hopefully it'll start sinking into everyone's brains and the next time someone is talking about renting an apartment, maybe it will come up.</p>
 
 <p>&nbsp;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Linked In Ads Results (3 days)]]></title>
-    <link href="http://www.ezliu.com//blog/linked-in-ads-results-3-days/"/>
-    <updated>2012-06-26T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/linked-in-ads-results-3-days</id>
-    <content type="html"><![CDATA[<p>I wrote last week about my experience <a href="http://ezliu.com/getting-started-with-linked-in-ads/">getting started with Linked In ads</a>.</p>
-
-<p>So far, the Linked In ad experiment so far has been... underwhelming.  In fairness, it has only been 3 days, 2 of which were the weekend, but so far, Linked In advertising doesn't look like an effective strategy for <a href="http://www.rocketlease.com">Rocket Lease</a>.</p>
-
-<h2>Too Slow</h2>
-
-
-<p>My favorite thing about Linked In ads is that you can filter down to a highly targeted audience to advertise to.  Unfortunately, as a result, I didn't get very many impressions.</p>
-
-<p><a href="http://www.ezliu.com//images/linkedin.png"><img title="linkedin" src="http://www.ezliu.com//images/linkedin.png" alt="" width="969" height="173" /></a></p>
-
-<p>&nbsp;</p>
-
-<p>In 3 days I got just over 1000 impressions. As expected, the CTR is lower than the Google Adwords CTR of 1.9%.  Since they are different mediums with different use cases, I didn't have a basis for estimating what the CTR would be, but I Was <em>hoping</em> it'd be &gt; 0.0%.</p>
-
-<p>At that rate, it's hard to justify spending time on managing the Linked In ad campaign.  I'll most likely switch over to pay per click soon to see how many impressions it takes me to get a click and see if that works better than CPM.  If I don't get clicks, I may consider expanding my target audience to see if I can start collecting free impressions -- even if I don't get clicks, I'd consider it a win to be able to get impressions for free or cheap, because it might have an impact on my ability to make a conversion for that user if they ever do stop by my site through some other channel.</p>
-
-<p>&nbsp;</p>
-
-<h2>How To Take Advantage of Linked In's Suboptimal Pricing Scheme</h2>
-
-
-<p>I could speed up the impressions by opening up by target audience, but I'd have to open the audience up to less interested groups, raising my price. Linked In makes the minimum bid for clicks or impressions the same, regardless of the target audience you select.  This is a bit counterintuitive -- seems like it should be more expensive for highly targeted audiences.</p>
-
-<p>The play to get the most value is to run campaigns for very small groups, so you can optimize for every tiny subset of the population.  It's time consuming, but will almost certainly result in the best Cost per Conversion.</p>
-
-<p>&nbsp;</p>
-
-<h1>Needs Work</h1>
-
-
-<p>The Linked In ad platform generally needs work.  The single most annoying element to me is the lack of explanation of how toggling the various inputs will impact my final campaign.</p>
-
-<p>Less annoying, but the sort of thing that worries me and makes me think that Linked In isn't paying any attention to their Ads group -- This morning I got an email that stated supposed stats about my 2 campaigns (most importantly, that I had a non-zero amount of clicks). However, if you compare it to the screenshot above from inside my Linked In Ads dashboard,  I haven't registered any clicks.</p>
-
-<p><a href="http://www.ezliu.com//images/email.png"><img title="email" src="http://www.ezliu.com//images/email.png" alt="" width="574" height="310" /></a></p>
-
-<p>2 mistakes in the email:</p>
-
-<ol>
-    <li>The actual campaigns have *zero* clicks, so the 0.046% CTR is wrong.</li>
-    <li>The 2 campaign summaries in the email display the *same* (incorrect) CTR.</li>
-</ol>
-
-
-<div>Linked In needs to do a better job telling people what they'll get for raising their bid as well. Tell me what I stand to gain by bidding more!</div>
-
-
-<p>I still have $53 of advertising, but I doubt these ads are going to pan out for Rocket Lease.</p>
 ]]></content>
   </entry>
   

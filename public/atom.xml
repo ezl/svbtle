@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-27T17:39:02-05:00</updated>
+  <updated>2012-10-14T23:14:07-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,125 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A/B Testing The Effect Of Sender Race On Email Response Rates]]></title>
+    <link href="http://www.ezliu.com//blog/a-slash-b-testing-the-effect-of-sender-race-on-email-response-rates/"/>
+    <updated>2012-10-14T21:06:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/a-slash-b-testing-the-effect-of-sender-race-on-email-response-rates</id>
+    <content type="html"><![CDATA[<h2>Are Emily and Brendan More Employable than Lakisha and Jamal?</h2>
+
+<p>Issues of race and sex intrigue me.</p>
+
+<p>Americans are very sensitive about discrimination (moreso than anywhere else in the world), it is generally taboo, and I believe Americans often bend over backwards to hide overt signs of racism and sexism in favor of subtle, but equally pernicious displays of masked discrimination.</p>
+
+<p>I had heard of a well cited study (<a href="http://www.cbsnews.com/2100-201_162-575685.html">1</a>, <a href="http://www.nber.org/digest/sep03/w9873.html">2</a>, <a href="http://www.chicagobooth.edu/capideas/spring03/racialbias.html">3</a>) indicating that employers respond more favorably to white names than black names. The study states that white names received 50% more responses than black names after sending out 5000 resumes. I don&#8217;t know what the response rate is on cold resumes that get sent in response to public job advertisements, but I imagine it&#8217;s not high.</p>
+
+<p>With 5000 resumes and an average 4% callback rate, you could get the cited results with 99% statistical signifiance with:</p>
+
+<ul>
+<li>2500 black resumes sent</li>
+<li>2500 white resumes sent</li>
+<li>120 white resume callbacks</li>
+<li>80 black resume callbacks</li>
+</ul>
+
+
+<p>Academic studies are often overstated in the popular press, so I wanted to dig around myself.</p>
+
+<h2>Race for Internet Marketing and Startups</h2>
+
+<p>Imagine you intend to send an email to a prospective contact (PR, media, inquiring customer, totally unsolicited spam, whatever). You want the best possible response rate (opening your email, completing your survey). What if you could impact that just by controlling the &#8220;from&#8221; field on your outgoing email?</p>
+
+<p>The implications of disparities in perceptions of race and gender extend beyond email marketing. How can you stack the odds in your favor for any human interaction?</p>
+
+<p>Who should make your sales calls? Who should be the face of your company on TV? Do you need a <a href="http://www.businessweek.com/articles/2012-10-05/women-help-startups-succeed-dot-when-will-vcs-notice">woman as your CEO</a>? Startup success is hard earned, founders should take every advantage they can.</p>
+
+<div class="note">
+<p>One founder I know has a &#8220;hot girl networking strategy&#8221;.</p>
+<p>The basic idea is that if he wants to get in touch with an investor outside of his network, the best way to make that happen is through a warm intro from a portfolio company. He gets a hot girl to make the initial contact to a male founder in a portfolio company. If they connect to a male founder who gets excited by connecting with a hot girl, he might get the intro he wants.</p>
+</div>
+
+
+<h2>Experiment &amp; Findings</h2>
+
+<p>I emailed around 1000000 people selling items on online classifieds sites from email addresses popularly associated with a specific race, then measured response rates for each race.</p>
+
+<p>White names performed 11.9% better than black names (expected qualitative result, but less than the 50% disparity reported by the study)</p>
+
+<p>Hipanic names performed 4.9% better than white names (surprising, statistically significant with 99.9% confidence)</p>
+
+<table>
+<thead>
+<tr><th>race</th><th>response rate</th></tr>
+</thead>
+<tr><td>black</td><td>11.01%</td></tr>
+<tr><td>white</td><td>12.32%</td></tr>
+<tr><td>hispanic</td><td>12.92%</td></tr>
+</table>
+
+
+<h2>Discussion</h2>
+
+<p>I was unsurprised to find white names outperformed black names. I found it surprising that hispanic names outperformed both white and black names.</p>
+
+<p><strong>White names outperformed black names by only 11.9% compared to the 50% in the employment study. Why?</strong></p>
+
+<ol>
+    <li>Different recipients - the original employer study targeted people making hiring decisions, this data targeted people selling things online.
+        <ol style="list-style-type: upper-alpha;">
+            <li>business owners/HR departments might be more racist,</li>
+            <li>business owners/HR departments might have a different racial profile (is there a higher percentage of white small business owners than white &#8220;selling things online&#8221; people?),</li>
+            <li>online sellers of goods might not care who they are selling to, they just want to move goods</li>
+        </ol>
+    </li>
+
+    <li>Competing responses - in the original study, 4 resumes were sent to each employer, 2 white resumes and 2 black resumes. In our study, each recipient received only one inquiry and global response rates were measured. As such, the original study&#8217;s resumes were in competition with one another.  If a white resume were selected, it could eliminate the possibility of response for a black resume, therefore exacerbating the disparity measured as a result of any racial bias.</li>
+</ol>
+
+
+<p><strong>Hispanic names outperformed white names.</strong></p>
+
+<p>This was unexpected.  I expected whites to perform the best, but I had no evidence or knowledge of other studies to indicate that this ought to be the case.</p>
+
+<p>The results measure the response rates from people who post items for sale on online classified ad sites. It would be interesting to see the racial breakdown for this posting population.</p>
+
+<h2>Why I Did This</h2>
+
+<p>My last startup, <a href="http://blog.ezliu.com/blog/death-of-a-startup-spaciety-post-mortem/">Spaciety</a>, targeted a predominantly female population.</p>
+
+<p>Like many startups, we wanted press and blog writeups. My cofounder AAD and I very unscientifically tested the effects of reaching out to blogs and spas using the same email, but from either one of our email accounts, or from the email account of a female intern.  In our unscientific, statistically insignificant exploration, we thought that the female sender garnered a much higher response rate.</p>
+
+<p>I hoped to find evidence that a specific sender profile could help me get better response rates and media writeups.</p>
+
+<p>We also collected data on open rates, gender, other races, posting section, subject lines and email body content.</p>
+
+<h2>Method</h2>
+
+<p>This section is boring, I encourage you to skip it.</p>
+
+<ol>
+<li>Create lists of names likely to be associated with only one race. To do so:<br />
+<ol style="list-style-type:upper-roman;">
+<li>Find publicly available lists of the most common given names by race.</li>
+<li>Find publicly available lists of the most common surnames by race.</li>
+<li>Remove any names that appear on more than one list.</li>
+</ol>
+<p>This leaves a list of surnames and given names that appear with high frequency in populations that have self-identified as belonging to a particular race.</p>
+
+<li>Find email addresses in &#8220;items for sale&#8221; section of online classifieds websites.</li>
+<li>For each such email address, randomly assign a &#8220;from&#8221; address on the email from a pool of names that occur with high frequency in either black, white, or hispanic children&#8217;s names.</li>
+<li>Email each address inquiring about the item for sale, originating from an email address with a name generated from a given name and surname from one of the lists as described above.</li>
+<div class="note">
+<p>For example, when emailing someone to inquire about an item for sale, randomly select between a black, white, or hispanic sender (say a random 3 sided die chose &#8220;hispanic&#8221;). Randomly select a given name from the hispanic given name list (&#8220;Antonio&#8221;). Randomly select a surname from the hispanic surname list (&#8220;Banderas&#8221;). Send an email from &#8220;Antonio Banderas&#8221; antonio.banderas@example.com.</p>
+</div>
+<li>For each email sent, embed a pixel to track open rates, and measure response rates by sender race.</li>
+</ol>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Founder Failure Insurance: Follow up]]></title>
@@ -5184,61 +5303,6 @@ He later posted in Missed Connections about it, and received a garbage reply:</p
 <p>They are apparently my second and third most significant traffic sources.  Weirdly the average position for those queries is registering as 54 and 200, which is odd, because (a) who goes to the 20th page of results and clicks on something, and (b) why am I ranking for anything with the phrase  &#8220;hello kitty&#8221; anyways?</p>
 
 <p><a href="http://www.ezliu.com//images/weirdsearchqueries.png"><img src="http://www.ezliu.com//images/weirdsearchqueries.png" alt="" title="weirdsearchqueries" width="1022" height="444" class="aligncenter size-full wp-image-198" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Don't Choose Crappy Keywords]]></title>
-    <link href="http://www.ezliu.com//blog/dont-choose-crappy-keywords/"/>
-    <updated>2012-05-27T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/dont-choose-crappy-keywords</id>
-    <content type="html"><![CDATA[<p>In my first experiments, I found that <a href="http://ezliu.com/currently-paying-150-per-conversion/">Adwords conversions were costing me almost $150 per conversion</a>. No big surprise, within 10 minutes of looking at the resulting data, I found that I had been bidding for some terrible keywords.</p>
-
-<blockquote>For example:
-
-&#8221;<strong>basic rental agreement</strong>&#8221; &#8211; this sounds like it might be  pretty good, which is why I threw it in the pool, but the conversion rate was far below the average and it generated lots of clicks (ouch).
-
-It&#8217;s deceptively promising sounding, but that particular phrase is missing the point of Rocket Lease.  Rocket Lease does the rental *application*; People searching for a &#8220;rental agreement&#8221; are beyond qualifying tenants and are looking for a standard lease. They don&#8217;t need what I have to offer. Paying for them to visit my site is basically a donation to Google.  The Adwords data confirms this with a 0%  conversion rate for 450 clicks of that phrase. *</blockquote>
-
-
-<p>Further digging revealed that I was actually bidding for a lot of keywords that contain the phrase &#8220;rental agreement&#8221; &#8211; These, as a a group accounted for a lot of clicks, but a very low conversion rate, and costed me<strong> $464.00 per conversion</strong>, or 3x my average conversion rate.</p>
-
-<p>Just excluding the keywords that include &#8220;rental agreement&#8221; would have brought my conversion cost down <strong>from $149.53 to $101.16 (a 32.9% reduction)</strong>.</p>
-
-<p>Other terms too, like &#8220;Free eviction check&#8221;, didn&#8217;t do so hot for me, which isn&#8217;t surprising considering that&#8217;s not what Rocket Lease does. Hopefully by eliminating the garbage, I can quickly get to even cheaper conversion costs before I even do any on-site conversion optimization.</p>
-
-<p><a href="http://www.ezliu.com//images/Money-on-Fire.jpg"><img class="aligncenter size-full wp-image-186" title="Money-on-Fire" src="http://www.ezliu.com//images/Money-on-Fire.jpg" alt="" width="328" height="366" /></a></p>
-
-<p><strong>Going Forward</strong></p>
-
-<p>My measured conversion value is $4.63 so that still puts me pretty far away from making AdWords economics work out, but I&#8217;m still chasing this thread because:</p>
-
-<ol>
-    <li>I think my true conversion value is almost certainly higher. $4.63 was the total estimated conversion value as measured from right after the exploratory AdWords campaign stopped.
-        <ul>
-            <li>There&#8217;s a bit of lag between conversion and profit (landlord signs up == conversion, profit occurs when the landlord asks an applicant to fill out an application), and</li>
-            <li>that number doesn&#8217;t account for return customers.</li>
-        </ul>
-    </li>
-    <li>The initial keyword selection was pretty naive (as the &#8220;rental agreement&#8221; indicates)</li>
-    <li>First data also includes exploratory analysis to determine what keywords we should be looking for</li>
-    <li>There was a learning period to improve CPC. My friend Jake, during the duration of the initial Adwords run, optimized my campaign substantially for clicks,cutting down my CPC by more than 50% &#8211; however, the data includes the entire learning process.</li>
-    <li>There has been no explicit optimization for conversion, through adwords (I think I might get better by controlling max CPC)</li>
-    <li>The current site is pretty ugly, and we can probably improve signup/conversion rate on site by making the site better.</li>
-</ol>
-
-
-<p>I can&#8217;t prove this yet, but I would be surprised if my real customer LTV wasn&#8217;t north of $25, and I feel pretty confident that by being smarter about keyword selection, doing a little bit to optimize conversion costs in Adwords, and beautifying the home page, I could probably get the conversion cost below $50.00/conversion.</p>
-
-<p>That&#8217;s still not a win, obviously, but if I&#8217;m right that inexperienced me can get within a factor of 2, I&#8217;m betting there&#8217;s a fighting chance that someone better at Adwords can push that into &#8220;money machine&#8221; territory.</p>
-
-<hr />
-
-
-
-
-<address><span style="color: #999999;">* Surprisingly a high CTR though, I bet its because my domain name contains the word &#8220;Lease&#8221; in it, which probably sounds promising to visitors.</span></address>
-
 ]]></content>
   </entry>
   

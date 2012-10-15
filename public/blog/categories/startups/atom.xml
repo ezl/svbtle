@@ -4,7 +4,7 @@
   <title><![CDATA[Category: startups | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/startups/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-09-27T17:39:02-05:00</updated>
+  <updated>2012-10-14T23:14:07-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,125 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A/B Testing The Effect Of Sender Race On Email Response Rates]]></title>
+    <link href="http://www.ezliu.com//blog/a-slash-b-testing-the-effect-of-sender-race-on-email-response-rates/"/>
+    <updated>2012-10-14T21:06:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/a-slash-b-testing-the-effect-of-sender-race-on-email-response-rates</id>
+    <content type="html"><![CDATA[<h2>Are Emily and Brendan More Employable than Lakisha and Jamal?</h2>
+
+<p>Issues of race and sex intrigue me.</p>
+
+<p>Americans are very sensitive about discrimination (moreso than anywhere else in the world), it is generally taboo, and I believe Americans often bend over backwards to hide overt signs of racism and sexism in favor of subtle, but equally pernicious displays of masked discrimination.</p>
+
+<p>I had heard of a well cited study (<a href="http://www.cbsnews.com/2100-201_162-575685.html">1</a>, <a href="http://www.nber.org/digest/sep03/w9873.html">2</a>, <a href="http://www.chicagobooth.edu/capideas/spring03/racialbias.html">3</a>) indicating that employers respond more favorably to white names than black names. The study states that white names received 50% more responses than black names after sending out 5000 resumes. I don't know what the response rate is on cold resumes that get sent in response to public job advertisements, but I imagine it's not high.</p>
+
+<p>With 5000 resumes and an average 4% callback rate, you could get the cited results with 99% statistical signifiance with:</p>
+
+<ul>
+<li>2500 black resumes sent</li>
+<li>2500 white resumes sent</li>
+<li>120 white resume callbacks</li>
+<li>80 black resume callbacks</li>
+</ul>
+
+
+<p>Academic studies are often overstated in the popular press, so I wanted to dig around myself.</p>
+
+<h2>Race for Internet Marketing and Startups</h2>
+
+<p>Imagine you intend to send an email to a prospective contact (PR, media, inquiring customer, totally unsolicited spam, whatever). You want the best possible response rate (opening your email, completing your survey). What if you could impact that just by controlling the "from" field on your outgoing email?</p>
+
+<p>The implications of disparities in perceptions of race and gender extend beyond email marketing. How can you stack the odds in your favor for any human interaction?</p>
+
+<p>Who should make your sales calls? Who should be the face of your company on TV? Do you need a <a href="http://www.businessweek.com/articles/2012-10-05/women-help-startups-succeed-dot-when-will-vcs-notice">woman as your CEO</a>? Startup success is hard earned, founders should take every advantage they can.</p>
+
+<div class="note">
+<p>One founder I know has a "hot girl networking strategy".</p>
+<p>The basic idea is that if he wants to get in touch with an investor outside of his network, the best way to make that happen is through a warm intro from a portfolio company. He gets a hot girl to make the initial contact to a male founder in a portfolio company. If they connect to a male founder who gets excited by connecting with a hot girl, he might get the intro he wants.</p>
+</div>
+
+
+<h2>Experiment &amp; Findings</h2>
+
+<p>I emailed around 1000000 people selling items on online classifieds sites from email addresses popularly associated with a specific race, then measured response rates for each race.</p>
+
+<p>White names performed 11.9% better than black names (expected qualitative result, but less than the 50% disparity reported by the study)</p>
+
+<p>Hipanic names performed 4.9% better than white names (surprising, statistically significant with 99.9% confidence)</p>
+
+<table>
+<thead>
+<tr><th>race</th><th>response rate</th></tr>
+</thead>
+<tr><td>black</td><td>11.01%</td></tr>
+<tr><td>white</td><td>12.32%</td></tr>
+<tr><td>hispanic</td><td>12.92%</td></tr>
+</table>
+
+
+<h2>Discussion</h2>
+
+<p>I was unsurprised to find white names outperformed black names. I found it surprising that hispanic names outperformed both white and black names.</p>
+
+<p><strong>White names outperformed black names by only 11.9% compared to the 50% in the employment study. Why?</strong></p>
+
+<ol>
+    <li>Different recipients - the original employer study targeted people making hiring decisions, this data targeted people selling things online.
+        <ol style="list-style-type: upper-alpha;">
+            <li>business owners/HR departments might be more racist,</li>
+            <li>business owners/HR departments might have a different racial profile (is there a higher percentage of white small business owners than white "selling things online" people?),</li>
+            <li>online sellers of goods might not care who they are selling to, they just want to move goods</li>
+        </ol>
+    </li>
+
+    <li>Competing responses - in the original study, 4 resumes were sent to each employer, 2 white resumes and 2 black resumes. In our study, each recipient received only one inquiry and global response rates were measured. As such, the original study's resumes were in competition with one another.  If a white resume were selected, it could eliminate the possibility of response for a black resume, therefore exacerbating the disparity measured as a result of any racial bias.</li>
+</ol>
+
+
+<p><strong>Hispanic names outperformed white names.</strong></p>
+
+<p>This was unexpected.  I expected whites to perform the best, but I had no evidence or knowledge of other studies to indicate that this ought to be the case.</p>
+
+<p>The results measure the response rates from people who post items for sale on online classified ad sites. It would be interesting to see the racial breakdown for this posting population.</p>
+
+<h2>Why I Did This</h2>
+
+<p>My last startup, <a href="http://blog.ezliu.com/blog/death-of-a-startup-spaciety-post-mortem/">Spaciety</a>, targeted a predominantly female population.</p>
+
+<p>Like many startups, we wanted press and blog writeups. My cofounder AAD and I very unscientifically tested the effects of reaching out to blogs and spas using the same email, but from either one of our email accounts, or from the email account of a female intern.  In our unscientific, statistically insignificant exploration, we thought that the female sender garnered a much higher response rate.</p>
+
+<p>I hoped to find evidence that a specific sender profile could help me get better response rates and media writeups.</p>
+
+<p>We also collected data on open rates, gender, other races, posting section, subject lines and email body content.</p>
+
+<h2>Method</h2>
+
+<p>This section is boring, I encourage you to skip it.</p>
+
+<ol>
+<li>Create lists of names likely to be associated with only one race. To do so:<br />
+<ol style="list-style-type:upper-roman;">
+<li>Find publicly available lists of the most common given names by race.</li>
+<li>Find publicly available lists of the most common surnames by race.</li>
+<li>Remove any names that appear on more than one list.</li>
+</ol>
+<p>This leaves a list of surnames and given names that appear with high frequency in populations that have self-identified as belonging to a particular race.</p>
+
+<li>Find email addresses in "items for sale" section of online classifieds websites.</li>
+<li>For each such email address, randomly assign a "from" address on the email from a pool of names that occur with high frequency in either black, white, or hispanic children's names.</li>
+<li>Email each address inquiring about the item for sale, originating from an email address with a name generated from a given name and surname from one of the lists as described above.</li>
+<div class="note">
+<p>For example, when emailing someone to inquire about an item for sale, randomly select between a black, white, or hispanic sender (say a random 3 sided die chose "hispanic"). Randomly select a given name from the hispanic given name list ("Antonio"). Randomly select a surname from the hispanic surname list ("Banderas"). Send an email from "Antonio Banderas" antonio.banderas@example.com.</p>
+</div>
+<li>For each email sent, embed a pixel to track open rates, and measure response rates by sender race.</li>
+</ol>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Founder Failure Insurance: Follow up]]></title>
@@ -255,50 +374,6 @@
 <p>Set up an nginx/apache reverse proxy. Whenever someone accesses that URL, the service curls the target site (1), inserts the contents of the CSS file immediately before the closing html tag (2), then serves the page to the customer.</p>
 
 <p>If you want to be fancy, you can count page views, do analytics on the ip addresses that access it, etc. You can also let people insert their own js file. Will someone build this please?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Highest Highs and the Lowest Lows]]></title>
-    <link href="http://www.ezliu.com//blog/the-highest-highs-and-the-lowest-lows/"/>
-    <updated>2012-06-15T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/the-highest-highs-and-the-lowest-lows</id>
-    <content type="html"><![CDATA[<p>&nbsp;</p>
-
-<p><a href="http://www.rocketlease.com"><img title="Easy Online Rental Applications" src="http://www.ezliu.com//images/rl2-300x156.png" alt="Easy Online Rental Applications" width="300" height="156" /></a>
-Really high highs and really low lows... such is startup life...</p>
-
-<p>Pretty crazy week for <a href="http://www.rocketlease.com">Rocket Lease</a>.  I don't expect startup life to be easy, but its been a bit of a rollercoaster and I'm exhausted.</p>
-
-<p>In the span of 48 hours, we've been evicted from our insanely gorgeous office space, had our best 2 days of business ever, gotten our credit reports (our core product) shut off by our vendor, and gotten 4 amazing interns.</p>
-
-<h2>Highlights</h2>
-
-
-<p><strong>Best office space ever:</strong> Rocket Lease has been sharing extra office space with an insanely awesome startup, KM, who has probably the most insanely gorgeous office space I've seen to date.  They gave us an unbeatable deal in the spirit of founders helping founders / startups helping startups. Unbelievable space. Just have to post some pics to brag...</p>
-
-<p><a href="http://www.ezliu.com//images/2012-06-12-11.17.31.jpg"><img class="aligncenter size-medium wp-image-224" title="2012-06-12 11.17.31" src="http://www.ezliu.com//images/2012-06-12-11.17.31-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://www.ezliu.com//images/2012-06-12-11.17.57.jpg"><img title="2012-06-12 11.17.57" src="http://www.ezliu.com//images/2012-06-12-11.17.57-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://www.ezliu.com//images/2012-06-12-11.18.26.jpg"><img class="aligncenter size-medium wp-image-226" title="2012-06-12 11.18.26" src="http://www.ezliu.com//images/2012-06-12-11.18.26-300x225.jpg" alt="" width="300" height="225" /></a></p>
-
-<p><strong>Amazing team and interns:</strong> We currently have 2 full timers (me + Mike) and 4 college interns (Alec, Alper, Jason, John). Mike did a phenomenal job getting really sharp, smart, entrepreneurial interns who really connect with the project, and I am/was looking forward to an awesome summer.  Anyways, team of 6. This is an important point.</p>
-
-<p>When too much is going right, you almost have to expect something to go wrong in startup land...</p>
-
-<p><strong>Credit report malfunction!!</strong> Due to a communication error with our credit vendor, Rocket Lease's credit reports were turned off for almost 2 days. Those 2 days happened to be the highest 2-day application submission volume we've had to date (13 applications, not a big deal in the grand scheme, but a big deal to me!).</p>
-
-<p>When the issue was finally resolved with the credit vendor, I breathed a sigh of relief, because it was super stressful to be getting paying customers that we couldn't serve.</p>
-
-<p><strong>Evicted!!</strong> Within an hour of the credit issue resolution, KM's landlords asked them to "remove any non-KM people from the space". Uh oh. Trouble in paradise. Now we have a team of 6 and we're evicted. Homeless team of 6 is a problem because its definitely too big for us to be using starbucks as the office now...</p>
-
-<h2>*Sigh*</h2>
-
-
-<p>So it goes. The good news is that the interns are still very upbeat and are rolling with the punches.</p>
-
-<p>I'd still like to try to see if there's a chance we can strike a deal where the landlord will be cool with us staying, but I haven't been able to connect with them, so I'm not sure if I'm getting ignored.</p>
-
-<p>I'm really committed to making sure the interns extract a lot of value out of this relationship, so I want to make sure we're in a stable place, but now I'm scrambling to find space.  I have a couple of leads, but I don't want to pull in favors that will end up being too costly for me in the long run, so I'm treading lightly.</p>
-
-<p>If anyone can temporarily house 6 of us for a week or two while we try to get our feet on the ground, there will be much karma returned.</p>
 ]]></content>
   </entry>
   

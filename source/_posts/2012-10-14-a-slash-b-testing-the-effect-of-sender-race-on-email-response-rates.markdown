@@ -12,16 +12,9 @@ Issues of race and sex intrigue me.
 
 Americans are very sensitive about discrimination (moreso than anywhere else in the world), it is generally taboo, and I believe Americans often bend over backwards to hide overt signs of racism and sexism in favor of subtle, but equally pernicious displays of masked discrimination.
 
-I had heard of a well cited study ([1](http://www.cbsnews.com/2100-201_162-575685.html), [2](http://www.nber.org/digest/sep03/w9873.html), [3](http://www.chicagobooth.edu/capideas/spring03/racialbias.html)) indicating that employers respond more favorably to white names than black names. The study states that white names received 50% more responses than black names after sending out 5000 resumes. I don't know what the response rate is on cold resumes that get sent in response to public job advertisements, but I imagine it's not high.
+I had heard of a well cited study ([1](http://www.cbsnews.com/2100-201_162-575685.html), [2](http://www.nber.org/digest/sep03/w9873.html), [3](http://www.chicagobooth.edu/capideas/spring03/racialbias.html) [Original research](http://faculty.chicagobooth.edu/marianne.bertrand/research/papers/emily_lakisha_aer.pdf)) indicating that employers respond more favorably to white names than black names. The study states that white names received 50% more responses than black names after sending out 5000 resumes.
 
-With 5000 resumes and an average 4% callback rate, you could get the cited results with 99% statistical signifiance with:
-
-* 2500 black resumes sent
-* 2500 white resumes sent
-* 120 white resume callbacks
-* 80 black resume callbacks
-
-Academic studies are often overstated in the popular press, so I wanted to dig around myself.
+**Question: How can I use societal prejudices to aid in startup success?**
 
 
 ## Race for Internet Marketing and Startups ##

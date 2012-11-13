@@ -6,7 +6,7 @@ comments: true
 categories: [startups, Rocket Lease, money, financing]
 ---
 
-As of 1 week ago, I am officially funding [Rocket Lease](www.rocketlease.com) with retirement fund money now. This was not a decision made in haste. You may think I'm an idiot, and you may be right.
+As of 1 week ago, I am officially funding [Rocket Lease](www.rocketlease.com) with retirement fund money. This was not a decision made in haste. You may think I'm an idiot, and you may be right.
 
 <strong style="color:#D20606">This is a statement of fact documenting an action I took, not a "How To" document or a recommendation for anyone to do the same.</strong>
 

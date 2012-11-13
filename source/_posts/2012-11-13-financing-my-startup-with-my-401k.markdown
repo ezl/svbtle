@@ -6,17 +6,17 @@ comments: true
 categories: [startups, Rocket Lease, money, financing]
 ---
 
-As of 1 week ago, I am officially funding [Rocket Lease](www.rocketlease.com) with retirement fund money. This was not a decision made in haste. You may think I'm an idiot, and you may be right.
+As of one week ago, I am officially funding [Rocket Lease](www.rocketlease.com) with retirement fund money. This was not a decision made in haste. You may think I'm an idiot, and you may be right.
 
 <strong style="color:#D20606">This is a statement of fact documenting an action I took, not a "How To" document or a recommendation for anyone to do the same.</strong>
 
 ## Retirement Money Isn't Sacred ##
 
-I am aware that many people consider 401k money off limits. I consider just another pool of capital with different access restrictions. I also believe myself to be (mostly) rational in matters of risk/reward analysis especially pertaining to financial decisions.  Despite the obvious uncertainty in the future and the risk, I stand by this decision. Will it work out for me? Maybe not.
+I am aware that many people consider 401k money off-limits. I consider it just another pool of capital with different access restrictions. I believe myself to be (mostly) rational in matters of risk/reward analysis especially pertaining to financial decisions.  Despite the obvious uncertainty in the future and the risk, I stand by this decision. Will it work out for me? Maybe not.
 
 I am not interested in debating the merits of retirement savings and safety funds. Different people have different needs, desires, risk tolerances. This fit the bill for me. (Also, don't tell my mom. She falls on the side of safety, as mothers often do.)
 
-I'll also say there was a weirdly sick exhiliration in cutting into my safety money to finance Rocket Lease.
+I'll also say there was a weirdly sick exhiliration in cutting into my safety money to finance Rocket Lease. It made me realize:
 
 * Yes, I'm dead serious about this.
 * Yes, I believe Rocket Lease will be a winner.

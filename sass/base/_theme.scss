@@ -2,7 +2,7 @@ $noise-bg: image-url('noise.png') top left !default;
 $img-border: inline-image('dotted-border.png');
 
 // $chopred: darken(#E14425, 3);
-$chopred: #d20606;
+$chopred: lighten(#d20606, 2);
 $coolblue: lighten(#165b94, 3);
 $darkbrown: #2B1504;
 
@@ -35,8 +35,8 @@ $darkbrown: #2B1504;
     // Article text colors // currently article title matches blog title
     $article-title-color: $title-color;
     $article-h2-color: #fee;
-    $content-color: #ccc; // article text
-    $meta-content-color: #888; // meta information (tags and date)
+    $content-color: #eee; // article text
+    $meta-content-color: #999; // meta information (tags and date)
 
 // end dark theme for me
 

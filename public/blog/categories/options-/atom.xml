@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: options, | ezl]]></title>
+  <link href="http://www.ezliu.com//blog/categories/options-/atom.xml" rel="self"/>
+  <link href="http://www.ezliu.com//"/>
+  <updated>2012-11-29T09:06:29-06:00</updated>
+  <id>http://www.ezliu.com//</id>
+  <author>
+    <name><![CDATA[ezl]]></name>
+    <email><![CDATA[ericzliu@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Options: Random Walks]]></title>
+    <link href="http://www.ezliu.com//blog/options-random-walks/"/>
+    <updated>2012-11-29T08:28:00-06:00</updated>
+    <id>http://www.ezliu.com//blog/options-random-walks</id>
+    <content type="html"><![CDATA[<h1>Options Pricing and Behavior Ebook</h1>
+
+<p>I'm writing an ebook to help people <em>truly</em> understand options.</p>
+
+<p>Before my startup life, I was an options marketmaker and quantitative trader.  I was one of the
+designated primary marketmakers (DPM) for one the the largest ETFs (SPY) at the CBOE,
+where we were doing between 30-40% of the total nationwide SPY volume.
+Additionally I operated a VIX DPM and have traded other ETFs, equities, indexes,
+and commodities extensively.</p>
+
+<p>Most importantly, I was involved in educating and mentoring other options professionals
+and I believe that the standard path of options education fails to give students
+a deep-seated understanding of options.</p>
+
+<p>A series of excellent "<a href="https://datanitro.com/blog/2012/11/13/Options/">introducing options</a>"
+posts by <a href="https://datanitro.com/">DataNitro</a>
+reminded me of this so I quickly started writing a short ebook.</p>
+
+<p>The purpose of this ebook is to jump start a deeper <strong>intuition</strong> about options pricing and
+behavior for people who have an introductory understanding of the topic.</p>
+
+<p>My intent is to publish the chapters individually for feedback.</p>
+
+<p>The ebook will be published on <a href="https://leanpub.com/options">leanpub</a> and the text is available
+(for now) on <a href="https://github.com/ezl/optionsbook/blob/master/random_walks.txt">Github</a>. I welcome pull requests and feedback.</p>
+
+<h1>Random Walks</h1>
+
+<p>Before we discuss option valuation, we have to touch on the behavior of the underlying stock.</p>
+
+<p>Option value is based on the behavior of the option's underlying stock. More
+specifically, options have value because there is uncertainty in the future
+price of a stock and options guarantee the bearer certainty in an otherwise
+uncertain future.</p>
+
+<p>We can't know the exact path that a stock's price will take in the
+future. Instead, we characterize the stock's behavior and use that to
+describe all the <em>possible</em> future states of the stock.</p>
+
+<h2>Example</h2>
+
+<p>AAPL stock settled today, Nov 20 2012 at 560.91/share.
+Throughout the course of the day tomorrow, indepent market participants will
+buy and sell shares of AAPL, causing the price to move up and down,
+seemingly at random.</p>
+
+<p>At each moment in the day, the next price that prints on the AAPL ticker may
+be either higher, lower, or the same as than the current price -- this is unpredictable
+(and not necessarily equally probable).</p>
+
+<p>It's useful to imagine the stock price like a ball running through a series
+of pins:</p>
+
+<p><img src="/images/options/randomwalks_1.png" alt="A ball running through pins mimics price behavior" /></p>
+
+<p>This uncertain, stochastic price movement over time is referred to as a "random walk".</p>
+
+<p>While you don't know what price AAPL will settle tomorrow, you might have a
+guess that some settlement prices are more likely than others.</p>
+
+<p>Given, for example, the fact that AAPL has closed between 550 and 575 for
+the last 10 days, you might say it is highly improbable for AAPL to close
+between 0 and 100 tomorrow. It is highly probable that AAPL will close
+between 500 and 650 per share. It's also improbable that AAPL will close
+between $10,000 and $10,100 per share.</p>
+
+<p>Starting with $100 wide buckets, we can create a histogram of what might be
+a reasonable guess for where AAPL settles tomorrow.</p>
+
+<p><img src="/images/options/random_walks_2.jpg" alt="100-wide bucket histogram of AAPL 1-day price distribution" /></p>
+
+<p>Now repeat this exercise for increasingly small buckets to get a continuous distribution of infinitely small buckets (or at least penny sized).</p>
+
+<p><img src="/images/options/random_walks_3.jpg" alt="25-wide bucket histogram of AAPL 1-day price distribution" /></p>
+
+<p><img src="/images/options/random_walks_4.jpg" alt="5-wide bucket histogram of AAPL 1-day price distribution" /></p>
+
+<p><img src="/images/options/random_walks_5.jpg" alt="Continuous function of AAPL 1-day price distribution" /></p>
+
+<p>This is where you think the AAPL stock price will settle tomorrow, described as a
+<strong>probability density function</strong> of possible prices for a specific instant
+in time in the future.</p>
+
+<p>Now imagine repeating this process for every time step between now and the
+expiration.  The further away the end date is, the more pins the ball will
+run through, increasing the probability of drifting further from the current price.</p>
+
+<p>An expected 3 month price distribution might look like:</p>
+
+<p><img src="/images/options/random_walks_6.jpg" alt="AAPL 3-mo price distribution" /></p>
+
+<p>Stocks that move more (higher volatility) and have longer times to expiration generate wider probability distributions. Stocks that move less (lower volatility) and shorter times will result in narrower probability distributions.</p>
+
+<p><img src="/images/options/random_walks_7.jpg" alt="Terminal distributions for constant vol/varying time" /></p>
+
+<p><img src="/images/options/random_walks_8.jpg" alt="Terminal distributions for varying vol/constant time" /></p>
+
+<p>There are many different models for how a stock price "walks". For the
+purposes of developing intuitions about where options get value, they're not
+particularly important. The important thing to note is that there is
+uncertainty in the future price, which can be described as a probability distribution
+of possible stock prices at a specific expiration date.</p>
+
+<p>Different models produce different shapes of probability distributions at expiration
+(often referred to as the "terminal price distribution").  Option valuation and expected
+behavior is premised almost entirely on the characteristics of this distribution and
+the possible paths between today's price and the future price.</p>
+
+<h1>Did You Make It This Far?</h1>
+
+<p>If so, I'd really like your feedback.</p>
+
+<p>I'm pretty close to the topic, so its impossible for me to know if I'm describing it
+in a way that resonates with you.  This particular piece is an intro, but what I'm
+really excited about is pushing an intuition about why options even HAVE value, and
+making it so that you can explain this to others (if you can't explain it other than
+to say "use this formula", you don't <em>really</em> understand it).</p>
+
+<p>The ebook will be published on <a href="https://leanpub.com/options">leanpub</a> and the text is available
+(for now) on <a href="https://github.com/ezl/optionsbook/blob/master/random_walks.txt">Github</a>. I welcome pull requests and feedback.</p>
+
+<p>Also, <a href="http://twitter.com/ezliu">follow me on twitter (@ezliu)</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

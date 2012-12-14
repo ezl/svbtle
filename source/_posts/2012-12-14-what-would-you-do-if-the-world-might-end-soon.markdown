@@ -15,7 +15,7 @@ These aliens have stated that they are going to roll a 4 sided die, and if the o
 
 Anyways, the point is: there is a 75% chance the world will end. There is a 25% chance it won't. What do you do with your next 2 weeks?
 
-If you rape and pillage and spend all your money, then there's a 25% chance you'll be fucked when they don't destroy our planet and life goes back to normal.
+If you rape and pillage and spend all your money, then there's a 25% chance you'll be in trouble when they don't destroy our planet and life goes back to normal.
 
 If you just go on living life, you'd be missing out on the opportunity to proclaim your love to your crush or blow your 401k on the lifestyle you could never have.
 

@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2012-12-05T09:56:53-06:00</updated>
+  <updated>2012-12-14T11:45:30-06:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What would you do if the world MIGHT end soon?]]></title>
+    <link href="http://www.ezliu.com//blog/what-would-you-do-if-the-world-might-end-soon/"/>
+    <updated>2012-12-14T10:29:00-06:00</updated>
+    <id>http://www.ezliu.com//blog/what-would-you-do-if-the-world-might-end-soon</id>
+    <content type="html"><![CDATA[<p>I was chatting to a friend about doomsday predictions for 12/21/2012 and wondered what I&#8217;d do if I thought that there was some credibility to the Mayan doomsday prophecy.</p>
+
+<p><img src="http://www.ezliu.com//images/mayan_doomsday.png" alt="Mayan Doomsday" /></p>
+
+<p>What if we could validate with certainty that there is a 75% chance that the world as we know it will end in 2 weeks.  As a thought experiment, imagine we have a credible threat against planet earth by an alien race.</p>
+
+<p>These aliens have stated that they are going to roll a 4 sided die, and if the outcome is 4, they&#8217;ll be our guardian protectors forever, but if the outcome is 1, 2, or 3 they will annihilate our planet.  This is unstoppable by us.  We believe the threat to be real because they have demonstrated their power by speaking to us and broadcasting the message to the entire planet from light years away (so they&#8217;re too far away for us to even reach them, given our existing technology) and demonstrated their far superior technology.</p>
+
+<p>Anyways, the point is: there is a 75% chance the world will end. There is a 25% chance it won&#8217;t. What do you do with your next 2 weeks?</p>
+
+<p>If you rape and pillage and spend all your money, then there&#8217;s a 25% chance you&#8217;ll be fucked when they don&#8217;t destroy our planet and life goes back to normal.</p>
+
+<p>If you just go on living life, you&#8217;d be missing out on the opportunity to proclaim your love to your crush or blow your 401k on the lifestyle you could never have.</p>
+
+<p>What would you do? How does that change if the odds of doomsday are increased to 90% or decreased to 10%?</p>
+
+<p><img src="http://www.ezliu.com//images/ohpress.jpg" alt="Overhead Press" /></p>
+
+<p>I was looking up crossfit related pictures yesterday. I love this picture and it&#8217;s my blog so I get to do whatever I want. Booyah.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Options: Options Review]]></title>
@@ -51,7 +78,7 @@ behavior for people who have an introductory understanding of the topic.</p>
 <p>If you know options, you may find this dull or repetitive.  In my experience,
 when teaching options, students often find it helpful to hear the same thing
 several different ways, even if it means explicitly stating facts that are
-already implied (e.g. repeating examples with call and put)</p>
+already implied (e.g. repeating examples with call and put).</p>
 
 <p>An option is a financial derivative that confers upon the holder the right, but not the obligation, to make a future transaction with the counterparty.
 Every options transaction has two parties:</p>
@@ -5520,48 +5547,6 @@ class OriginalRefererMiddleware(object):
 <p>Instead, the first time (and only the first time) a user lands on any page served by me, I save the value of the referer. Then when the user finally registers, I just dump the original_referer to my database so at any future time I can determine how any user originally arrived at my site.</p>
 
 <p>I&#8217;m planning on experimenting with LinkedIn, Facebook, and Bing ads in the next 2 weeks, so hopefully this will help me determine where I should be allocating ad spend. Linked In and Facebook in particular make it possible for me to target certain classes of users. Rocket Lease basically never makes an actual sale on the initial interaction with a user, so using the ad services&#8217; built in analytics isn&#8217;t sufficient to determine value of a customer class.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YourSiteCouldLookLike.com]]></title>
-    <link href="http://www.ezliu.com//blog/yoursitecouldlooklike-com/"/>
-    <updated>2012-06-16T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/yoursitecouldlooklike-com</id>
-    <content type="html"><![CDATA[<p>My old gym has a website that renders terribly on mobile, yet everybody at the gym goes to it every day to see the workout (that may sound weird, just trust me that it&#8217;s a typical crossfit gym thing).</p>
-
-<p>Everybody goes to the site every day to see ONE thing: the workout of the day.  Then you get there and have to pinch and zoom to read it.</p>
-
-<p>I want a mobile version. So I threw together my own stylesheet for it. It&#8217;d be great if I could show my friends.</p>
-
-<h2><strong>Somebody Please Build This</strong></h2>
-
-
-<p><strong>http://yoursitecouldlooklike.com</strong></p>
-
-<p>&#8220;Your Site Could Look Like&#8221; is a website. Sort of like <strong>bitly, but it doesn&#8217;t just redirect, it loads the target page AND adds additional stylesheet rules</strong> to it. Basically, it lets you apply any css to any website and show it off to your friends (or the customer who you are trying to woo).</p>
-
-<h2><strong>How it works</strong></h2>
-
-
-<p>On the main page there are 2 input fields and a submit button.</p>
-
-<blockquote>
-<div>1) Target Site URL:</div>
-<div>2) CSS file location:</div>
-<div>3) [Submit button]</div>
-</blockquote>
-
-
-<p>User puts in a website and an alt stylesheet for it. On clicking submit, they get back a unique url:</p>
-
-<blockquote>
-<div><strong>http://yoursitecouldlooklike.com/xT6j2</strong></div></blockquote>
-
-
-<p>Set up an nginx/apache reverse proxy. Whenever someone accesses that URL, the service curls the target site (1), inserts the contents of the CSS file immediately before the closing html tag (2), then serves the page to the customer.</p>
-
-<p>If you want to be fancy, you can count page views, do analytics on the ip addresses that access it, etc. You can also let people insert their own js file. Will someone build this please?</p>
 ]]></content>
   </entry>
   

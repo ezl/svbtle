@@ -19,7 +19,7 @@ this is what I like about Christmas -- spending time in the company of family
 and friends, with everyone doing what makes them happy.
 
 
-## What I want to do is hack. ##
+## Hacking Is Nerd Fun ##
 
 I like hacking. My family thinks its work, and most of my friends
 do too.  But it's not.

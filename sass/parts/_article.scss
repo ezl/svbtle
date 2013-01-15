@@ -29,10 +29,13 @@ article{
             max-width: 500px;
             font-size: 20px;
             line-height:24px;
-            font-weight: 600;
+            font-weight: bold;
             color: $article-h2-color;
             margin-top: 20px !important;
             margin-bottom: 20px;
+        }
+        h3 {
+            font-weight: 600px;
         }
 
 	.entry-content{

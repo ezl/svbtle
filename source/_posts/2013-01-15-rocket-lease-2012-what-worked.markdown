@@ -48,7 +48,7 @@ I don't want to knock this entirely, because we've done very well with words tha
 
 ### Adwords ###
 
-I suck at this too. I wrote about my experience with Adwords here. Fundamentally, I think the real problem here is that not enough apartment owners and landlords are LOOKING for rental application solutions.  Arguably I should just keep this going though since I think it can be cost effective, but optimizing the campaign was a lot of work, and at the time it was unclear whether or not it *would* pay off.  Unfortunately also, since the search volume for high converting keywords is low, it seems like it would take a long time to optimize the effort to pay off.  Also, the high converting keywords seem in striking range for organic search rankings.
+I suck at this too. I wrote about my experience with Adwords [here](http://blog.ezliu.com/blog/currently-paying-150-per-conversion/). Fundamentally, I think the real problem here is that not enough apartment owners and landlords are LOOKING for rental application solutions.  Arguably I should just keep this going though since I think it can be cost effective, but optimizing the campaign was a lot of work, and at the time it was unclear whether or not it *would* pay off.  Unfortunately also, since the search volume for high converting keywords is low, it seems like it would take a long time to optimize the effort to pay off.  Also, the high converting keywords seem in striking range for organic search rankings.
 
 ### Reddit ###
 

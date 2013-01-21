@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-01-21T11:41:44-06:00</updated>
+  <updated>2013-01-21T11:44:35-06:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[How To Hire Salespeople For A Startup]]></title>
-    <link href="http://www.ezliu.com//blog/how-to-hire-salespeople-for-a-startup/"/>
-    <updated>2013-01-21T11:38:00-06:00</updated>
-    <id>http://www.ezliu.com//blog/how-to-hire-salespeople-for-a-startup</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[How To Hire Salespeople For A Startup]]></title>
@@ -5533,6 +5524,31 @@ rentals</td>
 </tbody>
 </table>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Change in Linked In Ad Strategy: Free Banner Advertising?]]></title>
+    <link href="http://www.ezliu.com//blog/change-in-linked-in-ad-strategy-free-banner-advertising/"/>
+    <updated>2012-06-28T00:00:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/change-in-linked-in-ad-strategy-free-banner-advertising</id>
+    <content type="html"><![CDATA[<p>I wrote about my experience <a href="http://ezliu.com/getting-started-with-linked-in-ads/">setting up Linked In Ads</a> and described why I chose the campaign set up that I did a few days ago.</p>
+
+<p>1897 impressions and zero clicks later, I&#8217;ve decided to pull the plug on running the campaign that way.</p>
+
+<p><a href="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.27.28-PM.png"><img title="Rocket Lease" src="http://www.ezliu.com//images/Screen-Shot-2012-06-22-at-9.27.28-PM.png" alt="" width="200" height="53" /></a></p>
+
+<p>I mentioned that Linked In doesn&#8217;t really tell you what you get for bidding more or less than the &#8220;recommended amount&#8221;.  Since Linked In doesn&#8217;t tell me what impact I&#8217;ll get for increasing my bid, I decided I&#8217;ll test it myself. For giggles, I&#8217;ve doubled my bid from $2.00 to $4.00/1000 impressions; this is significantly HIGHER than the recommended $2.13-$2.34 range.  Its not clear, but I think you pay whatever you bid, unlike Google Adwords auctioning system.  Will post further results.</p>
+
+<p>I&#8217;m not surprised that Linked In isn&#8217;t generating clicks.  People go to Google with specific queries and the default user behavior is &#8220;click a link&#8221;. Facebook ads are even probably better because people go to Facebook when they&#8217;re bored and looking for a diversion at work. Linked In, however, as far as I can tell, though described as a &#8220;social network&#8221; is a very targeted tool that people use for professional communication and is users generally only open it with a specific purpose in mind. People don&#8217;t just go hang out on LI to pass time, and they aren&#8217;t looking for things to click on.</p>
+
+<p><a href="http://www.ezliu.com//images/linkedinfail.png"><img class="aligncenter size-full wp-image-280" title="linkedinfail" src="http://www.ezliu.com//images/linkedinfail.png" alt="" width="982" height="173" /></a></p>
+
+<p>It might be the case that only certain types of products should be advertising on Linked In (tools for recruiters, trying to reach people directly by posting your resume in an ad, job finding services, etc.).  I&#8217;ll be curious to see what increased CPM bids or CPC campaigns end up doing.</p>
+
+<p>My hope at this point is I migrate to CPC and continue to get zero clicks.  If I&#8217;m right that Linked In users just don&#8217;t click because that&#8217;s not why they go to the site, I&#8217;ll treat this as a free awareness generation campaign.  I&#8217;ll open up my target audience to get mass exposure and just use it as a way to have Rocket Lease banner ads displayed as people do whatever they do on Linked In.  It might not directly convert, but hopefully it&#8217;ll start sinking into everyone&#8217;s brains and the next time someone is talking about renting an apartment, maybe it will come up.</p>
+
+<p>&nbsp;</p>
 ]]></content>
   </entry>
   

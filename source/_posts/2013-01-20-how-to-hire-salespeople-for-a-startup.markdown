@@ -18,7 +18,7 @@ you're not ready to invest in a salesperson.
 
 Don't give them all the information they need. Make them hunt through your website for
 your contact info. Or linked in. Make your information available, but not obvious. This will weed out people who are just mass mailing
-resumes (the will waste your time).
+resumes.
 
 ### Set up phone interviews ###
 
@@ -56,7 +56,7 @@ your NEEDS and seeing how they can fill them.  They should be asking a lot of qu
 you a lot of stories about how they closed that whale 3 jobs ago or how much revenue they produced
 in an unrelated industry.
 
-There's no perfect salesperson and there's no perfect product.
+**There's no perfect salesperson and there's no perfect product.**
 
 The salesperson's job is to find out the prospect's needs/pain points, then show how your product
 can solve that. If he's not looking for fit between him and you, he won't be looking for fit between

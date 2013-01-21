@@ -41,20 +41,19 @@ The phone interview is a sales call where the salesperson is selling himself to 
 Is he smooth on the phone, does he guide the conversation, does he ask good questions, is
 he personable, do you like him?
 
-* Do they ramble? If they do, let them go. See how long it goes. Sales isn't about the salesperson, it's about the prospect. Talking forever about themsleves is a negative indicator.
+* Do they ramble? If they do, let them go. See how long it goes. Sales isn't about the salesperson, it's about the prospect. Talking forever about themselves is a negative indicator.
 * If the conversation stops, do NOT fill the space for them -- see what they do with the awkward silence.
-* Do they overuse filler words like "um" and "like"? You want someone that sounds smooth, assertive, and cofident. If they don't sound professional and convincing in an interview, they won't when they do sales.
+* Do they overuse filler words like "um" and "like"? You want someone that sounds smooth, assertive, and confident. If they don't sound professional and convincing in an interview, they won't when they sell your product.
 
 ### Great candidates will ask you questions about the role, what you need, and tell you if it's a good fit. ###
 
-Awesomeness doesn't happen in a vacuum. You don't want a candidate who is awesome by himself,
-he has to be awesome with your product.
+Awesomeness doesn't happen in a vacuum. You don't want a candidate who is just awesome alone --
+he/she has to be awesome with your product.
 
-Do they tell stories about themselves like they're trying too hard to sell themselves? great sales
+Do they tell stories about themselves like they're trying too hard to sell themselves? Great sales
 is about finding **FIT**, not talking about how AWESOME your product is.  They should be asking about
-your NEEDS and seeing how they can fill them.  They should be asking a lot of questions, not telling
-you a lot of stories about how they closed that whale 3 jobs ago or how much revenue they produced
-in an unrelated industry.
+your NEEDS and seeing how they can fill them.  They should be asking a lot of questions, not regaling
+you with stories of how much revenue they closed in an unrelated industry.
 
 **There's no perfect salesperson and there's no perfect product.**
 
@@ -64,7 +63,7 @@ your product and your customers.
 
 ### What sorts of things can't you sell / What was the hardest thing you've ever had to sell? ###
 
-There aren't absolutes. Salespeople love to say they can sell anything. That's never true. Some products
+Salespeople love to say they can sell anything. That's never true. Some products
 are too expensive, or don't have product-market fit, or just plain suck.  Ask what they struggled to sell or
 what sorts of products they think they wouldn't be able to sell. If the answer is "nothing", it indicates
 either delusion or an inability to reason.
@@ -72,19 +71,24 @@ either delusion or an inability to reason.
 ### Metrics ###
 
 Ask them what sorts of metrics they track and how they track them.  Calls, decision makers, demos, etc.
-How do they typically gauge success?  Also, what system do they use for tracking it (assuming you don't already
+How do they typically gauge success?
+
+Also, what system do they use for tracking it (assuming you don't already
 have this stuff in place).  As a founder, your job isn't to train people to sell. You want people who
 already think about this the right way. You need metrics, and good salespeople will have answers for you.
 
 ### Do they set a time to follow up? ###
 
-This is important.
+**This is important.**
 
 Wind down the interview in typical fashion. Thank them for their time. Don't offer any future plans. Refrain from
 saying "ok, if i'm interested, i'll get back to you next week" or something like that. Just thank them.
 
 A salesperson's
-job is to make sales. But many products require multiple touchpoints with busy people. Salespeople can waste a
+job is to make sales. But many products require multiple touchpoints with busy people. Your salesperson needs to
+be effective at getting to the next step.
+
+Salespeople can waste a
 lot of time chasing dead leads that aren't interested.  To be efficient, they need to be able to identify which leads
 are dead and prune them. At the end of any sales call, they should be either:
 
@@ -105,7 +109,7 @@ The result of this is that they'll be forced to follow up in the future. See if 
 If they can't get their calendar together for a job, they'll fail with prospects.
 
 
-## Other notes ##
+## Other thoughts ##
 
 ### Typing speed ###
 

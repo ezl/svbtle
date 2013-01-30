@@ -13,7 +13,7 @@ to work for a startup. Unfortunately, early stage startups only need coders."*
 
 This is (a) **false**, and (b) **an excuse**.
 
-## What Do Startups Need? ##
+### What Do Startups Need? ###
 
 Startups are a quest to make valuable things from ideas and sweat.  **Early stage
 startups need people who create value.**
@@ -30,7 +30,7 @@ the only way to create value.  If you can't code:
 * Run focus groups
 * Find free office space for a team by calling other startups in the area and asking if any of them will host you.
 
-## How To Get A Job At Any Startup ##
+### How To Get A Job At Any Startup ###
 
 **You can get a job at ANY early stage startup by emailing the founder and telling him you'll create value for his/her team.**  Here's a template:
 
@@ -55,7 +55,7 @@ I'll show see you on Tuesday!
 
 Then you have 3 weeks to make yourself absolutely indispensible to that company.
 
-## Why This Will Work? ##
+### Why This Will Work? ###
 
 Here's a secret about startup founders: They like money. So if you can join
 their team for free and make them richer, they'll be excited about paying you

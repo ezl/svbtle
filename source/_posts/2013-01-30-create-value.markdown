@@ -50,7 +50,7 @@ experience. No expectations.<br><br>
 
 Could I show up on Tuesday of next week to get started? We can consider it an interview. If it seems like a fit, I'll just get
 started with seeing how I can add value to the team. If I don't hear an explicit "no" from you,
-I'll show see you on Tuesday!
+I'll see you on Tuesday!
 </blockquote>
 
 Then you have 3 weeks to make yourself absolutely indispensible to that company.
@@ -60,7 +60,7 @@ Then you have 3 weeks to make yourself absolutely indispensible to that company.
 Here's a secret about startup founders: They like money. So if you can join
 their team for free and make them richer, they'll be excited about paying you
 to stick around. (Another hint: if they *don't* want free value creation, they
-probably suck or it's not a fit anyways)
+probably suck or it's not a fit)
 
 If you CAN'T make yourself unquestionably indispensible in some way, then
 you need to ask yourself whether you're really adding enough value for the

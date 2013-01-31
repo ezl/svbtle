@@ -1,2 +1,25 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+hr {
+    display: block;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+hr {
+    margin: 20px 0 25px 0;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 20px;
+    color: #DDD;
+    border: none;
+    max-width: 500px;
+    // these dots are stolen from http://warpspire.com/posts/pixels-dont-care/
+}
+hr::before {
+    content: '•••••';
+}

@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-01-30T16:43:43-06:00</updated>
+  <updated>2013-01-31T10:29:08-06:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tips For First Time Entrepreneurs]]></title>
+    <link href="http://www.ezliu.com//blog/tips-for-first-time-entrepreneurs/"/>
+    <updated>2013-01-31T09:23:00-06:00</updated>
+    <id>http://www.ezliu.com//blog/tips-for-first-time-entrepreneurs</id>
+    <content type="html"><![CDATA[<p>Last year, I taught a class at <a href="http://www.generalassemb.ly">General Assembly</a>
+called &#8221;<a href="http://www.eventbrite.com/event/3192487817">How To Start A Startup If You&#8217;re Not A Developer</a>&#8221;
+where I focused on helping aspiring non-technical founders
+get from the idea stage to an MVP.</p>
+
+<p>Since then, I&#8217;ve taught several variations of that course.  As a result,
+I&#8217;ve had the privilege of connecting with many aspiring founders, both developers
+and non-developers.</p>
+
+<p>What follows is some unsolicited advice for first-time entrepreneurs.</p>
+
+<h3>&#8220;Good&#8221; Ideas != Profitable Ideas</h3>
+
+<p>It&#8217;s a mistake to assume that because an idea is sensible it will make money.</p>
+
+<ol>
+<li>You&#8217;re not &#8220;everyone other than you&#8221;. You don&#8217;t know how they think. What is sensible to you might not be sensible to them.</li>
+<li>People rarely adopt/switch technologies for economically rational reasons alone.</li>
+</ol>
+
+
+<h3>&#8220;Bad&#8221; Ideas != Failures</h3>
+
+<p>Smart people often make the jump from &#8220;I wouldn&#8217;t use it&#8221; to &#8220;that won&#8217;t be economically viable&#8221;.</p>
+
+<p>Meanwhile, that terrible restaurant down the street has been in business for 20 years and
+people continue to pay $10 (or $200 dollars) a month for Wordpress, which is open source.</p>
+
+<p>There are customers other than you that will make the businesses you hate thrive.</p>
+
+<h3>You Probably Need Less Tech Than You Think</h3>
+
+<p>Most ideas can be validated and even sold to customers before much product
+development is ever done.  Try to build less.</p>
+
+<h3>Getting Traction Is Harder Than You Think</h3>
+
+<p>Even if your idea is great, your product is great, and your customers love it;
+expect the path to traction to be long, tedious, frustrating, and painful.</p>
+
+<p>I love Dropbox. It&#8217;s awesome. My friends were giving rave reviews. It made sense
+to me intellectually. I installed it at least 3 times and didn&#8217;t <em>really</em> start
+using it for at least 12 months after I first installed it.  I still don&#8217;t
+pay for it.</p>
+
+<p>Your product is probably less awesome than Dropbox.</p>
+
+<p>Getting traction will require <a href="http://startupschool.org/2012/rusenko/">steely resolve</a>, lots of hard work, and more time
+than you want to give (or a ton of luck).</p>
+
+<hr>
+
+
+<p>Most of these really boil down to this: You aren&#8217;t &#8220;everyone else&#8221;. It&#8217;s arrogant to
+presume that you can predict what millions of other people
+are going to like, think, and do.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Create Value]]></title>
@@ -1590,24 +1654,6 @@ and a third line, for giggles</p></blockquote>
 <p>2070  miles for 3 states. If we had driven 2 more hours in each direction or circled around less internally, we could have hit 3 <em>countries</em>.</p>
 
 <p>My first real vacation in a few years, but I did still do some &#8220;work&#8221;.  At some point I&#8217;d like to do a sans-computer/electronics/phone/email 4+ week vacation. One day when I&#8217;ve made it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Embeddable applications]]></title>
-    <link href="http://www.ezliu.com//blog/embeddable-applications/"/>
-    <updated>2012-08-29T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/embeddable-applications</id>
-    <content type="html"><![CDATA[<pre><code>    &lt;style&gt;
-        iframe { width: 100%; height: 100%; }
-        div { width: 600px; height: 400px; margin: auto; }
-    &lt;/style&gt;
-    &lt;h1&gt;Hello!&lt;/h1&gt;
-    Now we can embed rocketlease applications in other pages!
-    &lt;div&gt;
-        &lt;script src="http://code.jquery.com/jquery-1.8.0.min.js"&gt;&lt;/script&gt;&lt;div id="rocketlease"&gt;&lt;a href="http://www.rocketlease.com"&gt;Powered by RocketLease&lt;/a&gt;&lt;/div&gt;&lt;script src="http://integration.rocketlease.com/app/2-2/embedded.js"&gt;&lt;/script&gt;
-    &lt;/div&gt;
-</code></pre>
 ]]></content>
   </entry>
   

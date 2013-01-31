@@ -16,13 +16,6 @@ and non-developers.
 
 What follows is some unsolicited advice for first-time entrepreneurs.
 
-### "Good" Ideas != Profitable Ideas ###
-
-It's a mistake to assume that because an idea is sensible it will make money.
-
-1. You're not "everyone other than you". You don't know how they think. What is sensible to you might not be sensible to them.
-2. People rarely adopt/switch technologies for economically rational reasons alone.
-
 ### "Bad" Ideas != Failures ###
 
 Smart people often make the jump from "I wouldn't use it" to "that won't be economically viable".
@@ -31,6 +24,13 @@ Meanwhile, that terrible restaurant down the street has been in business for 20 
 people continue to pay $10 (or $200 dollars) a month for Wordpress, which is open source.
 
 There are customers other than you that will make the businesses you hate thrive.
+
+### "Good" Ideas != Profitable Ideas ###
+
+It's a mistake to assume that because an idea is sensible it will make money.
+
+1. You're not "everyone other than you". You don't know how they think. What is sensible to you might not be sensible to them.
+2. People rarely adopt/switch technologies for economically rational reasons alone.
 
 ### You Probably Need Less Tech Than You Think ###
 

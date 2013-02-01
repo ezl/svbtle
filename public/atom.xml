@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-01-31T10:41:51-06:00</updated>
+  <updated>2013-02-01T10:42:25-06:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Free Ideas (That I Like)]]></title>
+    <link href="http://www.ezliu.com//blog/free-ideas-that-i-like/"/>
+    <updated>2013-02-01T10:32:00-06:00</updated>
+    <id>http://www.ezliu.com//blog/free-ideas-that-i-like</id>
+    <content type="html"><![CDATA[<p>Here are some ideas I like, but am not pursuing.</p>
+
+<p>These ideas are, of course, free for the taking, if anyone reads these and cares.  I&#8217;ve thought about them more than the text indicates, so if anyone wants to execute, shoot me a note and I&#8217;m happy to chat further.</p>
+
+<h3>Put together family plans for people (cell plans, data plans)</h3>
+
+<p>Individuals pay as much as a 50% premium for having an individual plan instead of a family plan. No cell phone carrier requires any sort of restrictions for being a &#8220;family&#8221; other than your assertion that you are a family (doesn&#8217;t have to be same household, last name, or anything). You and I could be on a family plan.</p>
+
+<p>Just a quick survey:</p>
+
+<ul>
+<li><a href="http://www.att.com/shop/wireless/plans/familyplans.html">http://www.att.com/shop/wireless/plans/familyplans.html</a> vs</li>
+<li><a href="http://www.att.com/shop/wireless/plans/individualplans.html">http://www.att.com/shop/wireless/plans/individualplans.html</a></li>
+</ul>
+
+
+<p>5 people is the max on a family plan. the unlimited plan divided 5 ways would be:</p>
+
+<ul>
+<li>(50 * 3+119) / 5 == 270/5 == 54 bucks</li>
+<li>the individual unlimited plan is 70 bucks.</li>
+</ul>
+
+
+<p>Win.</p>
+
+<ul>
+<li>If you were to divide up the 2100 minute plan (420 minutes each),</li>
+<li>(10 * 3+110)/5 ==140/5 = 28/month</li>
+<li>Compare to the 450 minute individual plan for 40/mo.</li>
+</ul>
+
+
+<p>Win.</p>
+
+<p>Additionally realize that with any fixed, finite amount of minutes, most people don&#8217;t spend all of it. Cell phone providers make a lot of money because they&#8217;re effectively dealing in &#8220;overage&#8221;. If I sell you 450 minutes, you&#8217;ll almost certainly use some amount OTHER than 450. If you use 400 minutes, I pocket a free 50 minutes (not always, with &#8220;rollover minutes&#8221;, but whatever). If you use 500 minutes, I get to charge you for 50 minutes at some obscene overate rate. bundling packages helps people save on this front as well.</p>
+
+<p>There&#8217;s a bit more complexity than that due to data and text plans, but you get the picture.  There are also other advantages to grouping people into family plans (for example, no contract breakage fees &#8211; you could get on a family plan for 3 months, then bail)</p>
+
+<p>this &#8220;business idea&#8221; is just a website that pairs people together to get into family plans with people they don&#8217;t know.  you could be VERY involved (actually broker the transactions, take money, and have a ton of plans yourself), or decentralize it and just connect people who are looking to save money.  Either way, you create a lot of value, so you can charge the end customer a bit.</p>
+
+<h3>Gym waiver forms</h3>
+
+<p>I do crossfit, which if you don&#8217;t know what that is, its just another gym.  Crossfit gyms (&#8220;boxes&#8221;), dance studios, rock climbing places, karate dojos, etc all make new members sign a waiver of some sort. It&#8217;s usually a crappy piece of paper that has been photocopied many times over, is hard to read, low fidelity, stored in a manila envelope in the office, and then after its signed, the gym owner files it away in a cabinet. No big deal. But they suck.</p>
+
+<p>Create a simple version of the online signing interface at http://signnow.com, specialize in just dropping a signature and date field into an HTML document for gym owners and charge them $.50 a signature.  In return, they get electronic copies of their documents, you host/store all the documents for them (&#8220;in the cloud!&#8221; people love hearing that&#8230;). their docs are searchable and they can find whatever they want, whehever. They only pay for usage and its cheap. It automticaly emails copies to the owner and the new member. new members can just go to: gymwaiverform.com/mygymname on their phone to get the waiver, fill out a few html fields, drag their finger on the iphone as a signature, and boom.</p>
+
+<p>the value proposition is cheap, searchable documents. always having them on hand. not having paper in your gym. email copies to you and the end consumers.</p>
+
+<h3>Build your own granola bars</h3>
+
+<p>Like this site: http://www.youbars.com/buildabar/ &#8211; create a sexy UI for building your own bar.  This site should be a ONE PAGE app. use backbone or something with a list of ingredients in a checkbox, then do quick animations to make it look like items are being poured into a mold.  Do batches of 12, ship them cheap.  These are easy to make and cost like 20 cents a granola bar at most.  It&#8217;s easy to hire people to do this kind of work, shipping is easy, spoilage is minimal. Target audience == office drones who are eating unhealthy crap during the day. Get them all on a weekly subscription plan.</p>
+
+<p>The game here is to connect with office managers on linked in. ask them if you can send them a free sample. tell them its better tasting and better for their employees health than the cheetos they&#8217;re already buying.  close weekly subscription plans for offices.</p>
+
+<h3>Connect dog walkers with dog owners</h3>
+
+<p>Tons of dog owners in cities like chicago, NYC, SF, LA pay people to walk their dogs while they&#8217;re at work. Create the 2 sided market for this service exclusively. build in reviews and rating systems for both sides (a la Uber).</p>
+
+<p>This may sound ridiculous, but this market is surprisingly bigger than you&#8217;d think (I have seen a dog walking companies financials and I was flabbergasted). Charge 5 bucks to connect a pair. Or have them book and pay through the site and charge $1 per walk (dogs are getting walked every day&#8230;).  Dog owners will probably like the convenience of online payment instead of always running to bank of america to get cash for their walker.  also, if their walker is unavailable, they&#8217;ll be able to find another local walker that is well-reviewed.</p>
+
+<p>This idea sort of exists. But nobody has traction. If dog owners/walkers don&#8217;t know about it, then it effectively doesn&#8217;t exist for them</p>
+
+<h3>Booze delivery</h3>
+
+<p>If you&#8217;ve ever been drunk and out of vodka, would you have paid a 5 dollar premium to have it delivered to your door in 30 minutes? Someone will.</p>
+
+<p>Booze is cheap for liquor stores. If you can help them move product, someone will offer you a commission (call it an advertising fee, selling liquor requires abiding by laws, advertising doesn;t).</p>
+
+<p>Drunk people pay a premium for delivery.</p>
+
+<p>so that $25 bottle at the store, could be a $10 fee for the delivery business (5 from the store, 5 from the consumer).</p>
+
+<p>the tech is minimal. a really clean and simple UI for picking between 4-5 choices (absolut, $15; grey goose $35; jack daniels $25, patron, $30; case of budweiser $20), an html form to take in name, address, and an image of your photo id, and a embedded stripe form for processing payments.</p>
+
+<p>at the early stage, this just fires an email to the CEO.</p>
+
+<p>The CEO&#8217;s job is to promote this website, get people buying, manage bike messengers/drivers to deliver the product.</p>
+
+<p>After he&#8217;s delivered 100 orders, then talk about automation and scaling.</p>
+
+<h3>CSS Bounties.com</h3>
+
+<p>I suck at CSS. Lots of people are good at it.</p>
+
+<p>Often, in 10 minutes, someone can solve the sort of problem that could take me 6 hours to solve.</p>
+
+<p>Put bounties on CSS problems for immediate solving. Inspired by <a href="http://www.reddit.com/r/forhire/comments/17ne2z/hiring_20_to_whomever_tells_me_how_to_fix_this_css/">this reddit thread</a>.</p>
+
+<p>Let the internet solve your CSS problems, collaborate with the folks in #css on freenode.</p>
+
+<p>The person with the problem posts a description, URL to the site, and the desired outcome on the site and an expiration date.  They paypal the site with the bounty (minimum $5).  They can cancel the bounty at any time before a solution is posted.</p>
+
+<p>If the expiration date hits without a solution, it is returned to the poster.</p>
+
+<p>People can post solutions to problems, if theirs is selected, the bounty is released to that person.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tips For First Time Entrepreneurs]]></title>
@@ -1599,61 +1703,6 @@ and a third line, for giggles</p></blockquote>
 </span><span class='line'>        <span class="k">print</span> <span class="s">&quot;Hello, </span><span class="si">%s</span><span class="s">!&quot;</span> <span class="o">%</span> <span class="bp">self</span><span class="o">.</span><span class="n">listener</span>
 </span></code></pre></td></tr></table></div></figure>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2012 West Coast Road Trip: 3 weeks, 2070 miles]]></title>
-    <link href="http://www.ezliu.com//blog/2012-west-coast-road-trip-3-weeks-2070-miles/"/>
-    <updated>2012-09-08T00:00:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/2012-west-coast-road-trip-3-weeks-2070-miles</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve been slacking from my weekly writing date with my blog because Google tells me that my site has been compromised. I keep saying I&#8217;ll fix it then resume my writing, but that hasn&#8217;t happened, so for now, I&#8217;m writing on a domain that has been compromised. I think that really just means I need to fix some .htaccess files, but that&#8217;s a job for another day.</p>
-
-<p>August 2012, Seattle to San Diego. 3 weeks, 2070 miles, 5 Crossfit boxes, every Whole Foods along the way.</p>
-
-<p>The places we stopped for at least one night:</p>
-
-<ol>
-    <li>Seattle, WA</li>
-    <li>Seaview, WA</li>
-    <li>Portland, OR</li>
-    <li>Crater Lake National Park</li>
-    <li>Redding, CA</li>
-    <li>San Francisco, CA</li>
-    <li>Sonoma, CA</li>
-    <li>Carmel/Monterey, CA</li>
-    <li>Buellton, CA</li>
-    <li>Los Angeles, CA</li>
-    <li>San Diego, CA</li>
-</ol>
-
-
-<p>First decided I wanted to do this trip more than 3 years ago (probably right when A and B were getting married &#8211; thought I might be able to hit the wedding on the way).  Well, 3 years later, thanks to M, we finally got it done.  Twas awesome.  Thought we were going to get bored and not have enough to do, but on the contrary, we ran out of things to do really fast. Didn&#8217;t spend more than 2 nights anywhere and didn&#8217;t get to do too much in most cities.  Lots of great scenery, good food, meeting old friends, relaxing away from real life. &#8216;Twas awesome.</p>
-
-<p>I&#8217;ve been pooh-poohing the west coast for a long time now, and now I realize my folly. West Coast &gt;&gt;&gt; NYC. hands down.</p>
-
-<p>Highlights:</p>
-
-<ul>
-    <li>I think I love Seattle. I keep getting lucky and every time I go, its sunny and beautiful. I&#8217;m afraid if I move there it&#8217;ll be dreary and foggy like everyone says it is, but I&#8217;ve never experienced. Seattle food was shockingly good. Salumi is overrated. Ma&#8217;ono was excellent.</li>
-    <li>Steamboat Inn near Crater Lake National Park. Tiny adorable hotel on the Umpqua River where there is no cell phone reception or internet. Local Oregon wines</li>
-    <li>Ashland, OR &#8211; we passed through the Shakespeare Festival but didn&#8217;t go. Cute town, would like to actually stop there next time.</li>
-    <li>Very cool vintage RV rally at the Sou&#8217;wester Inn &amp; Lodge/RV park. I still want to live in an Airstream trailer. Sorry, M.</li>
-    <li>Portland is adorable. I feel like I&#8217;d get bored of it quickly though. Salt and Straw is great. Would like to try more food trucks. And wtf, it IS where young people retire. All the spots we wanted to go to were packed on a Monday afternoon.</li>
-    <li>TChung, great catching up.</li>
-    <li>House was not as good as I remembered it from 7 years ago. Restaurants and palates change in 7 years, so I wasn&#8217;t particularly surprised. Still good to find out for sure.</li>
-    <li>Roli Roti is awesome. The Ferry Building is awesome. I love the abundance of Asian stuff in SF, but I don&#8217;t know if I love it enough to want to live there.</li>
-    <li>I was most looking forward to Monterey/Carmel to remind me of my time at music camp down there, but the fog really ruined it. How did I get the most perfect summer ever when I went before?</li>
-    <li>TCho, you too. Love the bitters idea. Great to see you&#8217;re rocking it, CH. Chego was great.</li>
-    <li>Fuck LA traffic.</li>
-    <li>I like having water in my life. Looking out over that big vast blue, whether ocean or lake, brings me inner peace.</li>
-    <li>San Diego &#8211; Also wasn&#8217;t a big winner for weather, I guess we got unlucky. I don&#8217;t care about zoos.  Love the idea of being able to have a house on the beach and have night time campfires. However, I didn&#8217;t get the feeling that I&#8217;d love the food or people.  Angriest drivers we met on the whole road trip.</li>
-</ul>
-
-
-<p>2070  miles for 3 states. If we had driven 2 more hours in each direction or circled around less internally, we could have hit 3 <em>countries</em>.</p>
-
-<p>My first real vacation in a few years, but I did still do some &#8220;work&#8221;.  At some point I&#8217;d like to do a sans-computer/electronics/phone/email 4+ week vacation. One day when I&#8217;ve made it.</p>
 ]]></content>
   </entry>
   

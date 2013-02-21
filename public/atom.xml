@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-02-01T10:42:25-06:00</updated>
+  <updated>2013-02-21T13:25:43-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -14,9 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Talking to Robots]]></title>
+    <link href="http://www.ezliu.com//blog/talking-to-robots/"/>
+    <updated>2013-02-21T13:24:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/talking-to-robots</id>
+    <content type="html"><![CDATA[<p>I unfairly get angry at the customer service representative whenever I have to enter information into the automated system and then the first thing the customer service rep does is ask me for the same information.</p>
+
+<p>It&#8217;s really not the customer service rep&#8217;s fault.  They&#8217;re just hourly wage workers and it&#8217;s really bank of america/verizon/tmobile/some shitty company&#8217;s fault that they don&#8217;t transfer the information they request.</p>
+
+<p>It still irks me though and even though i know it&#8217;s not the fault of the person on the other end of the phone, my patience is always a little shorter.</p>
+
+<p>Big companies: if you ask me for information, will you please just fucking transfer that information to the representative?</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Free Ideas (That I Like)]]></title>
     <link href="http://www.ezliu.com//blog/free-ideas-that-i-like/"/>
-    <updated>2013-02-01T10:32:00-06:00</updated>
+    <updated>2013-02-01T10:32:00-05:00</updated>
     <id>http://www.ezliu.com//blog/free-ideas-that-i-like</id>
     <content type="html"><![CDATA[<p>Here are some ideas I like, but am not pursuing.</p>
 
@@ -120,7 +135,7 @@
   <entry>
     <title type="html"><![CDATA[Tips For First Time Entrepreneurs]]></title>
     <link href="http://www.ezliu.com//blog/tips-for-first-time-entrepreneurs/"/>
-    <updated>2013-01-31T09:23:00-06:00</updated>
+    <updated>2013-01-31T09:23:00-05:00</updated>
     <id>http://www.ezliu.com//blog/tips-for-first-time-entrepreneurs</id>
     <content type="html"><![CDATA[<p>Last year, I taught a class at <a href="http://www.generalassemb.ly">General Assembly</a>
 called &#8221;<a href="http://www.eventbrite.com/event/3192487817">How To Start A Startup If You&#8217;re Not A Developer</a>&#8221;
@@ -184,7 +199,7 @@ are going to like, think, and do.</p>
   <entry>
     <title type="html"><![CDATA[Create Value]]></title>
     <link href="http://www.ezliu.com//blog/create-value/"/>
-    <updated>2013-01-30T14:11:00-06:00</updated>
+    <updated>2013-01-30T14:11:00-05:00</updated>
     <id>http://www.ezliu.com//blog/create-value</id>
     <content type="html"><![CDATA[<p>One lie that I&#8217;m consantly told is <em>&#8220;Early stage startups only need developers&#8221;</em>.</p>
 
@@ -260,7 +275,7 @@ outsource strategy or business development.</p>
   <entry>
     <title type="html"><![CDATA[Idea: Hustler School]]></title>
     <link href="http://www.ezliu.com//blog/idea-hustler-school/"/>
-    <updated>2013-01-24T11:22:00-06:00</updated>
+    <updated>2013-01-24T11:22:00-05:00</updated>
     <id>http://www.ezliu.com//blog/idea-hustler-school</id>
     <content type="html"><![CDATA[<p>Non-technical people frequently approach me to build them an MVP. &#8221;<em>Why should
 I work with you?</em>&#8221;, I ask. &#8221;<em>Because I&#8217;m a great hustler</em>&#8221;, they respond.</p>
@@ -346,7 +361,7 @@ better signal to noise ratio.</p>
   <entry>
     <title type="html"><![CDATA[How To Hire Salespeople For A Startup]]></title>
     <link href="http://www.ezliu.com//blog/how-to-hire-salespeople-for-a-startup/"/>
-    <updated>2013-01-20T10:28:00-06:00</updated>
+    <updated>2013-01-20T10:28:00-05:00</updated>
     <id>http://www.ezliu.com//blog/how-to-hire-salespeople-for-a-startup</id>
     <content type="html"><![CDATA[<h2>Before You Post Your Ad</h2>
 
@@ -502,7 +517,7 @@ you&#8217;ll be wasting your own time and resources, so you&#8217;d rather filte
   <entry>
     <title type="html"><![CDATA[Rocket Lease 2012: What Worked, What Didn't, What's Next]]></title>
     <link href="http://www.ezliu.com//blog/rocket-lease-2012-what-worked/"/>
-    <updated>2013-01-15T13:54:00-06:00</updated>
+    <updated>2013-01-15T13:54:00-05:00</updated>
     <id>http://www.ezliu.com//blog/rocket-lease-2012-what-worked</id>
     <content type="html"><![CDATA[<p><a href="http://www.rocketlease.com">Rocket Lease</a> makes it easy for landlords to use an online application to screen prospective tenants. It automatically runs credit reports, background checks, and eviction histories, saving the property manager time and money. I believe so strongly in the product that I left my career as an overpaid options trader and to the point where I&#8217;ve <a href="http://blog.ezliu.com/blog/financing-my-startup-with-my-401k/">invested money from my retirement funds</a> into the venture.</p>
 
@@ -629,7 +644,7 @@ you&#8217;ll be wasting your own time and resources, so you&#8217;d rather filte
   <entry>
     <title type="html"><![CDATA[Hacking on Xmas Eve]]></title>
     <link href="http://www.ezliu.com//blog/hacking-on-xmas-eve/"/>
-    <updated>2012-12-24T13:24:00-06:00</updated>
+    <updated>2012-12-24T13:24:00-05:00</updated>
     <id>http://www.ezliu.com//blog/hacking-on-xmas-eve</id>
     <content type="html"><![CDATA[<p>It&#8217;s Christmas Eve, on a beautiful, sunny, 75 degree afternoon in Texas.</p>
 
@@ -674,7 +689,7 @@ to explain to others that this is fun for me, and I&#8217;m not sure if I have t
   <entry>
     <title type="html"><![CDATA[What would you do if the world MIGHT end soon?]]></title>
     <link href="http://www.ezliu.com//blog/what-would-you-do-if-the-world-might-end-soon/"/>
-    <updated>2012-12-14T10:29:00-06:00</updated>
+    <updated>2012-12-14T10:29:00-05:00</updated>
     <id>http://www.ezliu.com//blog/what-would-you-do-if-the-world-might-end-soon</id>
     <content type="html"><![CDATA[<p>I was chatting to a friend about doomsday predictions for 12/21/2012 and wondered what I&#8217;d do if I thought that there was some credibility to the Mayan doomsday prophecy.</p>
 
@@ -701,7 +716,7 @@ to explain to others that this is fun for me, and I&#8217;m not sure if I have t
   <entry>
     <title type="html"><![CDATA[Options: Options Review]]></title>
     <link href="http://www.ezliu.com//blog/options-options-review/"/>
-    <updated>2012-12-05T09:12:00-06:00</updated>
+    <updated>2012-12-05T09:12:00-05:00</updated>
     <id>http://www.ezliu.com//blog/options-options-review</id>
     <content type="html"><![CDATA[<h1>Ebook: Developing Intuitions about Options</h1>
 
@@ -988,7 +1003,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Options: Random Walks]]></title>
     <link href="http://www.ezliu.com//blog/options-random-walks/"/>
-    <updated>2012-11-29T08:28:00-06:00</updated>
+    <updated>2012-11-29T08:28:00-05:00</updated>
     <id>http://www.ezliu.com//blog/options-random-walks</id>
     <content type="html"><![CDATA[<h1>Options Pricing and Behavior Ebook</h1>
 
@@ -1118,7 +1133,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Financing My Startup With My 401k]]></title>
     <link href="http://www.ezliu.com//blog/financing-my-startup-with-my-401k/"/>
-    <updated>2012-11-13T09:01:00-06:00</updated>
+    <updated>2012-11-13T09:01:00-05:00</updated>
     <id>http://www.ezliu.com//blog/financing-my-startup-with-my-401k</id>
     <content type="html"><![CDATA[<p>As of one week ago, I am officially funding <a href="http://www.rocketlease.com">Rocket Lease</a> with retirement fund money. This was not a decision made in haste. You may think I&#8217;m an idiot, and you may be right.</p>
 
@@ -1174,7 +1189,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Notes from Noah Kagan talk at Chicago Growth Hackers Meetup]]></title>
     <link href="http://www.ezliu.com//blog/notes-from-noah-kagan-talk-at-chicago-growth-hackers-meetup/"/>
-    <updated>2012-10-24T22:34:00-05:00</updated>
+    <updated>2012-10-24T22:34:00-04:00</updated>
     <id>http://www.ezliu.com//blog/notes-from-noah-kagan-talk-at-chicago-growth-hackers-meetup</id>
     <content type="html"><![CDATA[<p>I attended a small event where Noah Kagan spoke to us about his experience and answered audience questions very candidly.</p>
 
@@ -1231,7 +1246,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[A/B Testing The Effect Of Sender Race On Email Response Rates]]></title>
     <link href="http://www.ezliu.com//blog/a-slash-b-testing-the-effect-of-sender-race-on-email-response-rates/"/>
-    <updated>2012-10-14T21:06:00-05:00</updated>
+    <updated>2012-10-14T21:06:00-04:00</updated>
     <id>http://www.ezliu.com//blog/a-slash-b-testing-the-effect-of-sender-race-on-email-response-rates</id>
     <content type="html"><![CDATA[<h2>Are Emily and Brendan More Employable than Lakisha and Jamal?</h2>
 
@@ -1340,7 +1355,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Founder Failure Insurance: Follow up]]></title>
     <link href="http://www.ezliu.com//blog/founder-failure-insurance-follow-up/"/>
-    <updated>2012-09-27T17:31:00-05:00</updated>
+    <updated>2012-09-27T17:31:00-04:00</updated>
     <id>http://www.ezliu.com//blog/founder-failure-insurance-follow-up</id>
     <content type="html"><![CDATA[<p>I got a few interested queries when I wrote first about <a href="http://www.ezliu.com//blog/founder-equity-pool/">Founder Failure Insurance</a> and I&#8217;ve thought about it a bit more since then.</p>
 
@@ -1379,7 +1394,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Chicago Coffee Shops: Where I Work]]></title>
     <link href="http://www.ezliu.com//blog/chicago-coffee-shops-where-i-work/"/>
-    <updated>2012-09-25T07:19:00-05:00</updated>
+    <updated>2012-09-25T07:19:00-04:00</updated>
     <id>http://www.ezliu.com//blog/chicago-coffee-shops-where-i-work</id>
     <content type="html"><![CDATA[<p>If you&#8217;re working on a startup or freelancing, you often find yourself frequenting cafes around town. If you&#8217;re like me, you try to stay away from Starbucks.</p>
 
@@ -1491,7 +1506,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Founder Equity Pool / Founder Failure Insurance]]></title>
     <link href="http://www.ezliu.com//blog/founder-equity-pool/"/>
-    <updated>2012-09-21T10:13:00-05:00</updated>
+    <updated>2012-09-21T10:13:00-04:00</updated>
     <id>http://www.ezliu.com//blog/founder-equity-pool</id>
     <content type="html"><![CDATA[<p>My startup is unlikely to succeed. Your startup is unlikely to succeed.</p>
 
@@ -1543,7 +1558,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Reddit 'Advertising']]></title>
     <link href="http://www.ezliu.com//blog/reddit-advertising/"/>
-    <updated>2012-09-19T13:18:00-05:00</updated>
+    <updated>2012-09-19T13:18:00-04:00</updated>
     <id>http://www.ezliu.com//blog/reddit-advertising</id>
     <content type="html"><![CDATA[<p>Ever since I read about the success of Duck Duck Go&#8217;s Reddit advertising campaign, I wanted to experiment a bit with advertising on Reddit.</p>
 
@@ -1606,7 +1621,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[Moving to Jekyll]]></title>
     <link href="http://www.ezliu.com//blog/moving-to-jekyll/"/>
-    <updated>2012-09-17T19:20:00-05:00</updated>
+    <updated>2012-09-17T19:20:00-04:00</updated>
     <id>http://www.ezliu.com//blog/moving-to-jekyll</id>
     <content type="html"><![CDATA[<p>Yep, I just did it.  I:</p>
 
@@ -1623,7 +1638,7 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
   <entry>
     <title type="html"><![CDATA[This is Another post]]></title>
     <link href="http://www.ezliu.com//blog/this-is-another-post/"/>
-    <updated>2012-09-14T05:50:00-05:00</updated>
+    <updated>2012-09-14T05:50:00-04:00</updated>
     <id>http://www.ezliu.com//blog/this-is-another-post</id>
     <content type="html"><![CDATA[<p>This is the song la la alsdjflasd kjfalsdk jflaskd
 sadfjlkadsfhlasd
@@ -1650,59 +1665,6 @@ a hsjkldf ahsdl
 <h2>Test header 2</h2>
 
 <p>then I ate some cheese for breakfast because it is creamy and delicious. fatty.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[zombie ninjas Attack]]></title>
-    <link href="http://www.ezliu.com//blog/zombie-ninjas-attack/"/>
-    <updated>2012-09-14T05:47:00-05:00</updated>
-    <id>http://www.ezliu.com//blog/zombie-ninjas-attack</id>
-    <content type="html"><![CDATA[<p>Content please</p>
-
-<p>la la la</p>
-
-<h3>block quote example</h3>
-
-<blockquote><p>hello this is a quote
-lets see how far it lets this go doe a deer a female deer ray a drop of golden sun me a name i call myself far a long long way to run sew a needle pulling thread la a note to follow so tea a drink with jam and bread that will bring us back to do do do do
-and a third line, for giggles</p></blockquote>
-
-<h3>code example</h3>
-
-<pre><code>def hello():
-    print hello
-</code></pre>
-
-<figure class='code'><figcaption><span>Discover if a number is prime </span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
-</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
-</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
-</span><span class='line'>  <span class="k">end</span>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<figure class='code'><figcaption><span>Hello world. </span><a href='http://www.google.com'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">class</span> <span class="nc">Speaker</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
-</span><span class='line'>    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">listener</span><span class="o">=</span><span class="s">&quot;world&quot;</span><span class="p">):</span>
-</span><span class='line'>        <span class="bp">self</span><span class="o">.</span><span class="n">listener</span> <span class="o">=</span> <span class="n">listener</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="k">def</span> <span class="nf">speak</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-</span><span class='line'>        <span class="k">print</span> <span class="s">&quot;Hello, </span><span class="si">%s</span><span class="s">!&quot;</span> <span class="o">%</span> <span class="bp">self</span><span class="o">.</span><span class="n">listener</span>
-</span></code></pre></td></tr></table></div></figure>
-
 ]]></content>
   </entry>
   

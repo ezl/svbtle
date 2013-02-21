@@ -4,7 +4,7 @@
   <title><![CDATA[Category: strategy | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/strategy/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-02-01T10:42:25-06:00</updated>
+  <updated>2013-02-21T13:25:43-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Change in Linked In Ad Strategy: Free Banner Advertising?]]></title>
     <link href="http://www.ezliu.com//blog/change-in-linked-in-ad-strategy-free-banner-advertising/"/>
-    <updated>2012-06-28T00:00:00-05:00</updated>
+    <updated>2012-06-28T00:00:00-04:00</updated>
     <id>http://www.ezliu.com//blog/change-in-linked-in-ad-strategy-free-banner-advertising</id>
     <content type="html"><![CDATA[<p>I wrote about my experience <a href="http://ezliu.com/getting-started-with-linked-in-ads/">setting up Linked In Ads</a> and described why I chose the campaign set up that I did a few days ago.</p>
 
@@ -41,7 +41,7 @@
   <entry>
     <title type="html"><![CDATA[Linked In Ads Results (3 days)]]></title>
     <link href="http://www.ezliu.com//blog/linked-in-ads-results-3-days/"/>
-    <updated>2012-06-26T00:00:00-05:00</updated>
+    <updated>2012-06-26T00:00:00-04:00</updated>
     <id>http://www.ezliu.com//blog/linked-in-ads-results-3-days</id>
     <content type="html"><![CDATA[<p>I wrote last week about my experience <a href="http://ezliu.com/getting-started-with-linked-in-ads/">getting started with Linked In ads</a>.</p>
 
@@ -98,7 +98,7 @@
   <entry>
     <title type="html"><![CDATA[Getting Started With Linked In Ads]]></title>
     <link href="http://www.ezliu.com//blog/getting-started-with-linked-in-ads/"/>
-    <updated>2012-06-23T00:00:00-05:00</updated>
+    <updated>2012-06-23T00:00:00-04:00</updated>
     <id>http://www.ezliu.com//blog/getting-started-with-linked-in-ads</id>
     <content type="html"><![CDATA[<p>I'm experimenting with Linked In Ads.  This is a log of what I did, my thought processes as I made decisions, and what I found interesting during the process of setting up my first Linked In ad campaign.</p>
 
@@ -301,7 +301,7 @@ Generally I don't think this is surprising -- for ANY company to grow that big p
   <entry>
     <title type="html"><![CDATA[Tracking HTTP Referer To Determine True Customer Lifetime Value]]></title>
     <link href="http://www.ezliu.com//blog/tracking-http-referer-to-determine-true-customer-lifetime-value/"/>
-    <updated>2012-06-19T00:00:00-05:00</updated>
+    <updated>2012-06-19T00:00:00-04:00</updated>
     <id>http://www.ezliu.com//blog/tracking-http-referer-to-determine-true-customer-lifetime-value</id>
     <content type="html"><![CDATA[<p>I want to be able to know what site referred users to my site.</p>
 
@@ -363,7 +363,7 @@ class OriginalRefererMiddleware(object):
   <entry>
     <title type="html"><![CDATA[Popular Craigslist Spam Tactics for Profit (and for Evil)]]></title>
     <link href="http://www.ezliu.com//blog/craigslist/"/>
-    <updated>2012-06-07T00:00:00-05:00</updated>
+    <updated>2012-06-07T00:00:00-04:00</updated>
     <id>http://www.ezliu.com//blog/craigslist</id>
     <content type="html"><![CDATA[<p>I've always enjoyed <a href="http://davegooden.com/2011/05/how-airbnb-became-a-billion-dollar-company/">Dave Gooden's fantastic writeup</a> about how AirBnB benefitted from email marketing tactics on Craigslist and wondered how prevalent the use of such tactics was. (It'd also be interesting to know if that happens a lot <em>more</em> after his blog post was published)</p>
 

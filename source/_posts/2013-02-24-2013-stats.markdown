@@ -1,0 +1,38 @@
+---
+layout: post
+title: "2013 Stats"
+date: 2013-02-24 10:54
+comments: true
+categories: rocketlease
+---
+We process tenant screening reports for property managers and landlords.
+
+That include credit reports, criminal background checks, and court eviction records.
+
+Generally, the most important of these is the credit report.  The 2 most common patterns are:
+
+1. Request ONLY a credit report ($15)
+2. Request a package of credit+criminal+evicion ($35)
+
+In the 53 days from 1/1/2013 to 2/23/2012, we have processed:
+
+* 57 "packages" and 34 "credit only" requests for a total of 91 paid applications processed
+* At least one request on 43 out of 53 days
+* from 29 customers (15 old customers who joined the site prior to 1/1/2013, 14 new customers who joined the site after 1/1/2013)
+* New customers found us: 9 via google, 2 via yahoo, 3 going directly to the site.
+* Old customers generated approximately 2/3 of that volume (138 reports, 59 credit VS 67 reports, 32 crd)
+* For a total of $2505 in gross revenue
+* After the vendor cost of reports and stripe payment processing fees, that results in
+* $1064.27 gross profits left to pay cost of operations (hosting, tools like ticket and repo hosting, chat tools, customer.io, analytics tools, advertising, staff, blog writing, office space)
+
+That works out to:
+
+* Applications: 1.7 applications/day, 51/month
+* Revenue: $47/day, $1410/month
+* Gross Profits: $20/day, $600/mo
+
+**To start breaking even, this needs to become ~8x bigger than it currently is.**
+
+That sounds a bit scary, but in our biggest month to date was Nov 2012, we did 209 applications, which is half way to the goal line. At the time, we were running a bunch of different approaches to acquire users, but most of them were naive and unprofitable.
+
+Currently running a few new ideas for getting better sustainable traffic/growth, including re-implentations of 2012 failures.  Excited about what's coming up, though also getting tired of the frustration of seeing so many failed tests. I'm definitely still bullish, but it can become tiresome because it feels like it's taking forever.

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rocketlease | ezl]]></title>
   <link href="http://www.ezliu.com//blog/categories/rocketlease/atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-02-21T13:25:43-05:00</updated>
+  <updated>2013-02-24T11:17:20-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2013 Stats]]></title>
+    <link href="http://www.ezliu.com//blog/2013-stats/"/>
+    <updated>2013-02-24T10:54:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/2013-stats</id>
+    <content type="html"><![CDATA[<p>We process tenant screening reports for property managers and landlords.</p>
+
+<p>That include credit reports, criminal background checks, and court eviction records.</p>
+
+<p>Generally, the most important of these is the credit report.  The 2 most common patterns are:</p>
+
+<ol>
+<li>Request ONLY a credit report ($15)</li>
+<li>Request a package of credit+criminal+evicion ($35)</li>
+</ol>
+
+
+<p>In the 53 days from 1/1/2013 to 2/23/2012, we have processed:</p>
+
+<ul>
+<li>57 "packages" and 34 "credit only" requests for a total of 91 paid applications processed</li>
+<li>At least one request on 43 out of 53 days</li>
+<li>from 29 customers (15 old customers who joined the site prior to 1/1/2013, 14 new customers who joined the site after 1/1/2013)</li>
+<li>New customers found us: 9 via google, 2 via yahoo, 3 going directly to the site.</li>
+<li>Old customers generated approximately 2/3 of that volume (138 reports, 59 credit VS 67 reports, 32 crd)</li>
+<li>For a total of $2505 in gross revenue</li>
+<li>After the vendor cost of reports and stripe payment processing fees, that results in</li>
+<li>$1064.27 gross profits left to pay cost of operations (hosting, tools like ticket and repo hosting, chat tools, customer.io, analytics tools, advertising, staff, blog writing, office space)</li>
+</ul>
+
+
+<p>That works out to:</p>
+
+<ul>
+<li>Applications: 1.7 applications/day, 51/month</li>
+<li>Revenue: $47/day, $1410/month</li>
+<li>Gross Profits: $20/day, $600/mo</li>
+</ul>
+
+
+<p><strong>To start breaking even, this needs to become ~8x bigger than it currently is.</strong></p>
+
+<p>That sounds a bit scary, but in our biggest month to date was Nov 2012, we did 209 applications, which is half way to the goal line. At the time, we were running a bunch of different approaches to acquire users, but most of them were naive and unprofitable.</p>
+
+<p>Currently running a few new ideas for getting better sustainable traffic/growth, including re-implentations of 2012 failures.  Excited about what's coming up, though also getting tired of the frustration of seeing so many failed tests. I'm definitely still bullish, but it can become tiresome because it feels like it's taking forever.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How To Hire Salespeople For A Startup]]></title>
@@ -395,24 +443,6 @@ you'll be wasting your own time and resources, so you'd rather filter aggressive
 
 
 <p><a href="/images/reddit_results_full.png">See the complete Reddit campaign results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Embeddable applications]]></title>
-    <link href="http://www.ezliu.com//blog/embeddable-applications/"/>
-    <updated>2012-08-29T00:00:00-04:00</updated>
-    <id>http://www.ezliu.com//blog/embeddable-applications</id>
-    <content type="html"><![CDATA[<pre><code>    &lt;style&gt;
-        iframe { width: 100%; height: 100%; }
-        div { width: 600px; height: 400px; margin: auto; }
-    &lt;/style&gt;
-    &lt;h1&gt;Hello!&lt;/h1&gt;
-    Now we can embed rocketlease applications in other pages!
-    &lt;div&gt;
-        &lt;script src="http://code.jquery.com/jquery-1.8.0.min.js"&gt;&lt;/script&gt;&lt;div id="rocketlease"&gt;&lt;a href="http://www.rocketlease.com"&gt;Powered by RocketLease&lt;/a&gt;&lt;/div&gt;&lt;script src="http://integration.rocketlease.com/app/2-2/embedded.js"&gt;&lt;/script&gt;
-    &lt;/div&gt;
-</code></pre>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[ezl]]></title>
   <link href="http://www.ezliu.com//atom.xml" rel="self"/>
   <link href="http://www.ezliu.com//"/>
-  <updated>2013-02-21T13:25:43-05:00</updated>
+  <updated>2013-02-24T11:17:20-05:00</updated>
   <id>http://www.ezliu.com//</id>
   <author>
     <name><![CDATA[ezl]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2013 Stats]]></title>
+    <link href="http://www.ezliu.com//blog/2013-stats/"/>
+    <updated>2013-02-24T10:54:00-05:00</updated>
+    <id>http://www.ezliu.com//blog/2013-stats</id>
+    <content type="html"><![CDATA[<p>We process tenant screening reports for property managers and landlords.</p>
+
+<p>That include credit reports, criminal background checks, and court eviction records.</p>
+
+<p>Generally, the most important of these is the credit report.  The 2 most common patterns are:</p>
+
+<ol>
+<li>Request ONLY a credit report ($15)</li>
+<li>Request a package of credit+criminal+evicion ($35)</li>
+</ol>
+
+
+<p>In the 53 days from 1/1/2013 to 2/23/2012, we have processed:</p>
+
+<ul>
+<li>57 &#8220;packages&#8221; and 34 &#8220;credit only&#8221; requests for a total of 91 paid applications processed</li>
+<li>At least one request on 43 out of 53 days</li>
+<li>from 29 customers (15 old customers who joined the site prior to 1/1/2013, 14 new customers who joined the site after 1/1/2013)</li>
+<li>New customers found us: 9 via google, 2 via yahoo, 3 going directly to the site.</li>
+<li>Old customers generated approximately 2/3 of that volume (138 reports, 59 credit VS 67 reports, 32 crd)</li>
+<li>For a total of $2505 in gross revenue</li>
+<li>After the vendor cost of reports and stripe payment processing fees, that results in</li>
+<li>$1064.27 gross profits left to pay cost of operations (hosting, tools like ticket and repo hosting, chat tools, customer.io, analytics tools, advertising, staff, blog writing, office space)</li>
+</ul>
+
+
+<p>That works out to:</p>
+
+<ul>
+<li>Applications: 1.7 applications/day, 51/month</li>
+<li>Revenue: $47/day, $1410/month</li>
+<li>Gross Profits: $20/day, $600/mo</li>
+</ul>
+
+
+<p><strong>To start breaking even, this needs to become ~8x bigger than it currently is.</strong></p>
+
+<p>That sounds a bit scary, but in our biggest month to date was Nov 2012, we did 209 applications, which is half way to the goal line. At the time, we were running a bunch of different approaches to acquire users, but most of them were naive and unprofitable.</p>
+
+<p>Currently running a few new ideas for getting better sustainable traffic/growth, including re-implentations of 2012 failures.  Excited about what&#8217;s coming up, though also getting tired of the frustration of seeing so many failed tests. I&#8217;m definitely still bullish, but it can become tiresome because it feels like it&#8217;s taking forever.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Talking to Robots]]></title>
@@ -1632,39 +1680,6 @@ to say &#8220;use this formula&#8221;, you don&#8217;t <em>really</em> understan
 <li>imported from wordpress (still links to the original images, which will almost certainly break, and I don&#8217;t care)</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This is Another post]]></title>
-    <link href="http://www.ezliu.com//blog/this-is-another-post/"/>
-    <updated>2012-09-14T05:50:00-04:00</updated>
-    <id>http://www.ezliu.com//blog/this-is-another-post</id>
-    <content type="html"><![CDATA[<p>This is the song la la alsdjflasd kjfalsdk jflaskd
-sadfjlkadsfhlasd
-asdhfkaljfhlaksdjfh
-kajsdhfklasjdfhlasdkfh</p>
-
-<p>======================</p>
-
-<p>This is an example of a note</p>
-
-<div class="note">
-
-asdfa asd fashdkj fhasdkf ha
-
-aslfkdjs hflaksd hfas
-a hsjkldf ahsdl
- aklsjfhalksdjf halskdjfha lskdjfh asldkj fhasdkljf ahsdkl fahs
-
-</div>
-
-
-<p>once upon a time i went to work and in the morning i had to walk to the brown line stop and take the traion in to the loop then i exit at the van buren stop which is where my office is.</p>
-
-<h2>Test header 2</h2>
-
-<p>then I ate some cheese for breakfast because it is creamy and delicious. fatty.</p>
 ]]></content>
   </entry>
   

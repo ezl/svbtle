@@ -12,7 +12,7 @@ That include credit reports, criminal background checks, and court eviction reco
 Generally, the most important of these is the credit report.  The 2 most common patterns are:
 
 1. Request ONLY a credit report ($15)
-2. Request a package of credit+criminal+evicion ($35)
+2. Request a package of credit + criminal + eviction ($35)
 
 In the 53 days from 1/1/2013 to 2/23/2012, we have processed:
 
